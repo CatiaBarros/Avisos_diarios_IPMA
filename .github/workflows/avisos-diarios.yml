@@ -32,6 +32,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          touch *.csv
           git add *.csv
           git commit -m "📦 Atualização diária de avisos IPMA - $(date -u +"%Y-%m-%d")" || echo "Nenhuma alteração a commitar"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
