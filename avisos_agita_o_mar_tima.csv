@@ -1,37 +1,22 @@
-local,2025-06-01 11:00,2025-06-01 12:00,2025-06-01 13:00,2025-06-01 14:00,2025-06-01 15:00,2025-06-01 16:00,2025-06-01 17:00,2025-06-01 18:00,2025-06-01 19:00,2025-06-01 20:00,2025-06-01 21:00,2025-06-01 22:00,2025-06-01 23:00,2025-06-01 10:00
-Angra do Heroísmo,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Aveiro,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Beja,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Braga,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Bragança,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Castelo Branco,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Coimbra,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Faro,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Funchal,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Guarda,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Guimarães,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Horta,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Leiria,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Lisboa,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Loulé,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Madalena,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Penhas Douradas,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Ponta Delgada,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Portalegre,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Portimão,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Porto,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Porto Santo,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Sagres,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Santa Cruz da Graciosa,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Santa Cruz das Flores,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Santarém,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Setúbal,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Sines,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Velas,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Viana do Castelo,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Vila Real,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Vila do Corvo,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Vila do Porto,green,green,green,green,green,green,green,green,green,green,green,green,green,NA
-Viseu,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Évora,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+local,00:00,01:00,02:00,03:00,04:00,05:00,06:00,07:00,08:00,09:00,10:00,11:00,12:00,13:00,14:00,15:00,16:00,17:00,18:00,19:00,20:00,21:00,22:00,23:00
+Aveiro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Beja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Braga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Bragança,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Castelo Branco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Coimbra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Évora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Faro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Guarda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Leiria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Lisboa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Penhas Douradas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Portalegre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Portimão,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Porto,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Santarém,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Setúbal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Sines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Viana do Castelo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Vila Real,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Viseu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,green,green,green,green,green,green,green,green,green,green,green,green,green,green
