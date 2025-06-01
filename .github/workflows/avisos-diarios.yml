@@ -35,7 +35,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git status
           git add *.csv
-          git commit --allow-empty -m "📦 Atualização diária de avisos IPMA - $(date -u +"%Y-%m-%d")"
+          TZ=Europe/Lisbon git commit --allow-empty -m "📦 Atualização diária de avisos IPMA - $(date +"%Y-%m-%d")"
           git log -1 --oneline
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:main
