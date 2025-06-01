@@ -2,7 +2,7 @@ name: Gerar CSVs de Avisos IPMA
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Todos os dias à meia-noite UTC
+    - cron: '0 23 * * *'  # Todos os dias à 00h de Portugal (23h UTC)
   workflow_dispatch:      # Também permite execução manual
 
 jobs:
