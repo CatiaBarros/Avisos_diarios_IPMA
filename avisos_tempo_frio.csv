@@ -1,22 +1,22 @@
 local,00:00,01:00,02:00,03:00,04:00,05:00,06:00,07:00,08:00,09:00,10:00,11:00,12:00,13:00,14:00,15:00,16:00,17:00,18:00,19:00,20:00,21:00,22:00,23:00
-Aveiro,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Beja,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Braga,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Bragança,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Castelo Branco,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Coimbra,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Évora,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Faro,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Guarda,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Leiria,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Lisboa,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Penhas Douradas,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Portalegre,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Portimão,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Porto,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Santarém,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Setúbal,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Sines,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Viana do Castelo,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Vila Real,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
-Viseu,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green,green
+Aveiro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Beja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Braga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bragança,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Castelo Branco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Coimbra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Évora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Faro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Guarda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Leiria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Lisboa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Penhas Douradas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Portalegre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Portimão,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Porto,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Santarém,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Setúbal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Sines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Viana do Castelo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Vila Real,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
+Viseu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,1,1,1,1,1,1,1,1,1,1
