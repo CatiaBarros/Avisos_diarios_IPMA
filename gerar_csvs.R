@@ -28,6 +28,17 @@ distritos_df <- as.data.frame(dados_distritos$data)
 # Juntar avisos com nomes dos distritos
 avisos_com_local <- left_join(dados_avisos, distritos_df, by = "idAreaAviso")
 
+# Substituir níveis de alerta por valores numéricos
+avisos_com_local <- avisos_com_local %>%
+  mutate(
+    awarenessLevelID = recode(awarenessLevelID,
+                              "green" = 1,
+                              "yellow" = 2,
+                              "orange" = 3,
+                              "red" = 4,
+                              "grey" = 0)
+  )
+
 # Obter os tipos únicos de aviso
 tipos <- unique(avisos_com_local$awarenessTypeName)
 tipos <- tipos[!is.na(tipos)]  # remover NA
