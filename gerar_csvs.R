@@ -32,11 +32,11 @@ avisos_com_local <- left_join(dados_avisos, distritos_df, by = "idAreaAviso")
 avisos_com_local <- avisos_com_local %>%
   mutate(
     awarenessLevelID = recode(awarenessLevelID,
-                              "green" = "verde",
-                              "yellow" = "amarelo",
-                              "orange" = "laranja",
-                              "red" = "vermelho",
-                              "grey" = "cinzento")
+                              "green" = "1",
+                              "yellow" = "2",
+                              "orange" = "3",
+                              "red" = "4",
+                              "grey" = "0")
   )
 
 
