@@ -103,8 +103,9 @@ for (tipo in tipos) {
         is.na(nivel),
         "",
         paste0(
-          '<div style="background-color:', cor_aviso(nivel),
-          '; width:100%; height:100%;" title="', tooltip, '">', nivel, '</div>'
+          '<span title="', tooltip,
+          '" style="background-color:', cor_aviso(nivel),
+          '; display:block; width:100%; height:100%; text-align:center;">', nivel, '</span>'
         )
       )
     ) %>%
@@ -117,7 +118,7 @@ for (tipo in tipos) {
   # Só guardar se houver dados
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
-    write_csv(expandido, nome_ficheiro)
+    write_delim(expandido, nome_ficheiro, delim = ",", quote = "none", na = "")
     cat("✅ Ficheiro criado:", nome_ficheiro, "\n")
   } else {
     cat("⚠️ Sem dados para hoje em:", tipo, "\n")
