@@ -47,13 +47,12 @@ tipos <- tipos[!is.na(tipos)]  # remover NA
 # Horas do dia como fator ordenado
 horas_do_dia <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%H:%M")
 
-# Lista de locais permitidos
 locais_desejados <- c(
-  "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Faro",
-  "Guarda", "Leiria", "Lisboa", "Penhas Douradas", "Portalegre", "Portimão",
-  "Porto", "Santarém", "Setúbal", "Sines", "Viana do Castelo", "Vila Real",
-  "Viseu", "Évora"
+  "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Évora",
+  "Faro", "Guarda", "Leiria", "Lisboa", "Portalegre", "Porto",
+  "Santarém", "Setúbal", "Viana do Castelo", "Vila Real", "Viseu"
 )
+
 
 # Loop por cada tipo de aviso
 for (tipo in tipos) {
