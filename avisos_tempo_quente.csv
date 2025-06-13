@@ -1,22 +1,883 @@
 local,00:00,01:00,02:00,03:00,04:00,05:00,06:00,07:00,08:00,09:00,10:00,11:00,12:00,13:00,14:00,15:00,16:00,17:00,18:00,19:00,20:00,21:00,22:00,23:00
-Aveiro,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Beja,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Braga,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Bragança,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Castelo Branco,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Coimbra,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Évora,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Faro,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Guarda,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Leiria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Lisboa,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Penhas Douradas,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Portalegre,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Portimão,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Porto,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Santarém,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Setúbal,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Sines,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Viana do Castelo,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Vila Real,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-Viseu,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Aveiro,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Beja,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Braga,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Bragança,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Castelo Branco,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Coimbra,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Évora,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Faro,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Guarda,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Leiria,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Lisboa,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Portalegre,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Porto,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Santarém,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Setúbal,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Viana do Castelo,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Vila Real,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
+Viseu,"<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 00:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 01:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 02:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 03:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 04:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 05:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 06:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 07:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 08:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 09:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 10:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 11:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 12:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 13:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 14:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 15:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 16:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 17:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 18:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 19:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 20:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 21:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 22:00
+Nível: 1"">1</div>","<div style=""background-color:#d4e157; width:100%; height:100%;"" title=""Aviso: Tempo Quente
+Hora: 23:00
+Nível: 1"">1</div>"
