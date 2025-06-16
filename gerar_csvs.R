@@ -28,7 +28,7 @@ distritos_df <- as.data.frame(dados_distritos$data)
 # Juntar avisos com nomes dos distritos
 avisos_com_local <- left_join(dados_avisos, distritos_df, by = "idAreaAviso")
 
-# Traduzir os níveis de alerta para numérico
+# Traduzir os níveis de alerta para português
 avisos_com_local <- avisos_com_local %>%
   mutate(
     awarenessLevelID = recode(awarenessLevelID,
@@ -39,29 +39,21 @@ avisos_com_local <- avisos_com_local %>%
                               "grey" = "0")
   )
 
+
 # Obter os tipos únicos de aviso
 tipos <- unique(avisos_com_local$awarenessTypeName)
-tipos <- tipos[!is.na(tipos)]
+tipos <- tipos[!is.na(tipos)]  # remover NA
 
 # Horas do dia como fator ordenado
 horas_do_dia <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%H:%M")
 
+# Lista de locais permitidos
 locais_desejados <- c(
-  "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Évora",
-  "Faro", "Guarda", "Leiria", "Lisboa", "Portalegre", "Porto",
-  "Santarém", "Setúbal", "Viana do Castelo", "Vila Real", "Viseu"
+  "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Faro",
+  "Guarda", "Leiria", "Lisboa", "Penhas Douradas", "Portalegre", "Portimão",
+  "Porto", "Santarém", "Setúbal", "Sines", "Viana do Castelo", "Vila Real",
+  "Viseu", "Évora"
 )
-
-# Função para cor de fundo
-cor_aviso <- function(nivel) {
-  case_when(
-    nivel == 1 ~ "#d4e157",   # verde
-    nivel == 2 ~ "#fff176",   # amarelo
-    nivel == 3 ~ "#ffb74d",   # laranja
-    nivel == 4 ~ "#d32f2f",   # vermelho
-    TRUE ~ "#eeeeee"          # cinza claro (sem dados)
-  )
-}
 
 # Loop por cada tipo de aviso
 for (tipo in tipos) {
@@ -73,6 +65,7 @@ for (tipo in tipos) {
       startTime = ymd_hms(startTime, tz = "UTC"),
       endTime = ymd_hms(endTime, tz = "UTC")
     ) %>%
+    # Só incluir avisos que toquem o dia de hoje
     filter(as.Date(startTime) <= hoje & as.Date(endTime) >= hoje) %>%
     mutate(
       startTime = floor_date(startTime, unit = "hour"),
@@ -80,45 +73,29 @@ for (tipo in tipos) {
     ) %>%
     select(local, startTime, endTime, awarenessLevelID)
 
+  # Expandir intervalo de horas e preparar dados
   expandido <- tabela %>%
     rowwise() %>%
     mutate(datetime = list(seq(from = startTime, to = endTime, by = "1 hour"))) %>%
     unnest(datetime) %>%
     filter(as.Date(datetime) == hoje) %>%
-    mutate(
-      hora = format(datetime, "%H:%M"),
-      hora = factor(hora, levels = horas_do_dia),
-      awarenessLevelID = as.integer(awarenessLevelID)
-    ) %>%
+    mutate(hora = format(datetime, "%H:%M")) %>%
+    mutate(hora = factor(hora, levels = horas_do_dia)) %>%
+    select(local, hora, awarenessLevelID) %>%
     filter(local %in% locais_desejados) %>%
     group_by(local, hora) %>%
-    summarise(
-      nivel = max(awarenessLevelID, na.rm = TRUE),
-      tooltip = paste0("Aviso: ", tipo, "\nHora: ", hora, "\nNível: ", max(awarenessLevelID, na.rm = TRUE)),
-      .groups = "drop"
-    ) %>%
-    complete(local, hora, fill = list(nivel = NA, tooltip = "")) %>%
-    mutate(
-      html_cell = ifelse(
-        is.na(nivel),
-        "",
-        paste0(
-          '<span title="', tooltip,
-          '" style="background-color:', cor_aviso(nivel),
-          '; display:block; width:100%; height:100%; text-align:center;">', nivel, '</span>'
-        )
-      )
-    ) %>%
+    summarise(nivel = max(awarenessLevelID, na.rm = TRUE), .groups = "drop") %>%
+    ungroup() %>%
+    complete(local, hora, fill = list(nivel = NA)) %>%
     mutate(local_ord = stri_trans_general(local, "Latin-ASCII")) %>%
     arrange(local_ord, hora) %>%
     select(-local_ord) %>%
-    select(local, hora, html_cell) %>%
-    pivot_wider(names_from = hora, values_from = html_cell)
+    pivot_wider(names_from = hora, values_from = nivel)
 
-  # Só guardar se houver dados
+  # Só guarda se houver dados para hoje
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
-    write_delim(expandido, nome_ficheiro, delim = ",", quote = "none", na = "")
+    write_csv(expandido, nome_ficheiro)
     cat("✅ Ficheiro criado:", nome_ficheiro, "\n")
   } else {
     cat("⚠️ Sem dados para hoje em:", tipo, "\n")
