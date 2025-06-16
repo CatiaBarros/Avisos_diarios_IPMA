@@ -1,0 +1,505 @@
+x,y,cor,tooltip
+1,1,#C8C7BB,Aveiro às 00:00: ⚪ Sem informação
+2,1,#C8C7BB,Aveiro às 01:00: ⚪ Sem informação
+3,1,#C8C7BB,Aveiro às 02:00: ⚪ Sem informação
+4,1,#C8C7BB,Aveiro às 03:00: ⚪ Sem informação
+5,1,#C8C7BB,Aveiro às 04:00: ⚪ Sem informação
+6,1,#C8C7BB,Aveiro às 05:00: ⚪ Sem informação
+7,1,#B9D153,Aveiro às 06:00: 🟢 Verde
+8,1,#B9D153,Aveiro às 07:00: 🟢 Verde
+9,1,#B9D153,Aveiro às 08:00: 🟢 Verde
+10,1,#B9D153,Aveiro às 09:00: 🟢 Verde
+11,1,#B9D153,Aveiro às 10:00: 🟢 Verde
+12,1,#B9D153,Aveiro às 11:00: 🟢 Verde
+13,1,#B9D153,Aveiro às 12:00: 🟢 Verde
+14,1,#B9D153,Aveiro às 13:00: 🟢 Verde
+15,1,#B9D153,Aveiro às 14:00: 🟢 Verde
+16,1,#B9D153,Aveiro às 15:00: 🟢 Verde
+17,1,#B9D153,Aveiro às 16:00: 🟢 Verde
+18,1,#B9D153,Aveiro às 17:00: 🟢 Verde
+19,1,#B9D153,Aveiro às 18:00: 🟢 Verde
+20,1,#B9D153,Aveiro às 19:00: 🟢 Verde
+21,1,#B9D153,Aveiro às 20:00: 🟢 Verde
+22,1,#B9D153,Aveiro às 21:00: 🟢 Verde
+23,1,#B9D153,Aveiro às 22:00: 🟢 Verde
+24,1,#B9D153,Aveiro às 23:00: 🟢 Verde
+1,2,#C8C7BB,Beja às 00:00: ⚪ Sem informação
+2,2,#C8C7BB,Beja às 01:00: ⚪ Sem informação
+3,2,#C8C7BB,Beja às 02:00: ⚪ Sem informação
+4,2,#C8C7BB,Beja às 03:00: ⚪ Sem informação
+5,2,#C8C7BB,Beja às 04:00: ⚪ Sem informação
+6,2,#C8C7BB,Beja às 05:00: ⚪ Sem informação
+7,2,#B9D153,Beja às 06:00: 🟢 Verde
+8,2,#B9D153,Beja às 07:00: 🟢 Verde
+9,2,#B9D153,Beja às 08:00: 🟢 Verde
+10,2,#B9D153,Beja às 09:00: 🟢 Verde
+11,2,#B9D153,Beja às 10:00: 🟢 Verde
+12,2,#B9D153,Beja às 11:00: 🟢 Verde
+13,2,#B9D153,Beja às 12:00: 🟢 Verde
+14,2,#B9D153,Beja às 13:00: 🟢 Verde
+15,2,#B9D153,Beja às 14:00: 🟢 Verde
+16,2,#B9D153,Beja às 15:00: 🟢 Verde
+17,2,#B9D153,Beja às 16:00: 🟢 Verde
+18,2,#B9D153,Beja às 17:00: 🟢 Verde
+19,2,#B9D153,Beja às 18:00: 🟢 Verde
+20,2,#B9D153,Beja às 19:00: 🟢 Verde
+21,2,#B9D153,Beja às 20:00: 🟢 Verde
+22,2,#B9D153,Beja às 21:00: 🟢 Verde
+23,2,#B9D153,Beja às 22:00: 🟢 Verde
+24,2,#B9D153,Beja às 23:00: 🟢 Verde
+1,3,#C8C7BB,Braga às 00:00: ⚪ Sem informação
+2,3,#C8C7BB,Braga às 01:00: ⚪ Sem informação
+3,3,#C8C7BB,Braga às 02:00: ⚪ Sem informação
+4,3,#C8C7BB,Braga às 03:00: ⚪ Sem informação
+5,3,#C8C7BB,Braga às 04:00: ⚪ Sem informação
+6,3,#C8C7BB,Braga às 05:00: ⚪ Sem informação
+7,3,#B9D153,Braga às 06:00: 🟢 Verde
+8,3,#B9D153,Braga às 07:00: 🟢 Verde
+9,3,#B9D153,Braga às 08:00: 🟢 Verde
+10,3,#B9D153,Braga às 09:00: 🟢 Verde
+11,3,#B9D153,Braga às 10:00: 🟢 Verde
+12,3,#B9D153,Braga às 11:00: 🟢 Verde
+13,3,#B9D153,Braga às 12:00: 🟢 Verde
+14,3,#B9D153,Braga às 13:00: 🟢 Verde
+15,3,#B9D153,Braga às 14:00: 🟢 Verde
+16,3,#B9D153,Braga às 15:00: 🟢 Verde
+17,3,#B9D153,Braga às 16:00: 🟢 Verde
+18,3,#B9D153,Braga às 17:00: 🟢 Verde
+19,3,#B9D153,Braga às 18:00: 🟢 Verde
+20,3,#B9D153,Braga às 19:00: 🟢 Verde
+21,3,#B9D153,Braga às 20:00: 🟢 Verde
+22,3,#B9D153,Braga às 21:00: 🟢 Verde
+23,3,#B9D153,Braga às 22:00: 🟢 Verde
+24,3,#B9D153,Braga às 23:00: 🟢 Verde
+1,4,#C8C7BB,Bragança às 00:00: ⚪ Sem informação
+2,4,#C8C7BB,Bragança às 01:00: ⚪ Sem informação
+3,4,#C8C7BB,Bragança às 02:00: ⚪ Sem informação
+4,4,#C8C7BB,Bragança às 03:00: ⚪ Sem informação
+5,4,#C8C7BB,Bragança às 04:00: ⚪ Sem informação
+6,4,#C8C7BB,Bragança às 05:00: ⚪ Sem informação
+7,4,#B9D153,Bragança às 06:00: 🟢 Verde
+8,4,#B9D153,Bragança às 07:00: 🟢 Verde
+9,4,#B9D153,Bragança às 08:00: 🟢 Verde
+10,4,#B9D153,Bragança às 09:00: 🟢 Verde
+11,4,#B9D153,Bragança às 10:00: 🟢 Verde
+12,4,#B9D153,Bragança às 11:00: 🟢 Verde
+13,4,#B9D153,Bragança às 12:00: 🟢 Verde
+14,4,#B9D153,Bragança às 13:00: 🟢 Verde
+15,4,#B9D153,Bragança às 14:00: 🟢 Verde
+16,4,#B9D153,Bragança às 15:00: 🟢 Verde
+17,4,#B9D153,Bragança às 16:00: 🟢 Verde
+18,4,#B9D153,Bragança às 17:00: 🟢 Verde
+19,4,#B9D153,Bragança às 18:00: 🟢 Verde
+20,4,#B9D153,Bragança às 19:00: 🟢 Verde
+21,4,#B9D153,Bragança às 20:00: 🟢 Verde
+22,4,#B9D153,Bragança às 21:00: 🟢 Verde
+23,4,#B9D153,Bragança às 22:00: 🟢 Verde
+24,4,#B9D153,Bragança às 23:00: 🟢 Verde
+1,5,#C8C7BB,Castelo Branco às 00:00: ⚪ Sem informação
+2,5,#C8C7BB,Castelo Branco às 01:00: ⚪ Sem informação
+3,5,#C8C7BB,Castelo Branco às 02:00: ⚪ Sem informação
+4,5,#C8C7BB,Castelo Branco às 03:00: ⚪ Sem informação
+5,5,#C8C7BB,Castelo Branco às 04:00: ⚪ Sem informação
+6,5,#C8C7BB,Castelo Branco às 05:00: ⚪ Sem informação
+7,5,#B9D153,Castelo Branco às 06:00: 🟢 Verde
+8,5,#B9D153,Castelo Branco às 07:00: 🟢 Verde
+9,5,#B9D153,Castelo Branco às 08:00: 🟢 Verde
+10,5,#B9D153,Castelo Branco às 09:00: 🟢 Verde
+11,5,#B9D153,Castelo Branco às 10:00: 🟢 Verde
+12,5,#B9D153,Castelo Branco às 11:00: 🟢 Verde
+13,5,#B9D153,Castelo Branco às 12:00: 🟢 Verde
+14,5,#B9D153,Castelo Branco às 13:00: 🟢 Verde
+15,5,#B9D153,Castelo Branco às 14:00: 🟢 Verde
+16,5,#B9D153,Castelo Branco às 15:00: 🟢 Verde
+17,5,#B9D153,Castelo Branco às 16:00: 🟢 Verde
+18,5,#B9D153,Castelo Branco às 17:00: 🟢 Verde
+19,5,#B9D153,Castelo Branco às 18:00: 🟢 Verde
+20,5,#B9D153,Castelo Branco às 19:00: 🟢 Verde
+21,5,#B9D153,Castelo Branco às 20:00: 🟢 Verde
+22,5,#B9D153,Castelo Branco às 21:00: 🟢 Verde
+23,5,#B9D153,Castelo Branco às 22:00: 🟢 Verde
+24,5,#B9D153,Castelo Branco às 23:00: 🟢 Verde
+1,6,#C8C7BB,Coimbra às 00:00: ⚪ Sem informação
+2,6,#C8C7BB,Coimbra às 01:00: ⚪ Sem informação
+3,6,#C8C7BB,Coimbra às 02:00: ⚪ Sem informação
+4,6,#C8C7BB,Coimbra às 03:00: ⚪ Sem informação
+5,6,#C8C7BB,Coimbra às 04:00: ⚪ Sem informação
+6,6,#C8C7BB,Coimbra às 05:00: ⚪ Sem informação
+7,6,#B9D153,Coimbra às 06:00: 🟢 Verde
+8,6,#B9D153,Coimbra às 07:00: 🟢 Verde
+9,6,#B9D153,Coimbra às 08:00: 🟢 Verde
+10,6,#B9D153,Coimbra às 09:00: 🟢 Verde
+11,6,#B9D153,Coimbra às 10:00: 🟢 Verde
+12,6,#B9D153,Coimbra às 11:00: 🟢 Verde
+13,6,#B9D153,Coimbra às 12:00: 🟢 Verde
+14,6,#B9D153,Coimbra às 13:00: 🟢 Verde
+15,6,#B9D153,Coimbra às 14:00: 🟢 Verde
+16,6,#B9D153,Coimbra às 15:00: 🟢 Verde
+17,6,#B9D153,Coimbra às 16:00: 🟢 Verde
+18,6,#B9D153,Coimbra às 17:00: 🟢 Verde
+19,6,#B9D153,Coimbra às 18:00: 🟢 Verde
+20,6,#B9D153,Coimbra às 19:00: 🟢 Verde
+21,6,#B9D153,Coimbra às 20:00: 🟢 Verde
+22,6,#B9D153,Coimbra às 21:00: 🟢 Verde
+23,6,#B9D153,Coimbra às 22:00: 🟢 Verde
+24,6,#B9D153,Coimbra às 23:00: 🟢 Verde
+1,7,#C8C7BB,Évora às 00:00: ⚪ Sem informação
+2,7,#C8C7BB,Évora às 01:00: ⚪ Sem informação
+3,7,#C8C7BB,Évora às 02:00: ⚪ Sem informação
+4,7,#C8C7BB,Évora às 03:00: ⚪ Sem informação
+5,7,#C8C7BB,Évora às 04:00: ⚪ Sem informação
+6,7,#C8C7BB,Évora às 05:00: ⚪ Sem informação
+7,7,#B9D153,Évora às 06:00: 🟢 Verde
+8,7,#B9D153,Évora às 07:00: 🟢 Verde
+9,7,#B9D153,Évora às 08:00: 🟢 Verde
+10,7,#B9D153,Évora às 09:00: 🟢 Verde
+11,7,#B9D153,Évora às 10:00: 🟢 Verde
+12,7,#B9D153,Évora às 11:00: 🟢 Verde
+13,7,#B9D153,Évora às 12:00: 🟢 Verde
+14,7,#B9D153,Évora às 13:00: 🟢 Verde
+15,7,#B9D153,Évora às 14:00: 🟢 Verde
+16,7,#B9D153,Évora às 15:00: 🟢 Verde
+17,7,#B9D153,Évora às 16:00: 🟢 Verde
+18,7,#B9D153,Évora às 17:00: 🟢 Verde
+19,7,#B9D153,Évora às 18:00: 🟢 Verde
+20,7,#B9D153,Évora às 19:00: 🟢 Verde
+21,7,#B9D153,Évora às 20:00: 🟢 Verde
+22,7,#B9D153,Évora às 21:00: 🟢 Verde
+23,7,#B9D153,Évora às 22:00: 🟢 Verde
+24,7,#B9D153,Évora às 23:00: 🟢 Verde
+1,8,#C8C7BB,Faro às 00:00: ⚪ Sem informação
+2,8,#C8C7BB,Faro às 01:00: ⚪ Sem informação
+3,8,#C8C7BB,Faro às 02:00: ⚪ Sem informação
+4,8,#C8C7BB,Faro às 03:00: ⚪ Sem informação
+5,8,#C8C7BB,Faro às 04:00: ⚪ Sem informação
+6,8,#C8C7BB,Faro às 05:00: ⚪ Sem informação
+7,8,#B9D153,Faro às 06:00: 🟢 Verde
+8,8,#B9D153,Faro às 07:00: 🟢 Verde
+9,8,#B9D153,Faro às 08:00: 🟢 Verde
+10,8,#B9D153,Faro às 09:00: 🟢 Verde
+11,8,#B9D153,Faro às 10:00: 🟢 Verde
+12,8,#B9D153,Faro às 11:00: 🟢 Verde
+13,8,#B9D153,Faro às 12:00: 🟢 Verde
+14,8,#B9D153,Faro às 13:00: 🟢 Verde
+15,8,#B9D153,Faro às 14:00: 🟢 Verde
+16,8,#B9D153,Faro às 15:00: 🟢 Verde
+17,8,#B9D153,Faro às 16:00: 🟢 Verde
+18,8,#B9D153,Faro às 17:00: 🟢 Verde
+19,8,#B9D153,Faro às 18:00: 🟢 Verde
+20,8,#B9D153,Faro às 19:00: 🟢 Verde
+21,8,#B9D153,Faro às 20:00: 🟢 Verde
+22,8,#B9D153,Faro às 21:00: 🟢 Verde
+23,8,#B9D153,Faro às 22:00: 🟢 Verde
+24,8,#B9D153,Faro às 23:00: 🟢 Verde
+1,9,#C8C7BB,Guarda às 00:00: ⚪ Sem informação
+2,9,#C8C7BB,Guarda às 01:00: ⚪ Sem informação
+3,9,#C8C7BB,Guarda às 02:00: ⚪ Sem informação
+4,9,#C8C7BB,Guarda às 03:00: ⚪ Sem informação
+5,9,#C8C7BB,Guarda às 04:00: ⚪ Sem informação
+6,9,#C8C7BB,Guarda às 05:00: ⚪ Sem informação
+7,9,#B9D153,Guarda às 06:00: 🟢 Verde
+8,9,#B9D153,Guarda às 07:00: 🟢 Verde
+9,9,#B9D153,Guarda às 08:00: 🟢 Verde
+10,9,#B9D153,Guarda às 09:00: 🟢 Verde
+11,9,#B9D153,Guarda às 10:00: 🟢 Verde
+12,9,#B9D153,Guarda às 11:00: 🟢 Verde
+13,9,#B9D153,Guarda às 12:00: 🟢 Verde
+14,9,#B9D153,Guarda às 13:00: 🟢 Verde
+15,9,#B9D153,Guarda às 14:00: 🟢 Verde
+16,9,#B9D153,Guarda às 15:00: 🟢 Verde
+17,9,#B9D153,Guarda às 16:00: 🟢 Verde
+18,9,#B9D153,Guarda às 17:00: 🟢 Verde
+19,9,#B9D153,Guarda às 18:00: 🟢 Verde
+20,9,#B9D153,Guarda às 19:00: 🟢 Verde
+21,9,#B9D153,Guarda às 20:00: 🟢 Verde
+22,9,#B9D153,Guarda às 21:00: 🟢 Verde
+23,9,#B9D153,Guarda às 22:00: 🟢 Verde
+24,9,#B9D153,Guarda às 23:00: 🟢 Verde
+1,10,#C8C7BB,Leiria às 00:00: ⚪ Sem informação
+2,10,#C8C7BB,Leiria às 01:00: ⚪ Sem informação
+3,10,#C8C7BB,Leiria às 02:00: ⚪ Sem informação
+4,10,#C8C7BB,Leiria às 03:00: ⚪ Sem informação
+5,10,#C8C7BB,Leiria às 04:00: ⚪ Sem informação
+6,10,#C8C7BB,Leiria às 05:00: ⚪ Sem informação
+7,10,#B9D153,Leiria às 06:00: 🟢 Verde
+8,10,#B9D153,Leiria às 07:00: 🟢 Verde
+9,10,#B9D153,Leiria às 08:00: 🟢 Verde
+10,10,#B9D153,Leiria às 09:00: 🟢 Verde
+11,10,#B9D153,Leiria às 10:00: 🟢 Verde
+12,10,#B9D153,Leiria às 11:00: 🟢 Verde
+13,10,#B9D153,Leiria às 12:00: 🟢 Verde
+14,10,#B9D153,Leiria às 13:00: 🟢 Verde
+15,10,#B9D153,Leiria às 14:00: 🟢 Verde
+16,10,#B9D153,Leiria às 15:00: 🟢 Verde
+17,10,#B9D153,Leiria às 16:00: 🟢 Verde
+18,10,#B9D153,Leiria às 17:00: 🟢 Verde
+19,10,#B9D153,Leiria às 18:00: 🟢 Verde
+20,10,#B9D153,Leiria às 19:00: 🟢 Verde
+21,10,#B9D153,Leiria às 20:00: 🟢 Verde
+22,10,#B9D153,Leiria às 21:00: 🟢 Verde
+23,10,#B9D153,Leiria às 22:00: 🟢 Verde
+24,10,#B9D153,Leiria às 23:00: 🟢 Verde
+1,11,#C8C7BB,Lisboa às 00:00: ⚪ Sem informação
+2,11,#C8C7BB,Lisboa às 01:00: ⚪ Sem informação
+3,11,#C8C7BB,Lisboa às 02:00: ⚪ Sem informação
+4,11,#C8C7BB,Lisboa às 03:00: ⚪ Sem informação
+5,11,#C8C7BB,Lisboa às 04:00: ⚪ Sem informação
+6,11,#C8C7BB,Lisboa às 05:00: ⚪ Sem informação
+7,11,#B9D153,Lisboa às 06:00: 🟢 Verde
+8,11,#B9D153,Lisboa às 07:00: 🟢 Verde
+9,11,#B9D153,Lisboa às 08:00: 🟢 Verde
+10,11,#B9D153,Lisboa às 09:00: 🟢 Verde
+11,11,#B9D153,Lisboa às 10:00: 🟢 Verde
+12,11,#B9D153,Lisboa às 11:00: 🟢 Verde
+13,11,#B9D153,Lisboa às 12:00: 🟢 Verde
+14,11,#B9D153,Lisboa às 13:00: 🟢 Verde
+15,11,#B9D153,Lisboa às 14:00: 🟢 Verde
+16,11,#B9D153,Lisboa às 15:00: 🟢 Verde
+17,11,#B9D153,Lisboa às 16:00: 🟢 Verde
+18,11,#B9D153,Lisboa às 17:00: 🟢 Verde
+19,11,#B9D153,Lisboa às 18:00: 🟢 Verde
+20,11,#B9D153,Lisboa às 19:00: 🟢 Verde
+21,11,#B9D153,Lisboa às 20:00: 🟢 Verde
+22,11,#B9D153,Lisboa às 21:00: 🟢 Verde
+23,11,#B9D153,Lisboa às 22:00: 🟢 Verde
+24,11,#B9D153,Lisboa às 23:00: 🟢 Verde
+1,12,#C8C7BB,Penhas Douradas às 00:00: ⚪ Sem informação
+2,12,#C8C7BB,Penhas Douradas às 01:00: ⚪ Sem informação
+3,12,#C8C7BB,Penhas Douradas às 02:00: ⚪ Sem informação
+4,12,#C8C7BB,Penhas Douradas às 03:00: ⚪ Sem informação
+5,12,#C8C7BB,Penhas Douradas às 04:00: ⚪ Sem informação
+6,12,#C8C7BB,Penhas Douradas às 05:00: ⚪ Sem informação
+7,12,#B9D153,Penhas Douradas às 06:00: 🟢 Verde
+8,12,#B9D153,Penhas Douradas às 07:00: 🟢 Verde
+9,12,#B9D153,Penhas Douradas às 08:00: 🟢 Verde
+10,12,#B9D153,Penhas Douradas às 09:00: 🟢 Verde
+11,12,#B9D153,Penhas Douradas às 10:00: 🟢 Verde
+12,12,#B9D153,Penhas Douradas às 11:00: 🟢 Verde
+13,12,#B9D153,Penhas Douradas às 12:00: 🟢 Verde
+14,12,#B9D153,Penhas Douradas às 13:00: 🟢 Verde
+15,12,#B9D153,Penhas Douradas às 14:00: 🟢 Verde
+16,12,#B9D153,Penhas Douradas às 15:00: 🟢 Verde
+17,12,#B9D153,Penhas Douradas às 16:00: 🟢 Verde
+18,12,#B9D153,Penhas Douradas às 17:00: 🟢 Verde
+19,12,#B9D153,Penhas Douradas às 18:00: 🟢 Verde
+20,12,#B9D153,Penhas Douradas às 19:00: 🟢 Verde
+21,12,#B9D153,Penhas Douradas às 20:00: 🟢 Verde
+22,12,#B9D153,Penhas Douradas às 21:00: 🟢 Verde
+23,12,#B9D153,Penhas Douradas às 22:00: 🟢 Verde
+24,12,#B9D153,Penhas Douradas às 23:00: 🟢 Verde
+1,13,#C8C7BB,Portalegre às 00:00: ⚪ Sem informação
+2,13,#C8C7BB,Portalegre às 01:00: ⚪ Sem informação
+3,13,#C8C7BB,Portalegre às 02:00: ⚪ Sem informação
+4,13,#C8C7BB,Portalegre às 03:00: ⚪ Sem informação
+5,13,#C8C7BB,Portalegre às 04:00: ⚪ Sem informação
+6,13,#C8C7BB,Portalegre às 05:00: ⚪ Sem informação
+7,13,#B9D153,Portalegre às 06:00: 🟢 Verde
+8,13,#B9D153,Portalegre às 07:00: 🟢 Verde
+9,13,#B9D153,Portalegre às 08:00: 🟢 Verde
+10,13,#B9D153,Portalegre às 09:00: 🟢 Verde
+11,13,#B9D153,Portalegre às 10:00: 🟢 Verde
+12,13,#B9D153,Portalegre às 11:00: 🟢 Verde
+13,13,#B9D153,Portalegre às 12:00: 🟢 Verde
+14,13,#B9D153,Portalegre às 13:00: 🟢 Verde
+15,13,#B9D153,Portalegre às 14:00: 🟢 Verde
+16,13,#B9D153,Portalegre às 15:00: 🟢 Verde
+17,13,#B9D153,Portalegre às 16:00: 🟢 Verde
+18,13,#B9D153,Portalegre às 17:00: 🟢 Verde
+19,13,#B9D153,Portalegre às 18:00: 🟢 Verde
+20,13,#B9D153,Portalegre às 19:00: 🟢 Verde
+21,13,#B9D153,Portalegre às 20:00: 🟢 Verde
+22,13,#B9D153,Portalegre às 21:00: 🟢 Verde
+23,13,#B9D153,Portalegre às 22:00: 🟢 Verde
+24,13,#B9D153,Portalegre às 23:00: 🟢 Verde
+1,14,#C8C7BB,Portimão às 00:00: ⚪ Sem informação
+2,14,#C8C7BB,Portimão às 01:00: ⚪ Sem informação
+3,14,#C8C7BB,Portimão às 02:00: ⚪ Sem informação
+4,14,#C8C7BB,Portimão às 03:00: ⚪ Sem informação
+5,14,#C8C7BB,Portimão às 04:00: ⚪ Sem informação
+6,14,#C8C7BB,Portimão às 05:00: ⚪ Sem informação
+7,14,#B9D153,Portimão às 06:00: 🟢 Verde
+8,14,#B9D153,Portimão às 07:00: 🟢 Verde
+9,14,#B9D153,Portimão às 08:00: 🟢 Verde
+10,14,#B9D153,Portimão às 09:00: 🟢 Verde
+11,14,#B9D153,Portimão às 10:00: 🟢 Verde
+12,14,#B9D153,Portimão às 11:00: 🟢 Verde
+13,14,#B9D153,Portimão às 12:00: 🟢 Verde
+14,14,#B9D153,Portimão às 13:00: 🟢 Verde
+15,14,#B9D153,Portimão às 14:00: 🟢 Verde
+16,14,#B9D153,Portimão às 15:00: 🟢 Verde
+17,14,#B9D153,Portimão às 16:00: 🟢 Verde
+18,14,#B9D153,Portimão às 17:00: 🟢 Verde
+19,14,#B9D153,Portimão às 18:00: 🟢 Verde
+20,14,#B9D153,Portimão às 19:00: 🟢 Verde
+21,14,#B9D153,Portimão às 20:00: 🟢 Verde
+22,14,#B9D153,Portimão às 21:00: 🟢 Verde
+23,14,#B9D153,Portimão às 22:00: 🟢 Verde
+24,14,#B9D153,Portimão às 23:00: 🟢 Verde
+1,15,#C8C7BB,Porto às 00:00: ⚪ Sem informação
+2,15,#C8C7BB,Porto às 01:00: ⚪ Sem informação
+3,15,#C8C7BB,Porto às 02:00: ⚪ Sem informação
+4,15,#C8C7BB,Porto às 03:00: ⚪ Sem informação
+5,15,#C8C7BB,Porto às 04:00: ⚪ Sem informação
+6,15,#C8C7BB,Porto às 05:00: ⚪ Sem informação
+7,15,#B9D153,Porto às 06:00: 🟢 Verde
+8,15,#B9D153,Porto às 07:00: 🟢 Verde
+9,15,#B9D153,Porto às 08:00: 🟢 Verde
+10,15,#B9D153,Porto às 09:00: 🟢 Verde
+11,15,#B9D153,Porto às 10:00: 🟢 Verde
+12,15,#B9D153,Porto às 11:00: 🟢 Verde
+13,15,#B9D153,Porto às 12:00: 🟢 Verde
+14,15,#B9D153,Porto às 13:00: 🟢 Verde
+15,15,#B9D153,Porto às 14:00: 🟢 Verde
+16,15,#B9D153,Porto às 15:00: 🟢 Verde
+17,15,#B9D153,Porto às 16:00: 🟢 Verde
+18,15,#B9D153,Porto às 17:00: 🟢 Verde
+19,15,#B9D153,Porto às 18:00: 🟢 Verde
+20,15,#B9D153,Porto às 19:00: 🟢 Verde
+21,15,#B9D153,Porto às 20:00: 🟢 Verde
+22,15,#B9D153,Porto às 21:00: 🟢 Verde
+23,15,#B9D153,Porto às 22:00: 🟢 Verde
+24,15,#B9D153,Porto às 23:00: 🟢 Verde
+1,16,#C8C7BB,Santarém às 00:00: ⚪ Sem informação
+2,16,#C8C7BB,Santarém às 01:00: ⚪ Sem informação
+3,16,#C8C7BB,Santarém às 02:00: ⚪ Sem informação
+4,16,#C8C7BB,Santarém às 03:00: ⚪ Sem informação
+5,16,#C8C7BB,Santarém às 04:00: ⚪ Sem informação
+6,16,#C8C7BB,Santarém às 05:00: ⚪ Sem informação
+7,16,#B9D153,Santarém às 06:00: 🟢 Verde
+8,16,#B9D153,Santarém às 07:00: 🟢 Verde
+9,16,#B9D153,Santarém às 08:00: 🟢 Verde
+10,16,#B9D153,Santarém às 09:00: 🟢 Verde
+11,16,#B9D153,Santarém às 10:00: 🟢 Verde
+12,16,#B9D153,Santarém às 11:00: 🟢 Verde
+13,16,#B9D153,Santarém às 12:00: 🟢 Verde
+14,16,#B9D153,Santarém às 13:00: 🟢 Verde
+15,16,#B9D153,Santarém às 14:00: 🟢 Verde
+16,16,#B9D153,Santarém às 15:00: 🟢 Verde
+17,16,#B9D153,Santarém às 16:00: 🟢 Verde
+18,16,#B9D153,Santarém às 17:00: 🟢 Verde
+19,16,#B9D153,Santarém às 18:00: 🟢 Verde
+20,16,#B9D153,Santarém às 19:00: 🟢 Verde
+21,16,#B9D153,Santarém às 20:00: 🟢 Verde
+22,16,#B9D153,Santarém às 21:00: 🟢 Verde
+23,16,#B9D153,Santarém às 22:00: 🟢 Verde
+24,16,#B9D153,Santarém às 23:00: 🟢 Verde
+1,17,#C8C7BB,Setúbal às 00:00: ⚪ Sem informação
+2,17,#C8C7BB,Setúbal às 01:00: ⚪ Sem informação
+3,17,#C8C7BB,Setúbal às 02:00: ⚪ Sem informação
+4,17,#C8C7BB,Setúbal às 03:00: ⚪ Sem informação
+5,17,#C8C7BB,Setúbal às 04:00: ⚪ Sem informação
+6,17,#C8C7BB,Setúbal às 05:00: ⚪ Sem informação
+7,17,#B9D153,Setúbal às 06:00: 🟢 Verde
+8,17,#B9D153,Setúbal às 07:00: 🟢 Verde
+9,17,#B9D153,Setúbal às 08:00: 🟢 Verde
+10,17,#B9D153,Setúbal às 09:00: 🟢 Verde
+11,17,#B9D153,Setúbal às 10:00: 🟢 Verde
+12,17,#B9D153,Setúbal às 11:00: 🟢 Verde
+13,17,#B9D153,Setúbal às 12:00: 🟢 Verde
+14,17,#B9D153,Setúbal às 13:00: 🟢 Verde
+15,17,#B9D153,Setúbal às 14:00: 🟢 Verde
+16,17,#B9D153,Setúbal às 15:00: 🟢 Verde
+17,17,#B9D153,Setúbal às 16:00: 🟢 Verde
+18,17,#B9D153,Setúbal às 17:00: 🟢 Verde
+19,17,#B9D153,Setúbal às 18:00: 🟢 Verde
+20,17,#B9D153,Setúbal às 19:00: 🟢 Verde
+21,17,#B9D153,Setúbal às 20:00: 🟢 Verde
+22,17,#B9D153,Setúbal às 21:00: 🟢 Verde
+23,17,#B9D153,Setúbal às 22:00: 🟢 Verde
+24,17,#B9D153,Setúbal às 23:00: 🟢 Verde
+1,18,#C8C7BB,Sines às 00:00: ⚪ Sem informação
+2,18,#C8C7BB,Sines às 01:00: ⚪ Sem informação
+3,18,#C8C7BB,Sines às 02:00: ⚪ Sem informação
+4,18,#C8C7BB,Sines às 03:00: ⚪ Sem informação
+5,18,#C8C7BB,Sines às 04:00: ⚪ Sem informação
+6,18,#C8C7BB,Sines às 05:00: ⚪ Sem informação
+7,18,#B9D153,Sines às 06:00: 🟢 Verde
+8,18,#B9D153,Sines às 07:00: 🟢 Verde
+9,18,#B9D153,Sines às 08:00: 🟢 Verde
+10,18,#B9D153,Sines às 09:00: 🟢 Verde
+11,18,#B9D153,Sines às 10:00: 🟢 Verde
+12,18,#B9D153,Sines às 11:00: 🟢 Verde
+13,18,#B9D153,Sines às 12:00: 🟢 Verde
+14,18,#B9D153,Sines às 13:00: 🟢 Verde
+15,18,#B9D153,Sines às 14:00: 🟢 Verde
+16,18,#B9D153,Sines às 15:00: 🟢 Verde
+17,18,#B9D153,Sines às 16:00: 🟢 Verde
+18,18,#B9D153,Sines às 17:00: 🟢 Verde
+19,18,#B9D153,Sines às 18:00: 🟢 Verde
+20,18,#B9D153,Sines às 19:00: 🟢 Verde
+21,18,#B9D153,Sines às 20:00: 🟢 Verde
+22,18,#B9D153,Sines às 21:00: 🟢 Verde
+23,18,#B9D153,Sines às 22:00: 🟢 Verde
+24,18,#B9D153,Sines às 23:00: 🟢 Verde
+1,19,#C8C7BB,Viana do Castelo às 00:00: ⚪ Sem informação
+2,19,#C8C7BB,Viana do Castelo às 01:00: ⚪ Sem informação
+3,19,#C8C7BB,Viana do Castelo às 02:00: ⚪ Sem informação
+4,19,#C8C7BB,Viana do Castelo às 03:00: ⚪ Sem informação
+5,19,#C8C7BB,Viana do Castelo às 04:00: ⚪ Sem informação
+6,19,#C8C7BB,Viana do Castelo às 05:00: ⚪ Sem informação
+7,19,#B9D153,Viana do Castelo às 06:00: 🟢 Verde
+8,19,#B9D153,Viana do Castelo às 07:00: 🟢 Verde
+9,19,#B9D153,Viana do Castelo às 08:00: 🟢 Verde
+10,19,#B9D153,Viana do Castelo às 09:00: 🟢 Verde
+11,19,#B9D153,Viana do Castelo às 10:00: 🟢 Verde
+12,19,#B9D153,Viana do Castelo às 11:00: 🟢 Verde
+13,19,#B9D153,Viana do Castelo às 12:00: 🟢 Verde
+14,19,#B9D153,Viana do Castelo às 13:00: 🟢 Verde
+15,19,#B9D153,Viana do Castelo às 14:00: 🟢 Verde
+16,19,#B9D153,Viana do Castelo às 15:00: 🟢 Verde
+17,19,#B9D153,Viana do Castelo às 16:00: 🟢 Verde
+18,19,#B9D153,Viana do Castelo às 17:00: 🟢 Verde
+19,19,#B9D153,Viana do Castelo às 18:00: 🟢 Verde
+20,19,#B9D153,Viana do Castelo às 19:00: 🟢 Verde
+21,19,#B9D153,Viana do Castelo às 20:00: 🟢 Verde
+22,19,#B9D153,Viana do Castelo às 21:00: 🟢 Verde
+23,19,#B9D153,Viana do Castelo às 22:00: 🟢 Verde
+24,19,#B9D153,Viana do Castelo às 23:00: 🟢 Verde
+1,20,#C8C7BB,Vila Real às 00:00: ⚪ Sem informação
+2,20,#C8C7BB,Vila Real às 01:00: ⚪ Sem informação
+3,20,#C8C7BB,Vila Real às 02:00: ⚪ Sem informação
+4,20,#C8C7BB,Vila Real às 03:00: ⚪ Sem informação
+5,20,#C8C7BB,Vila Real às 04:00: ⚪ Sem informação
+6,20,#C8C7BB,Vila Real às 05:00: ⚪ Sem informação
+7,20,#B9D153,Vila Real às 06:00: 🟢 Verde
+8,20,#B9D153,Vila Real às 07:00: 🟢 Verde
+9,20,#B9D153,Vila Real às 08:00: 🟢 Verde
+10,20,#B9D153,Vila Real às 09:00: 🟢 Verde
+11,20,#B9D153,Vila Real às 10:00: 🟢 Verde
+12,20,#B9D153,Vila Real às 11:00: 🟢 Verde
+13,20,#B9D153,Vila Real às 12:00: 🟢 Verde
+14,20,#B9D153,Vila Real às 13:00: 🟢 Verde
+15,20,#B9D153,Vila Real às 14:00: 🟢 Verde
+16,20,#B9D153,Vila Real às 15:00: 🟢 Verde
+17,20,#B9D153,Vila Real às 16:00: 🟢 Verde
+18,20,#B9D153,Vila Real às 17:00: 🟢 Verde
+19,20,#B9D153,Vila Real às 18:00: 🟢 Verde
+20,20,#B9D153,Vila Real às 19:00: 🟢 Verde
+21,20,#B9D153,Vila Real às 20:00: 🟢 Verde
+22,20,#B9D153,Vila Real às 21:00: 🟢 Verde
+23,20,#B9D153,Vila Real às 22:00: 🟢 Verde
+24,20,#B9D153,Vila Real às 23:00: 🟢 Verde
+1,21,#C8C7BB,Viseu às 00:00: ⚪ Sem informação
+2,21,#C8C7BB,Viseu às 01:00: ⚪ Sem informação
+3,21,#C8C7BB,Viseu às 02:00: ⚪ Sem informação
+4,21,#C8C7BB,Viseu às 03:00: ⚪ Sem informação
+5,21,#C8C7BB,Viseu às 04:00: ⚪ Sem informação
+6,21,#C8C7BB,Viseu às 05:00: ⚪ Sem informação
+7,21,#B9D153,Viseu às 06:00: 🟢 Verde
+8,21,#B9D153,Viseu às 07:00: 🟢 Verde
+9,21,#B9D153,Viseu às 08:00: 🟢 Verde
+10,21,#B9D153,Viseu às 09:00: 🟢 Verde
+11,21,#B9D153,Viseu às 10:00: 🟢 Verde
+12,21,#B9D153,Viseu às 11:00: 🟢 Verde
+13,21,#B9D153,Viseu às 12:00: 🟢 Verde
+14,21,#B9D153,Viseu às 13:00: 🟢 Verde
+15,21,#B9D153,Viseu às 14:00: 🟢 Verde
+16,21,#B9D153,Viseu às 15:00: 🟢 Verde
+17,21,#B9D153,Viseu às 16:00: 🟢 Verde
+18,21,#B9D153,Viseu às 17:00: 🟢 Verde
+19,21,#B9D153,Viseu às 18:00: 🟢 Verde
+20,21,#B9D153,Viseu às 19:00: 🟢 Verde
+21,21,#B9D153,Viseu às 20:00: 🟢 Verde
+22,21,#B9D153,Viseu às 21:00: 🟢 Verde
+23,21,#B9D153,Viseu às 22:00: 🟢 Verde
+24,21,#B9D153,Viseu às 23:00: 🟢 Verde
