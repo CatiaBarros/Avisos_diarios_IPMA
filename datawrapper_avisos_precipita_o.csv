@@ -1,0 +1,505 @@
+local,hora,nivel,cor,aviso,tooltip
+Aveiro,00:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 00:00: ⚪ Sem informação
+Aveiro,01:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 01:00: ⚪ Sem informação
+Aveiro,02:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 02:00: ⚪ Sem informação
+Aveiro,03:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 03:00: ⚪ Sem informação
+Aveiro,04:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 04:00: ⚪ Sem informação
+Aveiro,05:00,NA,#C8C7BB,⚪ Sem informação,Aveiro às 05:00: ⚪ Sem informação
+Aveiro,06:00,1,#B9D153,🟢 Verde,Aveiro às 06:00: 🟢 Verde
+Aveiro,07:00,1,#B9D153,🟢 Verde,Aveiro às 07:00: 🟢 Verde
+Aveiro,08:00,1,#B9D153,🟢 Verde,Aveiro às 08:00: 🟢 Verde
+Aveiro,09:00,1,#B9D153,🟢 Verde,Aveiro às 09:00: 🟢 Verde
+Aveiro,10:00,1,#B9D153,🟢 Verde,Aveiro às 10:00: 🟢 Verde
+Aveiro,11:00,1,#B9D153,🟢 Verde,Aveiro às 11:00: 🟢 Verde
+Aveiro,12:00,1,#B9D153,🟢 Verde,Aveiro às 12:00: 🟢 Verde
+Aveiro,13:00,1,#B9D153,🟢 Verde,Aveiro às 13:00: 🟢 Verde
+Aveiro,14:00,1,#B9D153,🟢 Verde,Aveiro às 14:00: 🟢 Verde
+Aveiro,15:00,1,#B9D153,🟢 Verde,Aveiro às 15:00: 🟢 Verde
+Aveiro,16:00,1,#B9D153,🟢 Verde,Aveiro às 16:00: 🟢 Verde
+Aveiro,17:00,1,#B9D153,🟢 Verde,Aveiro às 17:00: 🟢 Verde
+Aveiro,18:00,1,#B9D153,🟢 Verde,Aveiro às 18:00: 🟢 Verde
+Aveiro,19:00,1,#B9D153,🟢 Verde,Aveiro às 19:00: 🟢 Verde
+Aveiro,20:00,1,#B9D153,🟢 Verde,Aveiro às 20:00: 🟢 Verde
+Aveiro,21:00,1,#B9D153,🟢 Verde,Aveiro às 21:00: 🟢 Verde
+Aveiro,22:00,1,#B9D153,🟢 Verde,Aveiro às 22:00: 🟢 Verde
+Aveiro,23:00,1,#B9D153,🟢 Verde,Aveiro às 23:00: 🟢 Verde
+Beja,00:00,NA,#C8C7BB,⚪ Sem informação,Beja às 00:00: ⚪ Sem informação
+Beja,01:00,NA,#C8C7BB,⚪ Sem informação,Beja às 01:00: ⚪ Sem informação
+Beja,02:00,NA,#C8C7BB,⚪ Sem informação,Beja às 02:00: ⚪ Sem informação
+Beja,03:00,NA,#C8C7BB,⚪ Sem informação,Beja às 03:00: ⚪ Sem informação
+Beja,04:00,NA,#C8C7BB,⚪ Sem informação,Beja às 04:00: ⚪ Sem informação
+Beja,05:00,NA,#C8C7BB,⚪ Sem informação,Beja às 05:00: ⚪ Sem informação
+Beja,06:00,1,#B9D153,🟢 Verde,Beja às 06:00: 🟢 Verde
+Beja,07:00,1,#B9D153,🟢 Verde,Beja às 07:00: 🟢 Verde
+Beja,08:00,1,#B9D153,🟢 Verde,Beja às 08:00: 🟢 Verde
+Beja,09:00,1,#B9D153,🟢 Verde,Beja às 09:00: 🟢 Verde
+Beja,10:00,1,#B9D153,🟢 Verde,Beja às 10:00: 🟢 Verde
+Beja,11:00,1,#B9D153,🟢 Verde,Beja às 11:00: 🟢 Verde
+Beja,12:00,1,#B9D153,🟢 Verde,Beja às 12:00: 🟢 Verde
+Beja,13:00,1,#B9D153,🟢 Verde,Beja às 13:00: 🟢 Verde
+Beja,14:00,1,#B9D153,🟢 Verde,Beja às 14:00: 🟢 Verde
+Beja,15:00,1,#B9D153,🟢 Verde,Beja às 15:00: 🟢 Verde
+Beja,16:00,1,#B9D153,🟢 Verde,Beja às 16:00: 🟢 Verde
+Beja,17:00,1,#B9D153,🟢 Verde,Beja às 17:00: 🟢 Verde
+Beja,18:00,1,#B9D153,🟢 Verde,Beja às 18:00: 🟢 Verde
+Beja,19:00,1,#B9D153,🟢 Verde,Beja às 19:00: 🟢 Verde
+Beja,20:00,1,#B9D153,🟢 Verde,Beja às 20:00: 🟢 Verde
+Beja,21:00,1,#B9D153,🟢 Verde,Beja às 21:00: 🟢 Verde
+Beja,22:00,1,#B9D153,🟢 Verde,Beja às 22:00: 🟢 Verde
+Beja,23:00,1,#B9D153,🟢 Verde,Beja às 23:00: 🟢 Verde
+Braga,00:00,NA,#C8C7BB,⚪ Sem informação,Braga às 00:00: ⚪ Sem informação
+Braga,01:00,NA,#C8C7BB,⚪ Sem informação,Braga às 01:00: ⚪ Sem informação
+Braga,02:00,NA,#C8C7BB,⚪ Sem informação,Braga às 02:00: ⚪ Sem informação
+Braga,03:00,NA,#C8C7BB,⚪ Sem informação,Braga às 03:00: ⚪ Sem informação
+Braga,04:00,NA,#C8C7BB,⚪ Sem informação,Braga às 04:00: ⚪ Sem informação
+Braga,05:00,NA,#C8C7BB,⚪ Sem informação,Braga às 05:00: ⚪ Sem informação
+Braga,06:00,1,#B9D153,🟢 Verde,Braga às 06:00: 🟢 Verde
+Braga,07:00,1,#B9D153,🟢 Verde,Braga às 07:00: 🟢 Verde
+Braga,08:00,1,#B9D153,🟢 Verde,Braga às 08:00: 🟢 Verde
+Braga,09:00,1,#B9D153,🟢 Verde,Braga às 09:00: 🟢 Verde
+Braga,10:00,1,#B9D153,🟢 Verde,Braga às 10:00: 🟢 Verde
+Braga,11:00,1,#B9D153,🟢 Verde,Braga às 11:00: 🟢 Verde
+Braga,12:00,1,#B9D153,🟢 Verde,Braga às 12:00: 🟢 Verde
+Braga,13:00,1,#B9D153,🟢 Verde,Braga às 13:00: 🟢 Verde
+Braga,14:00,1,#B9D153,🟢 Verde,Braga às 14:00: 🟢 Verde
+Braga,15:00,1,#B9D153,🟢 Verde,Braga às 15:00: 🟢 Verde
+Braga,16:00,1,#B9D153,🟢 Verde,Braga às 16:00: 🟢 Verde
+Braga,17:00,1,#B9D153,🟢 Verde,Braga às 17:00: 🟢 Verde
+Braga,18:00,1,#B9D153,🟢 Verde,Braga às 18:00: 🟢 Verde
+Braga,19:00,1,#B9D153,🟢 Verde,Braga às 19:00: 🟢 Verde
+Braga,20:00,1,#B9D153,🟢 Verde,Braga às 20:00: 🟢 Verde
+Braga,21:00,1,#B9D153,🟢 Verde,Braga às 21:00: 🟢 Verde
+Braga,22:00,1,#B9D153,🟢 Verde,Braga às 22:00: 🟢 Verde
+Braga,23:00,1,#B9D153,🟢 Verde,Braga às 23:00: 🟢 Verde
+Bragança,00:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 00:00: ⚪ Sem informação
+Bragança,01:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 01:00: ⚪ Sem informação
+Bragança,02:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 02:00: ⚪ Sem informação
+Bragança,03:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 03:00: ⚪ Sem informação
+Bragança,04:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 04:00: ⚪ Sem informação
+Bragança,05:00,NA,#C8C7BB,⚪ Sem informação,Bragança às 05:00: ⚪ Sem informação
+Bragança,06:00,1,#B9D153,🟢 Verde,Bragança às 06:00: 🟢 Verde
+Bragança,07:00,1,#B9D153,🟢 Verde,Bragança às 07:00: 🟢 Verde
+Bragança,08:00,1,#B9D153,🟢 Verde,Bragança às 08:00: 🟢 Verde
+Bragança,09:00,1,#B9D153,🟢 Verde,Bragança às 09:00: 🟢 Verde
+Bragança,10:00,1,#B9D153,🟢 Verde,Bragança às 10:00: 🟢 Verde
+Bragança,11:00,1,#B9D153,🟢 Verde,Bragança às 11:00: 🟢 Verde
+Bragança,12:00,1,#B9D153,🟢 Verde,Bragança às 12:00: 🟢 Verde
+Bragança,13:00,1,#B9D153,🟢 Verde,Bragança às 13:00: 🟢 Verde
+Bragança,14:00,1,#B9D153,🟢 Verde,Bragança às 14:00: 🟢 Verde
+Bragança,15:00,1,#B9D153,🟢 Verde,Bragança às 15:00: 🟢 Verde
+Bragança,16:00,1,#B9D153,🟢 Verde,Bragança às 16:00: 🟢 Verde
+Bragança,17:00,1,#B9D153,🟢 Verde,Bragança às 17:00: 🟢 Verde
+Bragança,18:00,1,#B9D153,🟢 Verde,Bragança às 18:00: 🟢 Verde
+Bragança,19:00,1,#B9D153,🟢 Verde,Bragança às 19:00: 🟢 Verde
+Bragança,20:00,1,#B9D153,🟢 Verde,Bragança às 20:00: 🟢 Verde
+Bragança,21:00,1,#B9D153,🟢 Verde,Bragança às 21:00: 🟢 Verde
+Bragança,22:00,1,#B9D153,🟢 Verde,Bragança às 22:00: 🟢 Verde
+Bragança,23:00,1,#B9D153,🟢 Verde,Bragança às 23:00: 🟢 Verde
+Castelo Branco,00:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 00:00: ⚪ Sem informação
+Castelo Branco,01:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 01:00: ⚪ Sem informação
+Castelo Branco,02:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 02:00: ⚪ Sem informação
+Castelo Branco,03:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 03:00: ⚪ Sem informação
+Castelo Branco,04:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 04:00: ⚪ Sem informação
+Castelo Branco,05:00,NA,#C8C7BB,⚪ Sem informação,Castelo Branco às 05:00: ⚪ Sem informação
+Castelo Branco,06:00,1,#B9D153,🟢 Verde,Castelo Branco às 06:00: 🟢 Verde
+Castelo Branco,07:00,1,#B9D153,🟢 Verde,Castelo Branco às 07:00: 🟢 Verde
+Castelo Branco,08:00,1,#B9D153,🟢 Verde,Castelo Branco às 08:00: 🟢 Verde
+Castelo Branco,09:00,1,#B9D153,🟢 Verde,Castelo Branco às 09:00: 🟢 Verde
+Castelo Branco,10:00,1,#B9D153,🟢 Verde,Castelo Branco às 10:00: 🟢 Verde
+Castelo Branco,11:00,1,#B9D153,🟢 Verde,Castelo Branco às 11:00: 🟢 Verde
+Castelo Branco,12:00,1,#B9D153,🟢 Verde,Castelo Branco às 12:00: 🟢 Verde
+Castelo Branco,13:00,1,#B9D153,🟢 Verde,Castelo Branco às 13:00: 🟢 Verde
+Castelo Branco,14:00,1,#B9D153,🟢 Verde,Castelo Branco às 14:00: 🟢 Verde
+Castelo Branco,15:00,1,#B9D153,🟢 Verde,Castelo Branco às 15:00: 🟢 Verde
+Castelo Branco,16:00,1,#B9D153,🟢 Verde,Castelo Branco às 16:00: 🟢 Verde
+Castelo Branco,17:00,1,#B9D153,🟢 Verde,Castelo Branco às 17:00: 🟢 Verde
+Castelo Branco,18:00,1,#B9D153,🟢 Verde,Castelo Branco às 18:00: 🟢 Verde
+Castelo Branco,19:00,1,#B9D153,🟢 Verde,Castelo Branco às 19:00: 🟢 Verde
+Castelo Branco,20:00,1,#B9D153,🟢 Verde,Castelo Branco às 20:00: 🟢 Verde
+Castelo Branco,21:00,1,#B9D153,🟢 Verde,Castelo Branco às 21:00: 🟢 Verde
+Castelo Branco,22:00,1,#B9D153,🟢 Verde,Castelo Branco às 22:00: 🟢 Verde
+Castelo Branco,23:00,1,#B9D153,🟢 Verde,Castelo Branco às 23:00: 🟢 Verde
+Coimbra,00:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 00:00: ⚪ Sem informação
+Coimbra,01:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 01:00: ⚪ Sem informação
+Coimbra,02:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 02:00: ⚪ Sem informação
+Coimbra,03:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 03:00: ⚪ Sem informação
+Coimbra,04:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 04:00: ⚪ Sem informação
+Coimbra,05:00,NA,#C8C7BB,⚪ Sem informação,Coimbra às 05:00: ⚪ Sem informação
+Coimbra,06:00,1,#B9D153,🟢 Verde,Coimbra às 06:00: 🟢 Verde
+Coimbra,07:00,1,#B9D153,🟢 Verde,Coimbra às 07:00: 🟢 Verde
+Coimbra,08:00,1,#B9D153,🟢 Verde,Coimbra às 08:00: 🟢 Verde
+Coimbra,09:00,1,#B9D153,🟢 Verde,Coimbra às 09:00: 🟢 Verde
+Coimbra,10:00,1,#B9D153,🟢 Verde,Coimbra às 10:00: 🟢 Verde
+Coimbra,11:00,1,#B9D153,🟢 Verde,Coimbra às 11:00: 🟢 Verde
+Coimbra,12:00,1,#B9D153,🟢 Verde,Coimbra às 12:00: 🟢 Verde
+Coimbra,13:00,1,#B9D153,🟢 Verde,Coimbra às 13:00: 🟢 Verde
+Coimbra,14:00,1,#B9D153,🟢 Verde,Coimbra às 14:00: 🟢 Verde
+Coimbra,15:00,1,#B9D153,🟢 Verde,Coimbra às 15:00: 🟢 Verde
+Coimbra,16:00,1,#B9D153,🟢 Verde,Coimbra às 16:00: 🟢 Verde
+Coimbra,17:00,1,#B9D153,🟢 Verde,Coimbra às 17:00: 🟢 Verde
+Coimbra,18:00,1,#B9D153,🟢 Verde,Coimbra às 18:00: 🟢 Verde
+Coimbra,19:00,1,#B9D153,🟢 Verde,Coimbra às 19:00: 🟢 Verde
+Coimbra,20:00,1,#B9D153,🟢 Verde,Coimbra às 20:00: 🟢 Verde
+Coimbra,21:00,1,#B9D153,🟢 Verde,Coimbra às 21:00: 🟢 Verde
+Coimbra,22:00,1,#B9D153,🟢 Verde,Coimbra às 22:00: 🟢 Verde
+Coimbra,23:00,1,#B9D153,🟢 Verde,Coimbra às 23:00: 🟢 Verde
+Évora,00:00,NA,#C8C7BB,⚪ Sem informação,Évora às 00:00: ⚪ Sem informação
+Évora,01:00,NA,#C8C7BB,⚪ Sem informação,Évora às 01:00: ⚪ Sem informação
+Évora,02:00,NA,#C8C7BB,⚪ Sem informação,Évora às 02:00: ⚪ Sem informação
+Évora,03:00,NA,#C8C7BB,⚪ Sem informação,Évora às 03:00: ⚪ Sem informação
+Évora,04:00,NA,#C8C7BB,⚪ Sem informação,Évora às 04:00: ⚪ Sem informação
+Évora,05:00,NA,#C8C7BB,⚪ Sem informação,Évora às 05:00: ⚪ Sem informação
+Évora,06:00,1,#B9D153,🟢 Verde,Évora às 06:00: 🟢 Verde
+Évora,07:00,1,#B9D153,🟢 Verde,Évora às 07:00: 🟢 Verde
+Évora,08:00,1,#B9D153,🟢 Verde,Évora às 08:00: 🟢 Verde
+Évora,09:00,1,#B9D153,🟢 Verde,Évora às 09:00: 🟢 Verde
+Évora,10:00,1,#B9D153,🟢 Verde,Évora às 10:00: 🟢 Verde
+Évora,11:00,1,#B9D153,🟢 Verde,Évora às 11:00: 🟢 Verde
+Évora,12:00,1,#B9D153,🟢 Verde,Évora às 12:00: 🟢 Verde
+Évora,13:00,1,#B9D153,🟢 Verde,Évora às 13:00: 🟢 Verde
+Évora,14:00,1,#B9D153,🟢 Verde,Évora às 14:00: 🟢 Verde
+Évora,15:00,1,#B9D153,🟢 Verde,Évora às 15:00: 🟢 Verde
+Évora,16:00,1,#B9D153,🟢 Verde,Évora às 16:00: 🟢 Verde
+Évora,17:00,1,#B9D153,🟢 Verde,Évora às 17:00: 🟢 Verde
+Évora,18:00,1,#B9D153,🟢 Verde,Évora às 18:00: 🟢 Verde
+Évora,19:00,1,#B9D153,🟢 Verde,Évora às 19:00: 🟢 Verde
+Évora,20:00,1,#B9D153,🟢 Verde,Évora às 20:00: 🟢 Verde
+Évora,21:00,1,#B9D153,🟢 Verde,Évora às 21:00: 🟢 Verde
+Évora,22:00,1,#B9D153,🟢 Verde,Évora às 22:00: 🟢 Verde
+Évora,23:00,1,#B9D153,🟢 Verde,Évora às 23:00: 🟢 Verde
+Faro,00:00,NA,#C8C7BB,⚪ Sem informação,Faro às 00:00: ⚪ Sem informação
+Faro,01:00,NA,#C8C7BB,⚪ Sem informação,Faro às 01:00: ⚪ Sem informação
+Faro,02:00,NA,#C8C7BB,⚪ Sem informação,Faro às 02:00: ⚪ Sem informação
+Faro,03:00,NA,#C8C7BB,⚪ Sem informação,Faro às 03:00: ⚪ Sem informação
+Faro,04:00,NA,#C8C7BB,⚪ Sem informação,Faro às 04:00: ⚪ Sem informação
+Faro,05:00,NA,#C8C7BB,⚪ Sem informação,Faro às 05:00: ⚪ Sem informação
+Faro,06:00,1,#B9D153,🟢 Verde,Faro às 06:00: 🟢 Verde
+Faro,07:00,1,#B9D153,🟢 Verde,Faro às 07:00: 🟢 Verde
+Faro,08:00,1,#B9D153,🟢 Verde,Faro às 08:00: 🟢 Verde
+Faro,09:00,1,#B9D153,🟢 Verde,Faro às 09:00: 🟢 Verde
+Faro,10:00,1,#B9D153,🟢 Verde,Faro às 10:00: 🟢 Verde
+Faro,11:00,1,#B9D153,🟢 Verde,Faro às 11:00: 🟢 Verde
+Faro,12:00,1,#B9D153,🟢 Verde,Faro às 12:00: 🟢 Verde
+Faro,13:00,1,#B9D153,🟢 Verde,Faro às 13:00: 🟢 Verde
+Faro,14:00,1,#B9D153,🟢 Verde,Faro às 14:00: 🟢 Verde
+Faro,15:00,1,#B9D153,🟢 Verde,Faro às 15:00: 🟢 Verde
+Faro,16:00,1,#B9D153,🟢 Verde,Faro às 16:00: 🟢 Verde
+Faro,17:00,1,#B9D153,🟢 Verde,Faro às 17:00: 🟢 Verde
+Faro,18:00,1,#B9D153,🟢 Verde,Faro às 18:00: 🟢 Verde
+Faro,19:00,1,#B9D153,🟢 Verde,Faro às 19:00: 🟢 Verde
+Faro,20:00,1,#B9D153,🟢 Verde,Faro às 20:00: 🟢 Verde
+Faro,21:00,1,#B9D153,🟢 Verde,Faro às 21:00: 🟢 Verde
+Faro,22:00,1,#B9D153,🟢 Verde,Faro às 22:00: 🟢 Verde
+Faro,23:00,1,#B9D153,🟢 Verde,Faro às 23:00: 🟢 Verde
+Guarda,00:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 00:00: ⚪ Sem informação
+Guarda,01:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 01:00: ⚪ Sem informação
+Guarda,02:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 02:00: ⚪ Sem informação
+Guarda,03:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 03:00: ⚪ Sem informação
+Guarda,04:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 04:00: ⚪ Sem informação
+Guarda,05:00,NA,#C8C7BB,⚪ Sem informação,Guarda às 05:00: ⚪ Sem informação
+Guarda,06:00,1,#B9D153,🟢 Verde,Guarda às 06:00: 🟢 Verde
+Guarda,07:00,1,#B9D153,🟢 Verde,Guarda às 07:00: 🟢 Verde
+Guarda,08:00,1,#B9D153,🟢 Verde,Guarda às 08:00: 🟢 Verde
+Guarda,09:00,1,#B9D153,🟢 Verde,Guarda às 09:00: 🟢 Verde
+Guarda,10:00,1,#B9D153,🟢 Verde,Guarda às 10:00: 🟢 Verde
+Guarda,11:00,1,#B9D153,🟢 Verde,Guarda às 11:00: 🟢 Verde
+Guarda,12:00,1,#B9D153,🟢 Verde,Guarda às 12:00: 🟢 Verde
+Guarda,13:00,1,#B9D153,🟢 Verde,Guarda às 13:00: 🟢 Verde
+Guarda,14:00,1,#B9D153,🟢 Verde,Guarda às 14:00: 🟢 Verde
+Guarda,15:00,1,#B9D153,🟢 Verde,Guarda às 15:00: 🟢 Verde
+Guarda,16:00,1,#B9D153,🟢 Verde,Guarda às 16:00: 🟢 Verde
+Guarda,17:00,1,#B9D153,🟢 Verde,Guarda às 17:00: 🟢 Verde
+Guarda,18:00,1,#B9D153,🟢 Verde,Guarda às 18:00: 🟢 Verde
+Guarda,19:00,1,#B9D153,🟢 Verde,Guarda às 19:00: 🟢 Verde
+Guarda,20:00,1,#B9D153,🟢 Verde,Guarda às 20:00: 🟢 Verde
+Guarda,21:00,1,#B9D153,🟢 Verde,Guarda às 21:00: 🟢 Verde
+Guarda,22:00,1,#B9D153,🟢 Verde,Guarda às 22:00: 🟢 Verde
+Guarda,23:00,1,#B9D153,🟢 Verde,Guarda às 23:00: 🟢 Verde
+Leiria,00:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 00:00: ⚪ Sem informação
+Leiria,01:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 01:00: ⚪ Sem informação
+Leiria,02:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 02:00: ⚪ Sem informação
+Leiria,03:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 03:00: ⚪ Sem informação
+Leiria,04:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 04:00: ⚪ Sem informação
+Leiria,05:00,NA,#C8C7BB,⚪ Sem informação,Leiria às 05:00: ⚪ Sem informação
+Leiria,06:00,1,#B9D153,🟢 Verde,Leiria às 06:00: 🟢 Verde
+Leiria,07:00,1,#B9D153,🟢 Verde,Leiria às 07:00: 🟢 Verde
+Leiria,08:00,1,#B9D153,🟢 Verde,Leiria às 08:00: 🟢 Verde
+Leiria,09:00,1,#B9D153,🟢 Verde,Leiria às 09:00: 🟢 Verde
+Leiria,10:00,1,#B9D153,🟢 Verde,Leiria às 10:00: 🟢 Verde
+Leiria,11:00,1,#B9D153,🟢 Verde,Leiria às 11:00: 🟢 Verde
+Leiria,12:00,1,#B9D153,🟢 Verde,Leiria às 12:00: 🟢 Verde
+Leiria,13:00,1,#B9D153,🟢 Verde,Leiria às 13:00: 🟢 Verde
+Leiria,14:00,1,#B9D153,🟢 Verde,Leiria às 14:00: 🟢 Verde
+Leiria,15:00,1,#B9D153,🟢 Verde,Leiria às 15:00: 🟢 Verde
+Leiria,16:00,1,#B9D153,🟢 Verde,Leiria às 16:00: 🟢 Verde
+Leiria,17:00,1,#B9D153,🟢 Verde,Leiria às 17:00: 🟢 Verde
+Leiria,18:00,1,#B9D153,🟢 Verde,Leiria às 18:00: 🟢 Verde
+Leiria,19:00,1,#B9D153,🟢 Verde,Leiria às 19:00: 🟢 Verde
+Leiria,20:00,1,#B9D153,🟢 Verde,Leiria às 20:00: 🟢 Verde
+Leiria,21:00,1,#B9D153,🟢 Verde,Leiria às 21:00: 🟢 Verde
+Leiria,22:00,1,#B9D153,🟢 Verde,Leiria às 22:00: 🟢 Verde
+Leiria,23:00,1,#B9D153,🟢 Verde,Leiria às 23:00: 🟢 Verde
+Lisboa,00:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 00:00: ⚪ Sem informação
+Lisboa,01:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 01:00: ⚪ Sem informação
+Lisboa,02:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 02:00: ⚪ Sem informação
+Lisboa,03:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 03:00: ⚪ Sem informação
+Lisboa,04:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 04:00: ⚪ Sem informação
+Lisboa,05:00,NA,#C8C7BB,⚪ Sem informação,Lisboa às 05:00: ⚪ Sem informação
+Lisboa,06:00,1,#B9D153,🟢 Verde,Lisboa às 06:00: 🟢 Verde
+Lisboa,07:00,1,#B9D153,🟢 Verde,Lisboa às 07:00: 🟢 Verde
+Lisboa,08:00,1,#B9D153,🟢 Verde,Lisboa às 08:00: 🟢 Verde
+Lisboa,09:00,1,#B9D153,🟢 Verde,Lisboa às 09:00: 🟢 Verde
+Lisboa,10:00,1,#B9D153,🟢 Verde,Lisboa às 10:00: 🟢 Verde
+Lisboa,11:00,1,#B9D153,🟢 Verde,Lisboa às 11:00: 🟢 Verde
+Lisboa,12:00,1,#B9D153,🟢 Verde,Lisboa às 12:00: 🟢 Verde
+Lisboa,13:00,1,#B9D153,🟢 Verde,Lisboa às 13:00: 🟢 Verde
+Lisboa,14:00,1,#B9D153,🟢 Verde,Lisboa às 14:00: 🟢 Verde
+Lisboa,15:00,1,#B9D153,🟢 Verde,Lisboa às 15:00: 🟢 Verde
+Lisboa,16:00,1,#B9D153,🟢 Verde,Lisboa às 16:00: 🟢 Verde
+Lisboa,17:00,1,#B9D153,🟢 Verde,Lisboa às 17:00: 🟢 Verde
+Lisboa,18:00,1,#B9D153,🟢 Verde,Lisboa às 18:00: 🟢 Verde
+Lisboa,19:00,1,#B9D153,🟢 Verde,Lisboa às 19:00: 🟢 Verde
+Lisboa,20:00,1,#B9D153,🟢 Verde,Lisboa às 20:00: 🟢 Verde
+Lisboa,21:00,1,#B9D153,🟢 Verde,Lisboa às 21:00: 🟢 Verde
+Lisboa,22:00,1,#B9D153,🟢 Verde,Lisboa às 22:00: 🟢 Verde
+Lisboa,23:00,1,#B9D153,🟢 Verde,Lisboa às 23:00: 🟢 Verde
+Penhas Douradas,00:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 00:00: ⚪ Sem informação
+Penhas Douradas,01:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 01:00: ⚪ Sem informação
+Penhas Douradas,02:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 02:00: ⚪ Sem informação
+Penhas Douradas,03:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 03:00: ⚪ Sem informação
+Penhas Douradas,04:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 04:00: ⚪ Sem informação
+Penhas Douradas,05:00,NA,#C8C7BB,⚪ Sem informação,Penhas Douradas às 05:00: ⚪ Sem informação
+Penhas Douradas,06:00,1,#B9D153,🟢 Verde,Penhas Douradas às 06:00: 🟢 Verde
+Penhas Douradas,07:00,1,#B9D153,🟢 Verde,Penhas Douradas às 07:00: 🟢 Verde
+Penhas Douradas,08:00,1,#B9D153,🟢 Verde,Penhas Douradas às 08:00: 🟢 Verde
+Penhas Douradas,09:00,1,#B9D153,🟢 Verde,Penhas Douradas às 09:00: 🟢 Verde
+Penhas Douradas,10:00,1,#B9D153,🟢 Verde,Penhas Douradas às 10:00: 🟢 Verde
+Penhas Douradas,11:00,1,#B9D153,🟢 Verde,Penhas Douradas às 11:00: 🟢 Verde
+Penhas Douradas,12:00,1,#B9D153,🟢 Verde,Penhas Douradas às 12:00: 🟢 Verde
+Penhas Douradas,13:00,1,#B9D153,🟢 Verde,Penhas Douradas às 13:00: 🟢 Verde
+Penhas Douradas,14:00,1,#B9D153,🟢 Verde,Penhas Douradas às 14:00: 🟢 Verde
+Penhas Douradas,15:00,1,#B9D153,🟢 Verde,Penhas Douradas às 15:00: 🟢 Verde
+Penhas Douradas,16:00,1,#B9D153,🟢 Verde,Penhas Douradas às 16:00: 🟢 Verde
+Penhas Douradas,17:00,1,#B9D153,🟢 Verde,Penhas Douradas às 17:00: 🟢 Verde
+Penhas Douradas,18:00,1,#B9D153,🟢 Verde,Penhas Douradas às 18:00: 🟢 Verde
+Penhas Douradas,19:00,1,#B9D153,🟢 Verde,Penhas Douradas às 19:00: 🟢 Verde
+Penhas Douradas,20:00,1,#B9D153,🟢 Verde,Penhas Douradas às 20:00: 🟢 Verde
+Penhas Douradas,21:00,1,#B9D153,🟢 Verde,Penhas Douradas às 21:00: 🟢 Verde
+Penhas Douradas,22:00,1,#B9D153,🟢 Verde,Penhas Douradas às 22:00: 🟢 Verde
+Penhas Douradas,23:00,1,#B9D153,🟢 Verde,Penhas Douradas às 23:00: 🟢 Verde
+Portalegre,00:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 00:00: ⚪ Sem informação
+Portalegre,01:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 01:00: ⚪ Sem informação
+Portalegre,02:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 02:00: ⚪ Sem informação
+Portalegre,03:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 03:00: ⚪ Sem informação
+Portalegre,04:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 04:00: ⚪ Sem informação
+Portalegre,05:00,NA,#C8C7BB,⚪ Sem informação,Portalegre às 05:00: ⚪ Sem informação
+Portalegre,06:00,1,#B9D153,🟢 Verde,Portalegre às 06:00: 🟢 Verde
+Portalegre,07:00,1,#B9D153,🟢 Verde,Portalegre às 07:00: 🟢 Verde
+Portalegre,08:00,1,#B9D153,🟢 Verde,Portalegre às 08:00: 🟢 Verde
+Portalegre,09:00,1,#B9D153,🟢 Verde,Portalegre às 09:00: 🟢 Verde
+Portalegre,10:00,1,#B9D153,🟢 Verde,Portalegre às 10:00: 🟢 Verde
+Portalegre,11:00,1,#B9D153,🟢 Verde,Portalegre às 11:00: 🟢 Verde
+Portalegre,12:00,1,#B9D153,🟢 Verde,Portalegre às 12:00: 🟢 Verde
+Portalegre,13:00,1,#B9D153,🟢 Verde,Portalegre às 13:00: 🟢 Verde
+Portalegre,14:00,1,#B9D153,🟢 Verde,Portalegre às 14:00: 🟢 Verde
+Portalegre,15:00,1,#B9D153,🟢 Verde,Portalegre às 15:00: 🟢 Verde
+Portalegre,16:00,1,#B9D153,🟢 Verde,Portalegre às 16:00: 🟢 Verde
+Portalegre,17:00,1,#B9D153,🟢 Verde,Portalegre às 17:00: 🟢 Verde
+Portalegre,18:00,1,#B9D153,🟢 Verde,Portalegre às 18:00: 🟢 Verde
+Portalegre,19:00,1,#B9D153,🟢 Verde,Portalegre às 19:00: 🟢 Verde
+Portalegre,20:00,1,#B9D153,🟢 Verde,Portalegre às 20:00: 🟢 Verde
+Portalegre,21:00,1,#B9D153,🟢 Verde,Portalegre às 21:00: 🟢 Verde
+Portalegre,22:00,1,#B9D153,🟢 Verde,Portalegre às 22:00: 🟢 Verde
+Portalegre,23:00,1,#B9D153,🟢 Verde,Portalegre às 23:00: 🟢 Verde
+Portimão,00:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 00:00: ⚪ Sem informação
+Portimão,01:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 01:00: ⚪ Sem informação
+Portimão,02:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 02:00: ⚪ Sem informação
+Portimão,03:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 03:00: ⚪ Sem informação
+Portimão,04:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 04:00: ⚪ Sem informação
+Portimão,05:00,NA,#C8C7BB,⚪ Sem informação,Portimão às 05:00: ⚪ Sem informação
+Portimão,06:00,1,#B9D153,🟢 Verde,Portimão às 06:00: 🟢 Verde
+Portimão,07:00,1,#B9D153,🟢 Verde,Portimão às 07:00: 🟢 Verde
+Portimão,08:00,1,#B9D153,🟢 Verde,Portimão às 08:00: 🟢 Verde
+Portimão,09:00,1,#B9D153,🟢 Verde,Portimão às 09:00: 🟢 Verde
+Portimão,10:00,1,#B9D153,🟢 Verde,Portimão às 10:00: 🟢 Verde
+Portimão,11:00,1,#B9D153,🟢 Verde,Portimão às 11:00: 🟢 Verde
+Portimão,12:00,1,#B9D153,🟢 Verde,Portimão às 12:00: 🟢 Verde
+Portimão,13:00,1,#B9D153,🟢 Verde,Portimão às 13:00: 🟢 Verde
+Portimão,14:00,1,#B9D153,🟢 Verde,Portimão às 14:00: 🟢 Verde
+Portimão,15:00,1,#B9D153,🟢 Verde,Portimão às 15:00: 🟢 Verde
+Portimão,16:00,1,#B9D153,🟢 Verde,Portimão às 16:00: 🟢 Verde
+Portimão,17:00,1,#B9D153,🟢 Verde,Portimão às 17:00: 🟢 Verde
+Portimão,18:00,1,#B9D153,🟢 Verde,Portimão às 18:00: 🟢 Verde
+Portimão,19:00,1,#B9D153,🟢 Verde,Portimão às 19:00: 🟢 Verde
+Portimão,20:00,1,#B9D153,🟢 Verde,Portimão às 20:00: 🟢 Verde
+Portimão,21:00,1,#B9D153,🟢 Verde,Portimão às 21:00: 🟢 Verde
+Portimão,22:00,1,#B9D153,🟢 Verde,Portimão às 22:00: 🟢 Verde
+Portimão,23:00,1,#B9D153,🟢 Verde,Portimão às 23:00: 🟢 Verde
+Porto,00:00,NA,#C8C7BB,⚪ Sem informação,Porto às 00:00: ⚪ Sem informação
+Porto,01:00,NA,#C8C7BB,⚪ Sem informação,Porto às 01:00: ⚪ Sem informação
+Porto,02:00,NA,#C8C7BB,⚪ Sem informação,Porto às 02:00: ⚪ Sem informação
+Porto,03:00,NA,#C8C7BB,⚪ Sem informação,Porto às 03:00: ⚪ Sem informação
+Porto,04:00,NA,#C8C7BB,⚪ Sem informação,Porto às 04:00: ⚪ Sem informação
+Porto,05:00,NA,#C8C7BB,⚪ Sem informação,Porto às 05:00: ⚪ Sem informação
+Porto,06:00,1,#B9D153,🟢 Verde,Porto às 06:00: 🟢 Verde
+Porto,07:00,1,#B9D153,🟢 Verde,Porto às 07:00: 🟢 Verde
+Porto,08:00,1,#B9D153,🟢 Verde,Porto às 08:00: 🟢 Verde
+Porto,09:00,1,#B9D153,🟢 Verde,Porto às 09:00: 🟢 Verde
+Porto,10:00,1,#B9D153,🟢 Verde,Porto às 10:00: 🟢 Verde
+Porto,11:00,1,#B9D153,🟢 Verde,Porto às 11:00: 🟢 Verde
+Porto,12:00,1,#B9D153,🟢 Verde,Porto às 12:00: 🟢 Verde
+Porto,13:00,1,#B9D153,🟢 Verde,Porto às 13:00: 🟢 Verde
+Porto,14:00,1,#B9D153,🟢 Verde,Porto às 14:00: 🟢 Verde
+Porto,15:00,1,#B9D153,🟢 Verde,Porto às 15:00: 🟢 Verde
+Porto,16:00,1,#B9D153,🟢 Verde,Porto às 16:00: 🟢 Verde
+Porto,17:00,1,#B9D153,🟢 Verde,Porto às 17:00: 🟢 Verde
+Porto,18:00,1,#B9D153,🟢 Verde,Porto às 18:00: 🟢 Verde
+Porto,19:00,1,#B9D153,🟢 Verde,Porto às 19:00: 🟢 Verde
+Porto,20:00,1,#B9D153,🟢 Verde,Porto às 20:00: 🟢 Verde
+Porto,21:00,1,#B9D153,🟢 Verde,Porto às 21:00: 🟢 Verde
+Porto,22:00,1,#B9D153,🟢 Verde,Porto às 22:00: 🟢 Verde
+Porto,23:00,1,#B9D153,🟢 Verde,Porto às 23:00: 🟢 Verde
+Santarém,00:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 00:00: ⚪ Sem informação
+Santarém,01:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 01:00: ⚪ Sem informação
+Santarém,02:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 02:00: ⚪ Sem informação
+Santarém,03:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 03:00: ⚪ Sem informação
+Santarém,04:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 04:00: ⚪ Sem informação
+Santarém,05:00,NA,#C8C7BB,⚪ Sem informação,Santarém às 05:00: ⚪ Sem informação
+Santarém,06:00,1,#B9D153,🟢 Verde,Santarém às 06:00: 🟢 Verde
+Santarém,07:00,1,#B9D153,🟢 Verde,Santarém às 07:00: 🟢 Verde
+Santarém,08:00,1,#B9D153,🟢 Verde,Santarém às 08:00: 🟢 Verde
+Santarém,09:00,1,#B9D153,🟢 Verde,Santarém às 09:00: 🟢 Verde
+Santarém,10:00,1,#B9D153,🟢 Verde,Santarém às 10:00: 🟢 Verde
+Santarém,11:00,1,#B9D153,🟢 Verde,Santarém às 11:00: 🟢 Verde
+Santarém,12:00,1,#B9D153,🟢 Verde,Santarém às 12:00: 🟢 Verde
+Santarém,13:00,1,#B9D153,🟢 Verde,Santarém às 13:00: 🟢 Verde
+Santarém,14:00,1,#B9D153,🟢 Verde,Santarém às 14:00: 🟢 Verde
+Santarém,15:00,1,#B9D153,🟢 Verde,Santarém às 15:00: 🟢 Verde
+Santarém,16:00,1,#B9D153,🟢 Verde,Santarém às 16:00: 🟢 Verde
+Santarém,17:00,1,#B9D153,🟢 Verde,Santarém às 17:00: 🟢 Verde
+Santarém,18:00,1,#B9D153,🟢 Verde,Santarém às 18:00: 🟢 Verde
+Santarém,19:00,1,#B9D153,🟢 Verde,Santarém às 19:00: 🟢 Verde
+Santarém,20:00,1,#B9D153,🟢 Verde,Santarém às 20:00: 🟢 Verde
+Santarém,21:00,1,#B9D153,🟢 Verde,Santarém às 21:00: 🟢 Verde
+Santarém,22:00,1,#B9D153,🟢 Verde,Santarém às 22:00: 🟢 Verde
+Santarém,23:00,1,#B9D153,🟢 Verde,Santarém às 23:00: 🟢 Verde
+Setúbal,00:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 00:00: ⚪ Sem informação
+Setúbal,01:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 01:00: ⚪ Sem informação
+Setúbal,02:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 02:00: ⚪ Sem informação
+Setúbal,03:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 03:00: ⚪ Sem informação
+Setúbal,04:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 04:00: ⚪ Sem informação
+Setúbal,05:00,NA,#C8C7BB,⚪ Sem informação,Setúbal às 05:00: ⚪ Sem informação
+Setúbal,06:00,1,#B9D153,🟢 Verde,Setúbal às 06:00: 🟢 Verde
+Setúbal,07:00,1,#B9D153,🟢 Verde,Setúbal às 07:00: 🟢 Verde
+Setúbal,08:00,1,#B9D153,🟢 Verde,Setúbal às 08:00: 🟢 Verde
+Setúbal,09:00,1,#B9D153,🟢 Verde,Setúbal às 09:00: 🟢 Verde
+Setúbal,10:00,1,#B9D153,🟢 Verde,Setúbal às 10:00: 🟢 Verde
+Setúbal,11:00,1,#B9D153,🟢 Verde,Setúbal às 11:00: 🟢 Verde
+Setúbal,12:00,1,#B9D153,🟢 Verde,Setúbal às 12:00: 🟢 Verde
+Setúbal,13:00,1,#B9D153,🟢 Verde,Setúbal às 13:00: 🟢 Verde
+Setúbal,14:00,1,#B9D153,🟢 Verde,Setúbal às 14:00: 🟢 Verde
+Setúbal,15:00,1,#B9D153,🟢 Verde,Setúbal às 15:00: 🟢 Verde
+Setúbal,16:00,1,#B9D153,🟢 Verde,Setúbal às 16:00: 🟢 Verde
+Setúbal,17:00,1,#B9D153,🟢 Verde,Setúbal às 17:00: 🟢 Verde
+Setúbal,18:00,1,#B9D153,🟢 Verde,Setúbal às 18:00: 🟢 Verde
+Setúbal,19:00,1,#B9D153,🟢 Verde,Setúbal às 19:00: 🟢 Verde
+Setúbal,20:00,1,#B9D153,🟢 Verde,Setúbal às 20:00: 🟢 Verde
+Setúbal,21:00,1,#B9D153,🟢 Verde,Setúbal às 21:00: 🟢 Verde
+Setúbal,22:00,1,#B9D153,🟢 Verde,Setúbal às 22:00: 🟢 Verde
+Setúbal,23:00,1,#B9D153,🟢 Verde,Setúbal às 23:00: 🟢 Verde
+Sines,00:00,NA,#C8C7BB,⚪ Sem informação,Sines às 00:00: ⚪ Sem informação
+Sines,01:00,NA,#C8C7BB,⚪ Sem informação,Sines às 01:00: ⚪ Sem informação
+Sines,02:00,NA,#C8C7BB,⚪ Sem informação,Sines às 02:00: ⚪ Sem informação
+Sines,03:00,NA,#C8C7BB,⚪ Sem informação,Sines às 03:00: ⚪ Sem informação
+Sines,04:00,NA,#C8C7BB,⚪ Sem informação,Sines às 04:00: ⚪ Sem informação
+Sines,05:00,NA,#C8C7BB,⚪ Sem informação,Sines às 05:00: ⚪ Sem informação
+Sines,06:00,1,#B9D153,🟢 Verde,Sines às 06:00: 🟢 Verde
+Sines,07:00,1,#B9D153,🟢 Verde,Sines às 07:00: 🟢 Verde
+Sines,08:00,1,#B9D153,🟢 Verde,Sines às 08:00: 🟢 Verde
+Sines,09:00,1,#B9D153,🟢 Verde,Sines às 09:00: 🟢 Verde
+Sines,10:00,1,#B9D153,🟢 Verde,Sines às 10:00: 🟢 Verde
+Sines,11:00,1,#B9D153,🟢 Verde,Sines às 11:00: 🟢 Verde
+Sines,12:00,1,#B9D153,🟢 Verde,Sines às 12:00: 🟢 Verde
+Sines,13:00,1,#B9D153,🟢 Verde,Sines às 13:00: 🟢 Verde
+Sines,14:00,1,#B9D153,🟢 Verde,Sines às 14:00: 🟢 Verde
+Sines,15:00,1,#B9D153,🟢 Verde,Sines às 15:00: 🟢 Verde
+Sines,16:00,1,#B9D153,🟢 Verde,Sines às 16:00: 🟢 Verde
+Sines,17:00,1,#B9D153,🟢 Verde,Sines às 17:00: 🟢 Verde
+Sines,18:00,1,#B9D153,🟢 Verde,Sines às 18:00: 🟢 Verde
+Sines,19:00,1,#B9D153,🟢 Verde,Sines às 19:00: 🟢 Verde
+Sines,20:00,1,#B9D153,🟢 Verde,Sines às 20:00: 🟢 Verde
+Sines,21:00,1,#B9D153,🟢 Verde,Sines às 21:00: 🟢 Verde
+Sines,22:00,1,#B9D153,🟢 Verde,Sines às 22:00: 🟢 Verde
+Sines,23:00,1,#B9D153,🟢 Verde,Sines às 23:00: 🟢 Verde
+Viana do Castelo,00:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 00:00: ⚪ Sem informação
+Viana do Castelo,01:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 01:00: ⚪ Sem informação
+Viana do Castelo,02:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 02:00: ⚪ Sem informação
+Viana do Castelo,03:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 03:00: ⚪ Sem informação
+Viana do Castelo,04:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 04:00: ⚪ Sem informação
+Viana do Castelo,05:00,NA,#C8C7BB,⚪ Sem informação,Viana do Castelo às 05:00: ⚪ Sem informação
+Viana do Castelo,06:00,1,#B9D153,🟢 Verde,Viana do Castelo às 06:00: 🟢 Verde
+Viana do Castelo,07:00,1,#B9D153,🟢 Verde,Viana do Castelo às 07:00: 🟢 Verde
+Viana do Castelo,08:00,1,#B9D153,🟢 Verde,Viana do Castelo às 08:00: 🟢 Verde
+Viana do Castelo,09:00,1,#B9D153,🟢 Verde,Viana do Castelo às 09:00: 🟢 Verde
+Viana do Castelo,10:00,1,#B9D153,🟢 Verde,Viana do Castelo às 10:00: 🟢 Verde
+Viana do Castelo,11:00,1,#B9D153,🟢 Verde,Viana do Castelo às 11:00: 🟢 Verde
+Viana do Castelo,12:00,1,#B9D153,🟢 Verde,Viana do Castelo às 12:00: 🟢 Verde
+Viana do Castelo,13:00,1,#B9D153,🟢 Verde,Viana do Castelo às 13:00: 🟢 Verde
+Viana do Castelo,14:00,1,#B9D153,🟢 Verde,Viana do Castelo às 14:00: 🟢 Verde
+Viana do Castelo,15:00,1,#B9D153,🟢 Verde,Viana do Castelo às 15:00: 🟢 Verde
+Viana do Castelo,16:00,1,#B9D153,🟢 Verde,Viana do Castelo às 16:00: 🟢 Verde
+Viana do Castelo,17:00,1,#B9D153,🟢 Verde,Viana do Castelo às 17:00: 🟢 Verde
+Viana do Castelo,18:00,1,#B9D153,🟢 Verde,Viana do Castelo às 18:00: 🟢 Verde
+Viana do Castelo,19:00,1,#B9D153,🟢 Verde,Viana do Castelo às 19:00: 🟢 Verde
+Viana do Castelo,20:00,1,#B9D153,🟢 Verde,Viana do Castelo às 20:00: 🟢 Verde
+Viana do Castelo,21:00,1,#B9D153,🟢 Verde,Viana do Castelo às 21:00: 🟢 Verde
+Viana do Castelo,22:00,1,#B9D153,🟢 Verde,Viana do Castelo às 22:00: 🟢 Verde
+Viana do Castelo,23:00,1,#B9D153,🟢 Verde,Viana do Castelo às 23:00: 🟢 Verde
+Vila Real,00:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 00:00: ⚪ Sem informação
+Vila Real,01:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 01:00: ⚪ Sem informação
+Vila Real,02:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 02:00: ⚪ Sem informação
+Vila Real,03:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 03:00: ⚪ Sem informação
+Vila Real,04:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 04:00: ⚪ Sem informação
+Vila Real,05:00,NA,#C8C7BB,⚪ Sem informação,Vila Real às 05:00: ⚪ Sem informação
+Vila Real,06:00,1,#B9D153,🟢 Verde,Vila Real às 06:00: 🟢 Verde
+Vila Real,07:00,1,#B9D153,🟢 Verde,Vila Real às 07:00: 🟢 Verde
+Vila Real,08:00,1,#B9D153,🟢 Verde,Vila Real às 08:00: 🟢 Verde
+Vila Real,09:00,1,#B9D153,🟢 Verde,Vila Real às 09:00: 🟢 Verde
+Vila Real,10:00,1,#B9D153,🟢 Verde,Vila Real às 10:00: 🟢 Verde
+Vila Real,11:00,1,#B9D153,🟢 Verde,Vila Real às 11:00: 🟢 Verde
+Vila Real,12:00,1,#B9D153,🟢 Verde,Vila Real às 12:00: 🟢 Verde
+Vila Real,13:00,1,#B9D153,🟢 Verde,Vila Real às 13:00: 🟢 Verde
+Vila Real,14:00,1,#B9D153,🟢 Verde,Vila Real às 14:00: 🟢 Verde
+Vila Real,15:00,1,#B9D153,🟢 Verde,Vila Real às 15:00: 🟢 Verde
+Vila Real,16:00,1,#B9D153,🟢 Verde,Vila Real às 16:00: 🟢 Verde
+Vila Real,17:00,1,#B9D153,🟢 Verde,Vila Real às 17:00: 🟢 Verde
+Vila Real,18:00,1,#B9D153,🟢 Verde,Vila Real às 18:00: 🟢 Verde
+Vila Real,19:00,1,#B9D153,🟢 Verde,Vila Real às 19:00: 🟢 Verde
+Vila Real,20:00,1,#B9D153,🟢 Verde,Vila Real às 20:00: 🟢 Verde
+Vila Real,21:00,1,#B9D153,🟢 Verde,Vila Real às 21:00: 🟢 Verde
+Vila Real,22:00,1,#B9D153,🟢 Verde,Vila Real às 22:00: 🟢 Verde
+Vila Real,23:00,1,#B9D153,🟢 Verde,Vila Real às 23:00: 🟢 Verde
+Viseu,00:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 00:00: ⚪ Sem informação
+Viseu,01:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 01:00: ⚪ Sem informação
+Viseu,02:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 02:00: ⚪ Sem informação
+Viseu,03:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 03:00: ⚪ Sem informação
+Viseu,04:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 04:00: ⚪ Sem informação
+Viseu,05:00,NA,#C8C7BB,⚪ Sem informação,Viseu às 05:00: ⚪ Sem informação
+Viseu,06:00,1,#B9D153,🟢 Verde,Viseu às 06:00: 🟢 Verde
+Viseu,07:00,1,#B9D153,🟢 Verde,Viseu às 07:00: 🟢 Verde
+Viseu,08:00,1,#B9D153,🟢 Verde,Viseu às 08:00: 🟢 Verde
+Viseu,09:00,1,#B9D153,🟢 Verde,Viseu às 09:00: 🟢 Verde
+Viseu,10:00,1,#B9D153,🟢 Verde,Viseu às 10:00: 🟢 Verde
+Viseu,11:00,1,#B9D153,🟢 Verde,Viseu às 11:00: 🟢 Verde
+Viseu,12:00,1,#B9D153,🟢 Verde,Viseu às 12:00: 🟢 Verde
+Viseu,13:00,1,#B9D153,🟢 Verde,Viseu às 13:00: 🟢 Verde
+Viseu,14:00,1,#B9D153,🟢 Verde,Viseu às 14:00: 🟢 Verde
+Viseu,15:00,1,#B9D153,🟢 Verde,Viseu às 15:00: 🟢 Verde
+Viseu,16:00,1,#B9D153,🟢 Verde,Viseu às 16:00: 🟢 Verde
+Viseu,17:00,1,#B9D153,🟢 Verde,Viseu às 17:00: 🟢 Verde
+Viseu,18:00,1,#B9D153,🟢 Verde,Viseu às 18:00: 🟢 Verde
+Viseu,19:00,1,#B9D153,🟢 Verde,Viseu às 19:00: 🟢 Verde
+Viseu,20:00,1,#B9D153,🟢 Verde,Viseu às 20:00: 🟢 Verde
+Viseu,21:00,1,#B9D153,🟢 Verde,Viseu às 21:00: 🟢 Verde
+Viseu,22:00,1,#B9D153,🟢 Verde,Viseu às 22:00: 🟢 Verde
+Viseu,23:00,1,#B9D153,🟢 Verde,Viseu às 23:00: 🟢 Verde
