@@ -89,12 +89,12 @@ x,y,cor,tooltip
 16,4,#C8C7BB,Bragança às 15:00: ⚪ Sem informação
 17,4,#C8C7BB,Bragança às 16:00: ⚪ Sem informação
 18,4,#C8C7BB,Bragança às 17:00: ⚪ Sem informação
-19,4,#FADF4B,Bragança às 18:00: 🟡 Amarelo
-20,4,#FADF4B,Bragança às 19:00: 🟡 Amarelo
-21,4,#FADF4B,Bragança às 20:00: 🟡 Amarelo
-22,4,#FADF4B,Bragança às 21:00: 🟡 Amarelo
-23,4,#FADF4B,Bragança às 22:00: 🟡 Amarelo
-24,4,#FADF4B,Bragança às 23:00: 🟡 Amarelo
+19,4,#E5883B,Bragança às 18:00: 🟠 Laranja
+20,4,#E5883B,Bragança às 19:00: 🟠 Laranja
+21,4,#E5883B,Bragança às 20:00: 🟠 Laranja
+22,4,#E5883B,Bragança às 21:00: 🟠 Laranja
+23,4,#E5883B,Bragança às 22:00: 🟠 Laranja
+24,4,#E5883B,Bragança às 23:00: 🟠 Laranja
 1,5,#C8C7BB,Castelo Branco às 00:00: ⚪ Sem informação
 2,5,#C8C7BB,Castelo Branco às 01:00: ⚪ Sem informação
 3,5,#C8C7BB,Castelo Branco às 02:00: ⚪ Sem informação
@@ -473,12 +473,12 @@ x,y,cor,tooltip
 16,20,#C8C7BB,Vila Real às 15:00: ⚪ Sem informação
 17,20,#C8C7BB,Vila Real às 16:00: ⚪ Sem informação
 18,20,#C8C7BB,Vila Real às 17:00: ⚪ Sem informação
-19,20,#FADF4B,Vila Real às 18:00: 🟡 Amarelo
-20,20,#FADF4B,Vila Real às 19:00: 🟡 Amarelo
-21,20,#FADF4B,Vila Real às 20:00: 🟡 Amarelo
-22,20,#FADF4B,Vila Real às 21:00: 🟡 Amarelo
-23,20,#FADF4B,Vila Real às 22:00: 🟡 Amarelo
-24,20,#FADF4B,Vila Real às 23:00: 🟡 Amarelo
+19,20,#E5883B,Vila Real às 18:00: 🟠 Laranja
+20,20,#E5883B,Vila Real às 19:00: 🟠 Laranja
+21,20,#E5883B,Vila Real às 20:00: 🟠 Laranja
+22,20,#E5883B,Vila Real às 21:00: 🟠 Laranja
+23,20,#E5883B,Vila Real às 22:00: 🟠 Laranja
+24,20,#E5883B,Vila Real às 23:00: 🟠 Laranja
 1,21,#C8C7BB,Viseu às 00:00: ⚪ Sem informação
 2,21,#C8C7BB,Viseu às 01:00: ⚪ Sem informação
 3,21,#C8C7BB,Viseu às 02:00: ⚪ Sem informação
