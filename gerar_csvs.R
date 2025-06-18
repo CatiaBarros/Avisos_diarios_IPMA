@@ -104,6 +104,3 @@ for (tipo in tipos) {
 }
 
 cat("🎉 Todos os CSVs do dia foram gerados com sucesso!\n")
-
-
-Seria importante estarem naquele formato... na tooltip gostava que dissesse o nome do distrito e o alerta a que está 
