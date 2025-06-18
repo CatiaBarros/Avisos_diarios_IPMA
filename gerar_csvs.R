@@ -1,4 +1,3 @@
-estes dados aparem de uma githubaction... em R:
 
 # Instalar pacotes se necessário
 # install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr", "stringi"))
