@@ -1,505 +1,505 @@
-x,y,cor,tooltip
-1,1,#C8C7BB,Aveiro às 00:00: ⚪ Sem informação
-2,1,#C8C7BB,Aveiro às 01:00: ⚪ Sem informação
-3,1,#C8C7BB,Aveiro às 02:00: ⚪ Sem informação
-4,1,#C8C7BB,Aveiro às 03:00: ⚪ Sem informação
-5,1,#C8C7BB,Aveiro às 04:00: ⚪ Sem informação
-6,1,#C8C7BB,Aveiro às 05:00: ⚪ Sem informação
-7,1,#C8C7BB,Aveiro às 06:00: ⚪ Sem informação
-8,1,#C8C7BB,Aveiro às 07:00: ⚪ Sem informação
-9,1,#C8C7BB,Aveiro às 08:00: ⚪ Sem informação
-10,1,#C8C7BB,Aveiro às 09:00: ⚪ Sem informação
-11,1,#C8C7BB,Aveiro às 10:00: ⚪ Sem informação
-12,1,#C8C7BB,Aveiro às 11:00: ⚪ Sem informação
-13,1,#C8C7BB,Aveiro às 12:00: ⚪ Sem informação
-14,1,#C8C7BB,Aveiro às 13:00: ⚪ Sem informação
-15,1,#C8C7BB,Aveiro às 14:00: ⚪ Sem informação
-16,1,#C8C7BB,Aveiro às 15:00: ⚪ Sem informação
-17,1,#C8C7BB,Aveiro às 16:00: ⚪ Sem informação
-18,1,#C8C7BB,Aveiro às 17:00: ⚪ Sem informação
-19,1,#FADF4B,Aveiro às 18:00: 🟡 Amarelo
-20,1,#FADF4B,Aveiro às 19:00: 🟡 Amarelo
-21,1,#FADF4B,Aveiro às 20:00: 🟡 Amarelo
-22,1,#FADF4B,Aveiro às 21:00: 🟡 Amarelo
-23,1,#FADF4B,Aveiro às 22:00: 🟡 Amarelo
-24,1,#FADF4B,Aveiro às 23:00: 🟡 Amarelo
-1,2,#C8C7BB,Beja às 00:00: ⚪ Sem informação
-2,2,#C8C7BB,Beja às 01:00: ⚪ Sem informação
-3,2,#C8C7BB,Beja às 02:00: ⚪ Sem informação
-4,2,#C8C7BB,Beja às 03:00: ⚪ Sem informação
-5,2,#C8C7BB,Beja às 04:00: ⚪ Sem informação
-6,2,#C8C7BB,Beja às 05:00: ⚪ Sem informação
-7,2,#C8C7BB,Beja às 06:00: ⚪ Sem informação
-8,2,#C8C7BB,Beja às 07:00: ⚪ Sem informação
-9,2,#C8C7BB,Beja às 08:00: ⚪ Sem informação
-10,2,#C8C7BB,Beja às 09:00: ⚪ Sem informação
-11,2,#C8C7BB,Beja às 10:00: ⚪ Sem informação
-12,2,#C8C7BB,Beja às 11:00: ⚪ Sem informação
-13,2,#C8C7BB,Beja às 12:00: ⚪ Sem informação
-14,2,#C8C7BB,Beja às 13:00: ⚪ Sem informação
-15,2,#C8C7BB,Beja às 14:00: ⚪ Sem informação
-16,2,#C8C7BB,Beja às 15:00: ⚪ Sem informação
-17,2,#C8C7BB,Beja às 16:00: ⚪ Sem informação
-18,2,#C8C7BB,Beja às 17:00: ⚪ Sem informação
-19,2,#FADF4B,Beja às 18:00: 🟡 Amarelo
-20,2,#FADF4B,Beja às 19:00: 🟡 Amarelo
-21,2,#FADF4B,Beja às 20:00: 🟡 Amarelo
-22,2,#FADF4B,Beja às 21:00: 🟡 Amarelo
-23,2,#FADF4B,Beja às 22:00: 🟡 Amarelo
-24,2,#FADF4B,Beja às 23:00: 🟡 Amarelo
-1,3,#C8C7BB,Braga às 00:00: ⚪ Sem informação
-2,3,#C8C7BB,Braga às 01:00: ⚪ Sem informação
-3,3,#C8C7BB,Braga às 02:00: ⚪ Sem informação
-4,3,#C8C7BB,Braga às 03:00: ⚪ Sem informação
-5,3,#C8C7BB,Braga às 04:00: ⚪ Sem informação
-6,3,#C8C7BB,Braga às 05:00: ⚪ Sem informação
-7,3,#C8C7BB,Braga às 06:00: ⚪ Sem informação
-8,3,#C8C7BB,Braga às 07:00: ⚪ Sem informação
-9,3,#C8C7BB,Braga às 08:00: ⚪ Sem informação
-10,3,#C8C7BB,Braga às 09:00: ⚪ Sem informação
-11,3,#C8C7BB,Braga às 10:00: ⚪ Sem informação
-12,3,#C8C7BB,Braga às 11:00: ⚪ Sem informação
-13,3,#C8C7BB,Braga às 12:00: ⚪ Sem informação
-14,3,#C8C7BB,Braga às 13:00: ⚪ Sem informação
-15,3,#C8C7BB,Braga às 14:00: ⚪ Sem informação
-16,3,#C8C7BB,Braga às 15:00: ⚪ Sem informação
-17,3,#C8C7BB,Braga às 16:00: ⚪ Sem informação
-18,3,#C8C7BB,Braga às 17:00: ⚪ Sem informação
-19,3,#FADF4B,Braga às 18:00: 🟡 Amarelo
-20,3,#FADF4B,Braga às 19:00: 🟡 Amarelo
-21,3,#FADF4B,Braga às 20:00: 🟡 Amarelo
-22,3,#FADF4B,Braga às 21:00: 🟡 Amarelo
-23,3,#FADF4B,Braga às 22:00: 🟡 Amarelo
-24,3,#FADF4B,Braga às 23:00: 🟡 Amarelo
-1,4,#C8C7BB,Bragança às 00:00: ⚪ Sem informação
-2,4,#C8C7BB,Bragança às 01:00: ⚪ Sem informação
-3,4,#C8C7BB,Bragança às 02:00: ⚪ Sem informação
-4,4,#C8C7BB,Bragança às 03:00: ⚪ Sem informação
-5,4,#C8C7BB,Bragança às 04:00: ⚪ Sem informação
-6,4,#C8C7BB,Bragança às 05:00: ⚪ Sem informação
-7,4,#C8C7BB,Bragança às 06:00: ⚪ Sem informação
-8,4,#C8C7BB,Bragança às 07:00: ⚪ Sem informação
-9,4,#C8C7BB,Bragança às 08:00: ⚪ Sem informação
-10,4,#C8C7BB,Bragança às 09:00: ⚪ Sem informação
-11,4,#C8C7BB,Bragança às 10:00: ⚪ Sem informação
-12,4,#C8C7BB,Bragança às 11:00: ⚪ Sem informação
-13,4,#C8C7BB,Bragança às 12:00: ⚪ Sem informação
-14,4,#C8C7BB,Bragança às 13:00: ⚪ Sem informação
-15,4,#C8C7BB,Bragança às 14:00: ⚪ Sem informação
-16,4,#C8C7BB,Bragança às 15:00: ⚪ Sem informação
-17,4,#C8C7BB,Bragança às 16:00: ⚪ Sem informação
-18,4,#C8C7BB,Bragança às 17:00: ⚪ Sem informação
-19,4,#E5883B,Bragança às 18:00: 🟠 Laranja
-20,4,#E5883B,Bragança às 19:00: 🟠 Laranja
-21,4,#E5883B,Bragança às 20:00: 🟠 Laranja
-22,4,#E5883B,Bragança às 21:00: 🟠 Laranja
-23,4,#E5883B,Bragança às 22:00: 🟠 Laranja
-24,4,#E5883B,Bragança às 23:00: 🟠 Laranja
-1,5,#C8C7BB,Castelo Branco às 00:00: ⚪ Sem informação
-2,5,#C8C7BB,Castelo Branco às 01:00: ⚪ Sem informação
-3,5,#C8C7BB,Castelo Branco às 02:00: ⚪ Sem informação
-4,5,#C8C7BB,Castelo Branco às 03:00: ⚪ Sem informação
-5,5,#C8C7BB,Castelo Branco às 04:00: ⚪ Sem informação
-6,5,#C8C7BB,Castelo Branco às 05:00: ⚪ Sem informação
-7,5,#C8C7BB,Castelo Branco às 06:00: ⚪ Sem informação
-8,5,#C8C7BB,Castelo Branco às 07:00: ⚪ Sem informação
-9,5,#C8C7BB,Castelo Branco às 08:00: ⚪ Sem informação
-10,5,#C8C7BB,Castelo Branco às 09:00: ⚪ Sem informação
-11,5,#C8C7BB,Castelo Branco às 10:00: ⚪ Sem informação
-12,5,#C8C7BB,Castelo Branco às 11:00: ⚪ Sem informação
-13,5,#C8C7BB,Castelo Branco às 12:00: ⚪ Sem informação
-14,5,#C8C7BB,Castelo Branco às 13:00: ⚪ Sem informação
-15,5,#C8C7BB,Castelo Branco às 14:00: ⚪ Sem informação
-16,5,#C8C7BB,Castelo Branco às 15:00: ⚪ Sem informação
-17,5,#C8C7BB,Castelo Branco às 16:00: ⚪ Sem informação
-18,5,#C8C7BB,Castelo Branco às 17:00: ⚪ Sem informação
-19,5,#FADF4B,Castelo Branco às 18:00: 🟡 Amarelo
-20,5,#FADF4B,Castelo Branco às 19:00: 🟡 Amarelo
-21,5,#FADF4B,Castelo Branco às 20:00: 🟡 Amarelo
-22,5,#FADF4B,Castelo Branco às 21:00: 🟡 Amarelo
-23,5,#FADF4B,Castelo Branco às 22:00: 🟡 Amarelo
-24,5,#FADF4B,Castelo Branco às 23:00: 🟡 Amarelo
-1,6,#C8C7BB,Coimbra às 00:00: ⚪ Sem informação
-2,6,#C8C7BB,Coimbra às 01:00: ⚪ Sem informação
-3,6,#C8C7BB,Coimbra às 02:00: ⚪ Sem informação
-4,6,#C8C7BB,Coimbra às 03:00: ⚪ Sem informação
-5,6,#C8C7BB,Coimbra às 04:00: ⚪ Sem informação
-6,6,#C8C7BB,Coimbra às 05:00: ⚪ Sem informação
-7,6,#C8C7BB,Coimbra às 06:00: ⚪ Sem informação
-8,6,#C8C7BB,Coimbra às 07:00: ⚪ Sem informação
-9,6,#C8C7BB,Coimbra às 08:00: ⚪ Sem informação
-10,6,#C8C7BB,Coimbra às 09:00: ⚪ Sem informação
-11,6,#C8C7BB,Coimbra às 10:00: ⚪ Sem informação
-12,6,#C8C7BB,Coimbra às 11:00: ⚪ Sem informação
-13,6,#C8C7BB,Coimbra às 12:00: ⚪ Sem informação
-14,6,#C8C7BB,Coimbra às 13:00: ⚪ Sem informação
-15,6,#C8C7BB,Coimbra às 14:00: ⚪ Sem informação
-16,6,#C8C7BB,Coimbra às 15:00: ⚪ Sem informação
-17,6,#C8C7BB,Coimbra às 16:00: ⚪ Sem informação
-18,6,#C8C7BB,Coimbra às 17:00: ⚪ Sem informação
-19,6,#FADF4B,Coimbra às 18:00: 🟡 Amarelo
-20,6,#FADF4B,Coimbra às 19:00: 🟡 Amarelo
-21,6,#FADF4B,Coimbra às 20:00: 🟡 Amarelo
-22,6,#FADF4B,Coimbra às 21:00: 🟡 Amarelo
-23,6,#FADF4B,Coimbra às 22:00: 🟡 Amarelo
-24,6,#FADF4B,Coimbra às 23:00: 🟡 Amarelo
-1,7,#C8C7BB,Évora às 00:00: ⚪ Sem informação
-2,7,#C8C7BB,Évora às 01:00: ⚪ Sem informação
-3,7,#C8C7BB,Évora às 02:00: ⚪ Sem informação
-4,7,#C8C7BB,Évora às 03:00: ⚪ Sem informação
-5,7,#C8C7BB,Évora às 04:00: ⚪ Sem informação
-6,7,#C8C7BB,Évora às 05:00: ⚪ Sem informação
-7,7,#C8C7BB,Évora às 06:00: ⚪ Sem informação
-8,7,#C8C7BB,Évora às 07:00: ⚪ Sem informação
-9,7,#C8C7BB,Évora às 08:00: ⚪ Sem informação
-10,7,#C8C7BB,Évora às 09:00: ⚪ Sem informação
-11,7,#C8C7BB,Évora às 10:00: ⚪ Sem informação
-12,7,#C8C7BB,Évora às 11:00: ⚪ Sem informação
-13,7,#C8C7BB,Évora às 12:00: ⚪ Sem informação
-14,7,#C8C7BB,Évora às 13:00: ⚪ Sem informação
-15,7,#C8C7BB,Évora às 14:00: ⚪ Sem informação
-16,7,#C8C7BB,Évora às 15:00: ⚪ Sem informação
-17,7,#C8C7BB,Évora às 16:00: ⚪ Sem informação
-18,7,#C8C7BB,Évora às 17:00: ⚪ Sem informação
-19,7,#FADF4B,Évora às 18:00: 🟡 Amarelo
-20,7,#FADF4B,Évora às 19:00: 🟡 Amarelo
-21,7,#FADF4B,Évora às 20:00: 🟡 Amarelo
-22,7,#FADF4B,Évora às 21:00: 🟡 Amarelo
-23,7,#FADF4B,Évora às 22:00: 🟡 Amarelo
-24,7,#FADF4B,Évora às 23:00: 🟡 Amarelo
-1,8,#C8C7BB,Faro às 00:00: ⚪ Sem informação
-2,8,#C8C7BB,Faro às 01:00: ⚪ Sem informação
-3,8,#C8C7BB,Faro às 02:00: ⚪ Sem informação
-4,8,#C8C7BB,Faro às 03:00: ⚪ Sem informação
-5,8,#C8C7BB,Faro às 04:00: ⚪ Sem informação
-6,8,#C8C7BB,Faro às 05:00: ⚪ Sem informação
-7,8,#C8C7BB,Faro às 06:00: ⚪ Sem informação
-8,8,#C8C7BB,Faro às 07:00: ⚪ Sem informação
-9,8,#C8C7BB,Faro às 08:00: ⚪ Sem informação
-10,8,#C8C7BB,Faro às 09:00: ⚪ Sem informação
-11,8,#C8C7BB,Faro às 10:00: ⚪ Sem informação
-12,8,#C8C7BB,Faro às 11:00: ⚪ Sem informação
-13,8,#C8C7BB,Faro às 12:00: ⚪ Sem informação
-14,8,#C8C7BB,Faro às 13:00: ⚪ Sem informação
-15,8,#C8C7BB,Faro às 14:00: ⚪ Sem informação
-16,8,#C8C7BB,Faro às 15:00: ⚪ Sem informação
-17,8,#C8C7BB,Faro às 16:00: ⚪ Sem informação
-18,8,#C8C7BB,Faro às 17:00: ⚪ Sem informação
-19,8,#FADF4B,Faro às 18:00: 🟡 Amarelo
-20,8,#FADF4B,Faro às 19:00: 🟡 Amarelo
-21,8,#FADF4B,Faro às 20:00: 🟡 Amarelo
-22,8,#FADF4B,Faro às 21:00: 🟡 Amarelo
-23,8,#FADF4B,Faro às 22:00: 🟡 Amarelo
-24,8,#FADF4B,Faro às 23:00: 🟡 Amarelo
-1,9,#C8C7BB,Guarda às 00:00: ⚪ Sem informação
-2,9,#C8C7BB,Guarda às 01:00: ⚪ Sem informação
-3,9,#C8C7BB,Guarda às 02:00: ⚪ Sem informação
-4,9,#C8C7BB,Guarda às 03:00: ⚪ Sem informação
-5,9,#C8C7BB,Guarda às 04:00: ⚪ Sem informação
-6,9,#C8C7BB,Guarda às 05:00: ⚪ Sem informação
-7,9,#C8C7BB,Guarda às 06:00: ⚪ Sem informação
-8,9,#C8C7BB,Guarda às 07:00: ⚪ Sem informação
-9,9,#C8C7BB,Guarda às 08:00: ⚪ Sem informação
-10,9,#C8C7BB,Guarda às 09:00: ⚪ Sem informação
-11,9,#C8C7BB,Guarda às 10:00: ⚪ Sem informação
-12,9,#C8C7BB,Guarda às 11:00: ⚪ Sem informação
-13,9,#C8C7BB,Guarda às 12:00: ⚪ Sem informação
-14,9,#C8C7BB,Guarda às 13:00: ⚪ Sem informação
-15,9,#C8C7BB,Guarda às 14:00: ⚪ Sem informação
-16,9,#C8C7BB,Guarda às 15:00: ⚪ Sem informação
-17,9,#C8C7BB,Guarda às 16:00: ⚪ Sem informação
-18,9,#C8C7BB,Guarda às 17:00: ⚪ Sem informação
-19,9,#FADF4B,Guarda às 18:00: 🟡 Amarelo
-20,9,#FADF4B,Guarda às 19:00: 🟡 Amarelo
-21,9,#FADF4B,Guarda às 20:00: 🟡 Amarelo
-22,9,#FADF4B,Guarda às 21:00: 🟡 Amarelo
-23,9,#FADF4B,Guarda às 22:00: 🟡 Amarelo
-24,9,#FADF4B,Guarda às 23:00: 🟡 Amarelo
-1,10,#C8C7BB,Leiria às 00:00: ⚪ Sem informação
-2,10,#C8C7BB,Leiria às 01:00: ⚪ Sem informação
-3,10,#C8C7BB,Leiria às 02:00: ⚪ Sem informação
-4,10,#C8C7BB,Leiria às 03:00: ⚪ Sem informação
-5,10,#C8C7BB,Leiria às 04:00: ⚪ Sem informação
-6,10,#C8C7BB,Leiria às 05:00: ⚪ Sem informação
-7,10,#C8C7BB,Leiria às 06:00: ⚪ Sem informação
-8,10,#C8C7BB,Leiria às 07:00: ⚪ Sem informação
-9,10,#C8C7BB,Leiria às 08:00: ⚪ Sem informação
-10,10,#C8C7BB,Leiria às 09:00: ⚪ Sem informação
-11,10,#C8C7BB,Leiria às 10:00: ⚪ Sem informação
-12,10,#C8C7BB,Leiria às 11:00: ⚪ Sem informação
-13,10,#C8C7BB,Leiria às 12:00: ⚪ Sem informação
-14,10,#C8C7BB,Leiria às 13:00: ⚪ Sem informação
-15,10,#C8C7BB,Leiria às 14:00: ⚪ Sem informação
-16,10,#C8C7BB,Leiria às 15:00: ⚪ Sem informação
-17,10,#C8C7BB,Leiria às 16:00: ⚪ Sem informação
-18,10,#C8C7BB,Leiria às 17:00: ⚪ Sem informação
-19,10,#FADF4B,Leiria às 18:00: 🟡 Amarelo
-20,10,#FADF4B,Leiria às 19:00: 🟡 Amarelo
-21,10,#FADF4B,Leiria às 20:00: 🟡 Amarelo
-22,10,#FADF4B,Leiria às 21:00: 🟡 Amarelo
-23,10,#FADF4B,Leiria às 22:00: 🟡 Amarelo
-24,10,#FADF4B,Leiria às 23:00: 🟡 Amarelo
-1,11,#C8C7BB,Lisboa às 00:00: ⚪ Sem informação
-2,11,#C8C7BB,Lisboa às 01:00: ⚪ Sem informação
-3,11,#C8C7BB,Lisboa às 02:00: ⚪ Sem informação
-4,11,#C8C7BB,Lisboa às 03:00: ⚪ Sem informação
-5,11,#C8C7BB,Lisboa às 04:00: ⚪ Sem informação
-6,11,#C8C7BB,Lisboa às 05:00: ⚪ Sem informação
-7,11,#C8C7BB,Lisboa às 06:00: ⚪ Sem informação
-8,11,#C8C7BB,Lisboa às 07:00: ⚪ Sem informação
-9,11,#C8C7BB,Lisboa às 08:00: ⚪ Sem informação
-10,11,#C8C7BB,Lisboa às 09:00: ⚪ Sem informação
-11,11,#C8C7BB,Lisboa às 10:00: ⚪ Sem informação
-12,11,#C8C7BB,Lisboa às 11:00: ⚪ Sem informação
-13,11,#C8C7BB,Lisboa às 12:00: ⚪ Sem informação
-14,11,#C8C7BB,Lisboa às 13:00: ⚪ Sem informação
-15,11,#C8C7BB,Lisboa às 14:00: ⚪ Sem informação
-16,11,#C8C7BB,Lisboa às 15:00: ⚪ Sem informação
-17,11,#C8C7BB,Lisboa às 16:00: ⚪ Sem informação
-18,11,#C8C7BB,Lisboa às 17:00: ⚪ Sem informação
-19,11,#FADF4B,Lisboa às 18:00: 🟡 Amarelo
-20,11,#FADF4B,Lisboa às 19:00: 🟡 Amarelo
-21,11,#FADF4B,Lisboa às 20:00: 🟡 Amarelo
-22,11,#FADF4B,Lisboa às 21:00: 🟡 Amarelo
-23,11,#FADF4B,Lisboa às 22:00: 🟡 Amarelo
-24,11,#FADF4B,Lisboa às 23:00: 🟡 Amarelo
-1,12,#C8C7BB,Penhas Douradas às 00:00: ⚪ Sem informação
-2,12,#C8C7BB,Penhas Douradas às 01:00: ⚪ Sem informação
-3,12,#C8C7BB,Penhas Douradas às 02:00: ⚪ Sem informação
-4,12,#C8C7BB,Penhas Douradas às 03:00: ⚪ Sem informação
-5,12,#C8C7BB,Penhas Douradas às 04:00: ⚪ Sem informação
-6,12,#C8C7BB,Penhas Douradas às 05:00: ⚪ Sem informação
-7,12,#C8C7BB,Penhas Douradas às 06:00: ⚪ Sem informação
-8,12,#C8C7BB,Penhas Douradas às 07:00: ⚪ Sem informação
-9,12,#C8C7BB,Penhas Douradas às 08:00: ⚪ Sem informação
-10,12,#C8C7BB,Penhas Douradas às 09:00: ⚪ Sem informação
-11,12,#C8C7BB,Penhas Douradas às 10:00: ⚪ Sem informação
-12,12,#C8C7BB,Penhas Douradas às 11:00: ⚪ Sem informação
-13,12,#C8C7BB,Penhas Douradas às 12:00: ⚪ Sem informação
-14,12,#C8C7BB,Penhas Douradas às 13:00: ⚪ Sem informação
-15,12,#C8C7BB,Penhas Douradas às 14:00: ⚪ Sem informação
-16,12,#C8C7BB,Penhas Douradas às 15:00: ⚪ Sem informação
-17,12,#C8C7BB,Penhas Douradas às 16:00: ⚪ Sem informação
-18,12,#C8C7BB,Penhas Douradas às 17:00: ⚪ Sem informação
-19,12,#FADF4B,Penhas Douradas às 18:00: 🟡 Amarelo
-20,12,#FADF4B,Penhas Douradas às 19:00: 🟡 Amarelo
-21,12,#FADF4B,Penhas Douradas às 20:00: 🟡 Amarelo
-22,12,#FADF4B,Penhas Douradas às 21:00: 🟡 Amarelo
-23,12,#FADF4B,Penhas Douradas às 22:00: 🟡 Amarelo
-24,12,#FADF4B,Penhas Douradas às 23:00: 🟡 Amarelo
-1,13,#C8C7BB,Portalegre às 00:00: ⚪ Sem informação
-2,13,#C8C7BB,Portalegre às 01:00: ⚪ Sem informação
-3,13,#C8C7BB,Portalegre às 02:00: ⚪ Sem informação
-4,13,#C8C7BB,Portalegre às 03:00: ⚪ Sem informação
-5,13,#C8C7BB,Portalegre às 04:00: ⚪ Sem informação
-6,13,#C8C7BB,Portalegre às 05:00: ⚪ Sem informação
-7,13,#C8C7BB,Portalegre às 06:00: ⚪ Sem informação
-8,13,#C8C7BB,Portalegre às 07:00: ⚪ Sem informação
-9,13,#C8C7BB,Portalegre às 08:00: ⚪ Sem informação
-10,13,#C8C7BB,Portalegre às 09:00: ⚪ Sem informação
-11,13,#C8C7BB,Portalegre às 10:00: ⚪ Sem informação
-12,13,#C8C7BB,Portalegre às 11:00: ⚪ Sem informação
-13,13,#C8C7BB,Portalegre às 12:00: ⚪ Sem informação
-14,13,#C8C7BB,Portalegre às 13:00: ⚪ Sem informação
-15,13,#C8C7BB,Portalegre às 14:00: ⚪ Sem informação
-16,13,#C8C7BB,Portalegre às 15:00: ⚪ Sem informação
-17,13,#C8C7BB,Portalegre às 16:00: ⚪ Sem informação
-18,13,#C8C7BB,Portalegre às 17:00: ⚪ Sem informação
-19,13,#FADF4B,Portalegre às 18:00: 🟡 Amarelo
-20,13,#FADF4B,Portalegre às 19:00: 🟡 Amarelo
-21,13,#FADF4B,Portalegre às 20:00: 🟡 Amarelo
-22,13,#FADF4B,Portalegre às 21:00: 🟡 Amarelo
-23,13,#FADF4B,Portalegre às 22:00: 🟡 Amarelo
-24,13,#FADF4B,Portalegre às 23:00: 🟡 Amarelo
-1,14,#C8C7BB,Portimão às 00:00: ⚪ Sem informação
-2,14,#C8C7BB,Portimão às 01:00: ⚪ Sem informação
-3,14,#C8C7BB,Portimão às 02:00: ⚪ Sem informação
-4,14,#C8C7BB,Portimão às 03:00: ⚪ Sem informação
-5,14,#C8C7BB,Portimão às 04:00: ⚪ Sem informação
-6,14,#C8C7BB,Portimão às 05:00: ⚪ Sem informação
-7,14,#C8C7BB,Portimão às 06:00: ⚪ Sem informação
-8,14,#C8C7BB,Portimão às 07:00: ⚪ Sem informação
-9,14,#C8C7BB,Portimão às 08:00: ⚪ Sem informação
-10,14,#C8C7BB,Portimão às 09:00: ⚪ Sem informação
-11,14,#C8C7BB,Portimão às 10:00: ⚪ Sem informação
-12,14,#C8C7BB,Portimão às 11:00: ⚪ Sem informação
-13,14,#C8C7BB,Portimão às 12:00: ⚪ Sem informação
-14,14,#C8C7BB,Portimão às 13:00: ⚪ Sem informação
-15,14,#C8C7BB,Portimão às 14:00: ⚪ Sem informação
-16,14,#C8C7BB,Portimão às 15:00: ⚪ Sem informação
-17,14,#C8C7BB,Portimão às 16:00: ⚪ Sem informação
-18,14,#C8C7BB,Portimão às 17:00: ⚪ Sem informação
-19,14,#FADF4B,Portimão às 18:00: 🟡 Amarelo
-20,14,#FADF4B,Portimão às 19:00: 🟡 Amarelo
-21,14,#FADF4B,Portimão às 20:00: 🟡 Amarelo
-22,14,#FADF4B,Portimão às 21:00: 🟡 Amarelo
-23,14,#FADF4B,Portimão às 22:00: 🟡 Amarelo
-24,14,#FADF4B,Portimão às 23:00: 🟡 Amarelo
-1,15,#C8C7BB,Porto às 00:00: ⚪ Sem informação
-2,15,#C8C7BB,Porto às 01:00: ⚪ Sem informação
-3,15,#C8C7BB,Porto às 02:00: ⚪ Sem informação
-4,15,#C8C7BB,Porto às 03:00: ⚪ Sem informação
-5,15,#C8C7BB,Porto às 04:00: ⚪ Sem informação
-6,15,#C8C7BB,Porto às 05:00: ⚪ Sem informação
-7,15,#C8C7BB,Porto às 06:00: ⚪ Sem informação
-8,15,#C8C7BB,Porto às 07:00: ⚪ Sem informação
-9,15,#C8C7BB,Porto às 08:00: ⚪ Sem informação
-10,15,#C8C7BB,Porto às 09:00: ⚪ Sem informação
-11,15,#C8C7BB,Porto às 10:00: ⚪ Sem informação
-12,15,#C8C7BB,Porto às 11:00: ⚪ Sem informação
-13,15,#C8C7BB,Porto às 12:00: ⚪ Sem informação
-14,15,#C8C7BB,Porto às 13:00: ⚪ Sem informação
-15,15,#C8C7BB,Porto às 14:00: ⚪ Sem informação
-16,15,#C8C7BB,Porto às 15:00: ⚪ Sem informação
-17,15,#C8C7BB,Porto às 16:00: ⚪ Sem informação
-18,15,#C8C7BB,Porto às 17:00: ⚪ Sem informação
-19,15,#FADF4B,Porto às 18:00: 🟡 Amarelo
-20,15,#FADF4B,Porto às 19:00: 🟡 Amarelo
-21,15,#FADF4B,Porto às 20:00: 🟡 Amarelo
-22,15,#FADF4B,Porto às 21:00: 🟡 Amarelo
-23,15,#FADF4B,Porto às 22:00: 🟡 Amarelo
-24,15,#FADF4B,Porto às 23:00: 🟡 Amarelo
-1,16,#C8C7BB,Santarém às 00:00: ⚪ Sem informação
-2,16,#C8C7BB,Santarém às 01:00: ⚪ Sem informação
-3,16,#C8C7BB,Santarém às 02:00: ⚪ Sem informação
-4,16,#C8C7BB,Santarém às 03:00: ⚪ Sem informação
-5,16,#C8C7BB,Santarém às 04:00: ⚪ Sem informação
-6,16,#C8C7BB,Santarém às 05:00: ⚪ Sem informação
-7,16,#C8C7BB,Santarém às 06:00: ⚪ Sem informação
-8,16,#C8C7BB,Santarém às 07:00: ⚪ Sem informação
-9,16,#C8C7BB,Santarém às 08:00: ⚪ Sem informação
-10,16,#C8C7BB,Santarém às 09:00: ⚪ Sem informação
-11,16,#C8C7BB,Santarém às 10:00: ⚪ Sem informação
-12,16,#C8C7BB,Santarém às 11:00: ⚪ Sem informação
-13,16,#C8C7BB,Santarém às 12:00: ⚪ Sem informação
-14,16,#C8C7BB,Santarém às 13:00: ⚪ Sem informação
-15,16,#C8C7BB,Santarém às 14:00: ⚪ Sem informação
-16,16,#C8C7BB,Santarém às 15:00: ⚪ Sem informação
-17,16,#C8C7BB,Santarém às 16:00: ⚪ Sem informação
-18,16,#C8C7BB,Santarém às 17:00: ⚪ Sem informação
-19,16,#FADF4B,Santarém às 18:00: 🟡 Amarelo
-20,16,#FADF4B,Santarém às 19:00: 🟡 Amarelo
-21,16,#FADF4B,Santarém às 20:00: 🟡 Amarelo
-22,16,#FADF4B,Santarém às 21:00: 🟡 Amarelo
-23,16,#FADF4B,Santarém às 22:00: 🟡 Amarelo
-24,16,#FADF4B,Santarém às 23:00: 🟡 Amarelo
-1,17,#C8C7BB,Setúbal às 00:00: ⚪ Sem informação
-2,17,#C8C7BB,Setúbal às 01:00: ⚪ Sem informação
-3,17,#C8C7BB,Setúbal às 02:00: ⚪ Sem informação
-4,17,#C8C7BB,Setúbal às 03:00: ⚪ Sem informação
-5,17,#C8C7BB,Setúbal às 04:00: ⚪ Sem informação
-6,17,#C8C7BB,Setúbal às 05:00: ⚪ Sem informação
-7,17,#C8C7BB,Setúbal às 06:00: ⚪ Sem informação
-8,17,#C8C7BB,Setúbal às 07:00: ⚪ Sem informação
-9,17,#C8C7BB,Setúbal às 08:00: ⚪ Sem informação
-10,17,#C8C7BB,Setúbal às 09:00: ⚪ Sem informação
-11,17,#C8C7BB,Setúbal às 10:00: ⚪ Sem informação
-12,17,#C8C7BB,Setúbal às 11:00: ⚪ Sem informação
-13,17,#C8C7BB,Setúbal às 12:00: ⚪ Sem informação
-14,17,#C8C7BB,Setúbal às 13:00: ⚪ Sem informação
-15,17,#C8C7BB,Setúbal às 14:00: ⚪ Sem informação
-16,17,#C8C7BB,Setúbal às 15:00: ⚪ Sem informação
-17,17,#C8C7BB,Setúbal às 16:00: ⚪ Sem informação
-18,17,#C8C7BB,Setúbal às 17:00: ⚪ Sem informação
-19,17,#FADF4B,Setúbal às 18:00: 🟡 Amarelo
-20,17,#FADF4B,Setúbal às 19:00: 🟡 Amarelo
-21,17,#FADF4B,Setúbal às 20:00: 🟡 Amarelo
-22,17,#FADF4B,Setúbal às 21:00: 🟡 Amarelo
-23,17,#FADF4B,Setúbal às 22:00: 🟡 Amarelo
-24,17,#FADF4B,Setúbal às 23:00: 🟡 Amarelo
-1,18,#C8C7BB,Sines às 00:00: ⚪ Sem informação
-2,18,#C8C7BB,Sines às 01:00: ⚪ Sem informação
-3,18,#C8C7BB,Sines às 02:00: ⚪ Sem informação
-4,18,#C8C7BB,Sines às 03:00: ⚪ Sem informação
-5,18,#C8C7BB,Sines às 04:00: ⚪ Sem informação
-6,18,#C8C7BB,Sines às 05:00: ⚪ Sem informação
-7,18,#C8C7BB,Sines às 06:00: ⚪ Sem informação
-8,18,#C8C7BB,Sines às 07:00: ⚪ Sem informação
-9,18,#C8C7BB,Sines às 08:00: ⚪ Sem informação
-10,18,#C8C7BB,Sines às 09:00: ⚪ Sem informação
-11,18,#C8C7BB,Sines às 10:00: ⚪ Sem informação
-12,18,#C8C7BB,Sines às 11:00: ⚪ Sem informação
-13,18,#C8C7BB,Sines às 12:00: ⚪ Sem informação
-14,18,#C8C7BB,Sines às 13:00: ⚪ Sem informação
-15,18,#C8C7BB,Sines às 14:00: ⚪ Sem informação
-16,18,#C8C7BB,Sines às 15:00: ⚪ Sem informação
-17,18,#C8C7BB,Sines às 16:00: ⚪ Sem informação
-18,18,#C8C7BB,Sines às 17:00: ⚪ Sem informação
-19,18,#FADF4B,Sines às 18:00: 🟡 Amarelo
-20,18,#FADF4B,Sines às 19:00: 🟡 Amarelo
-21,18,#FADF4B,Sines às 20:00: 🟡 Amarelo
-22,18,#FADF4B,Sines às 21:00: 🟡 Amarelo
-23,18,#FADF4B,Sines às 22:00: 🟡 Amarelo
-24,18,#FADF4B,Sines às 23:00: 🟡 Amarelo
-1,19,#C8C7BB,Viana do Castelo às 00:00: ⚪ Sem informação
-2,19,#C8C7BB,Viana do Castelo às 01:00: ⚪ Sem informação
-3,19,#C8C7BB,Viana do Castelo às 02:00: ⚪ Sem informação
-4,19,#C8C7BB,Viana do Castelo às 03:00: ⚪ Sem informação
-5,19,#C8C7BB,Viana do Castelo às 04:00: ⚪ Sem informação
-6,19,#C8C7BB,Viana do Castelo às 05:00: ⚪ Sem informação
-7,19,#C8C7BB,Viana do Castelo às 06:00: ⚪ Sem informação
-8,19,#C8C7BB,Viana do Castelo às 07:00: ⚪ Sem informação
-9,19,#C8C7BB,Viana do Castelo às 08:00: ⚪ Sem informação
-10,19,#C8C7BB,Viana do Castelo às 09:00: ⚪ Sem informação
-11,19,#C8C7BB,Viana do Castelo às 10:00: ⚪ Sem informação
-12,19,#C8C7BB,Viana do Castelo às 11:00: ⚪ Sem informação
-13,19,#C8C7BB,Viana do Castelo às 12:00: ⚪ Sem informação
-14,19,#C8C7BB,Viana do Castelo às 13:00: ⚪ Sem informação
-15,19,#C8C7BB,Viana do Castelo às 14:00: ⚪ Sem informação
-16,19,#C8C7BB,Viana do Castelo às 15:00: ⚪ Sem informação
-17,19,#C8C7BB,Viana do Castelo às 16:00: ⚪ Sem informação
-18,19,#C8C7BB,Viana do Castelo às 17:00: ⚪ Sem informação
-19,19,#FADF4B,Viana do Castelo às 18:00: 🟡 Amarelo
-20,19,#FADF4B,Viana do Castelo às 19:00: 🟡 Amarelo
-21,19,#FADF4B,Viana do Castelo às 20:00: 🟡 Amarelo
-22,19,#FADF4B,Viana do Castelo às 21:00: 🟡 Amarelo
-23,19,#FADF4B,Viana do Castelo às 22:00: 🟡 Amarelo
-24,19,#FADF4B,Viana do Castelo às 23:00: 🟡 Amarelo
-1,20,#C8C7BB,Vila Real às 00:00: ⚪ Sem informação
-2,20,#C8C7BB,Vila Real às 01:00: ⚪ Sem informação
-3,20,#C8C7BB,Vila Real às 02:00: ⚪ Sem informação
-4,20,#C8C7BB,Vila Real às 03:00: ⚪ Sem informação
-5,20,#C8C7BB,Vila Real às 04:00: ⚪ Sem informação
-6,20,#C8C7BB,Vila Real às 05:00: ⚪ Sem informação
-7,20,#C8C7BB,Vila Real às 06:00: ⚪ Sem informação
-8,20,#C8C7BB,Vila Real às 07:00: ⚪ Sem informação
-9,20,#C8C7BB,Vila Real às 08:00: ⚪ Sem informação
-10,20,#C8C7BB,Vila Real às 09:00: ⚪ Sem informação
-11,20,#C8C7BB,Vila Real às 10:00: ⚪ Sem informação
-12,20,#C8C7BB,Vila Real às 11:00: ⚪ Sem informação
-13,20,#C8C7BB,Vila Real às 12:00: ⚪ Sem informação
-14,20,#C8C7BB,Vila Real às 13:00: ⚪ Sem informação
-15,20,#C8C7BB,Vila Real às 14:00: ⚪ Sem informação
-16,20,#C8C7BB,Vila Real às 15:00: ⚪ Sem informação
-17,20,#C8C7BB,Vila Real às 16:00: ⚪ Sem informação
-18,20,#C8C7BB,Vila Real às 17:00: ⚪ Sem informação
-19,20,#E5883B,Vila Real às 18:00: 🟠 Laranja
-20,20,#E5883B,Vila Real às 19:00: 🟠 Laranja
-21,20,#E5883B,Vila Real às 20:00: 🟠 Laranja
-22,20,#E5883B,Vila Real às 21:00: 🟠 Laranja
-23,20,#E5883B,Vila Real às 22:00: 🟠 Laranja
-24,20,#E5883B,Vila Real às 23:00: 🟠 Laranja
-1,21,#C8C7BB,Viseu às 00:00: ⚪ Sem informação
-2,21,#C8C7BB,Viseu às 01:00: ⚪ Sem informação
-3,21,#C8C7BB,Viseu às 02:00: ⚪ Sem informação
-4,21,#C8C7BB,Viseu às 03:00: ⚪ Sem informação
-5,21,#C8C7BB,Viseu às 04:00: ⚪ Sem informação
-6,21,#C8C7BB,Viseu às 05:00: ⚪ Sem informação
-7,21,#C8C7BB,Viseu às 06:00: ⚪ Sem informação
-8,21,#C8C7BB,Viseu às 07:00: ⚪ Sem informação
-9,21,#C8C7BB,Viseu às 08:00: ⚪ Sem informação
-10,21,#C8C7BB,Viseu às 09:00: ⚪ Sem informação
-11,21,#C8C7BB,Viseu às 10:00: ⚪ Sem informação
-12,21,#C8C7BB,Viseu às 11:00: ⚪ Sem informação
-13,21,#C8C7BB,Viseu às 12:00: ⚪ Sem informação
-14,21,#C8C7BB,Viseu às 13:00: ⚪ Sem informação
-15,21,#C8C7BB,Viseu às 14:00: ⚪ Sem informação
-16,21,#C8C7BB,Viseu às 15:00: ⚪ Sem informação
-17,21,#C8C7BB,Viseu às 16:00: ⚪ Sem informação
-18,21,#C8C7BB,Viseu às 17:00: ⚪ Sem informação
-19,21,#FADF4B,Viseu às 18:00: 🟡 Amarelo
-20,21,#FADF4B,Viseu às 19:00: 🟡 Amarelo
-21,21,#FADF4B,Viseu às 20:00: 🟡 Amarelo
-22,21,#FADF4B,Viseu às 21:00: 🟡 Amarelo
-23,21,#FADF4B,Viseu às 22:00: 🟡 Amarelo
-24,21,#FADF4B,Viseu às 23:00: 🟡 Amarelo
+x,hora_txt,y,distrito,nivel,nivel_txt,cor,tooltip
+1,00h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 00h00: Sem informação
+2,01h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 01h00: Sem informação
+3,02h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 02h00: Sem informação
+4,03h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 03h00: Sem informação
+5,04h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 04h00: Sem informação
+6,05h00,1,Aveiro,NA,Sem informação,#C8C7BB,Aveiro às 05h00: Sem informação
+7,06h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 06h00: Amarelo
+8,07h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 07h00: Amarelo
+9,08h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 08h00: Amarelo
+10,09h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 09h00: Amarelo
+11,10h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 10h00: Amarelo
+12,11h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 11h00: Amarelo
+13,12h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 12h00: Amarelo
+14,13h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 13h00: Amarelo
+15,14h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 14h00: Amarelo
+16,15h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 15h00: Amarelo
+17,16h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 16h00: Amarelo
+18,17h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 17h00: Amarelo
+19,18h00,1,Aveiro,2,Amarelo,#FADF4B,Aveiro às 18h00: Amarelo
+20,19h00,1,Aveiro,1,Verde,#B9D153,Aveiro às 19h00: Verde
+21,20h00,1,Aveiro,1,Verde,#B9D153,Aveiro às 20h00: Verde
+22,21h00,1,Aveiro,1,Verde,#B9D153,Aveiro às 21h00: Verde
+23,22h00,1,Aveiro,1,Verde,#B9D153,Aveiro às 22h00: Verde
+24,23h00,1,Aveiro,1,Verde,#B9D153,Aveiro às 23h00: Verde
+1,00h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 00h00: Sem informação
+2,01h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 01h00: Sem informação
+3,02h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 02h00: Sem informação
+4,03h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 03h00: Sem informação
+5,04h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 04h00: Sem informação
+6,05h00,2,Beja,NA,Sem informação,#C8C7BB,Beja às 05h00: Sem informação
+7,06h00,2,Beja,2,Amarelo,#FADF4B,Beja às 06h00: Amarelo
+8,07h00,2,Beja,2,Amarelo,#FADF4B,Beja às 07h00: Amarelo
+9,08h00,2,Beja,2,Amarelo,#FADF4B,Beja às 08h00: Amarelo
+10,09h00,2,Beja,2,Amarelo,#FADF4B,Beja às 09h00: Amarelo
+11,10h00,2,Beja,2,Amarelo,#FADF4B,Beja às 10h00: Amarelo
+12,11h00,2,Beja,2,Amarelo,#FADF4B,Beja às 11h00: Amarelo
+13,12h00,2,Beja,2,Amarelo,#FADF4B,Beja às 12h00: Amarelo
+14,13h00,2,Beja,2,Amarelo,#FADF4B,Beja às 13h00: Amarelo
+15,14h00,2,Beja,2,Amarelo,#FADF4B,Beja às 14h00: Amarelo
+16,15h00,2,Beja,2,Amarelo,#FADF4B,Beja às 15h00: Amarelo
+17,16h00,2,Beja,2,Amarelo,#FADF4B,Beja às 16h00: Amarelo
+18,17h00,2,Beja,2,Amarelo,#FADF4B,Beja às 17h00: Amarelo
+19,18h00,2,Beja,2,Amarelo,#FADF4B,Beja às 18h00: Amarelo
+20,19h00,2,Beja,2,Amarelo,#FADF4B,Beja às 19h00: Amarelo
+21,20h00,2,Beja,2,Amarelo,#FADF4B,Beja às 20h00: Amarelo
+22,21h00,2,Beja,2,Amarelo,#FADF4B,Beja às 21h00: Amarelo
+23,22h00,2,Beja,2,Amarelo,#FADF4B,Beja às 22h00: Amarelo
+24,23h00,2,Beja,2,Amarelo,#FADF4B,Beja às 23h00: Amarelo
+1,00h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 00h00: Sem informação
+2,01h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 01h00: Sem informação
+3,02h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 02h00: Sem informação
+4,03h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 03h00: Sem informação
+5,04h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 04h00: Sem informação
+6,05h00,3,Braga,NA,Sem informação,#C8C7BB,Braga às 05h00: Sem informação
+7,06h00,3,Braga,2,Amarelo,#FADF4B,Braga às 06h00: Amarelo
+8,07h00,3,Braga,2,Amarelo,#FADF4B,Braga às 07h00: Amarelo
+9,08h00,3,Braga,2,Amarelo,#FADF4B,Braga às 08h00: Amarelo
+10,09h00,3,Braga,2,Amarelo,#FADF4B,Braga às 09h00: Amarelo
+11,10h00,3,Braga,2,Amarelo,#FADF4B,Braga às 10h00: Amarelo
+12,11h00,3,Braga,2,Amarelo,#FADF4B,Braga às 11h00: Amarelo
+13,12h00,3,Braga,2,Amarelo,#FADF4B,Braga às 12h00: Amarelo
+14,13h00,3,Braga,2,Amarelo,#FADF4B,Braga às 13h00: Amarelo
+15,14h00,3,Braga,2,Amarelo,#FADF4B,Braga às 14h00: Amarelo
+16,15h00,3,Braga,2,Amarelo,#FADF4B,Braga às 15h00: Amarelo
+17,16h00,3,Braga,2,Amarelo,#FADF4B,Braga às 16h00: Amarelo
+18,17h00,3,Braga,2,Amarelo,#FADF4B,Braga às 17h00: Amarelo
+19,18h00,3,Braga,2,Amarelo,#FADF4B,Braga às 18h00: Amarelo
+20,19h00,3,Braga,1,Verde,#B9D153,Braga às 19h00: Verde
+21,20h00,3,Braga,1,Verde,#B9D153,Braga às 20h00: Verde
+22,21h00,3,Braga,1,Verde,#B9D153,Braga às 21h00: Verde
+23,22h00,3,Braga,1,Verde,#B9D153,Braga às 22h00: Verde
+24,23h00,3,Braga,1,Verde,#B9D153,Braga às 23h00: Verde
+1,00h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 00h00: Sem informação
+2,01h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 01h00: Sem informação
+3,02h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 02h00: Sem informação
+4,03h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 03h00: Sem informação
+5,04h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 04h00: Sem informação
+6,05h00,4,Bragança,NA,Sem informação,#C8C7BB,Bragança às 05h00: Sem informação
+7,06h00,4,Bragança,3,Laranja,#E5883B,Bragança às 06h00: Laranja
+8,07h00,4,Bragança,3,Laranja,#E5883B,Bragança às 07h00: Laranja
+9,08h00,4,Bragança,3,Laranja,#E5883B,Bragança às 08h00: Laranja
+10,09h00,4,Bragança,3,Laranja,#E5883B,Bragança às 09h00: Laranja
+11,10h00,4,Bragança,3,Laranja,#E5883B,Bragança às 10h00: Laranja
+12,11h00,4,Bragança,3,Laranja,#E5883B,Bragança às 11h00: Laranja
+13,12h00,4,Bragança,3,Laranja,#E5883B,Bragança às 12h00: Laranja
+14,13h00,4,Bragança,3,Laranja,#E5883B,Bragança às 13h00: Laranja
+15,14h00,4,Bragança,3,Laranja,#E5883B,Bragança às 14h00: Laranja
+16,15h00,4,Bragança,3,Laranja,#E5883B,Bragança às 15h00: Laranja
+17,16h00,4,Bragança,3,Laranja,#E5883B,Bragança às 16h00: Laranja
+18,17h00,4,Bragança,3,Laranja,#E5883B,Bragança às 17h00: Laranja
+19,18h00,4,Bragança,3,Laranja,#E5883B,Bragança às 18h00: Laranja
+20,19h00,4,Bragança,2,Amarelo,#FADF4B,Bragança às 19h00: Amarelo
+21,20h00,4,Bragança,2,Amarelo,#FADF4B,Bragança às 20h00: Amarelo
+22,21h00,4,Bragança,2,Amarelo,#FADF4B,Bragança às 21h00: Amarelo
+23,22h00,4,Bragança,2,Amarelo,#FADF4B,Bragança às 22h00: Amarelo
+24,23h00,4,Bragança,2,Amarelo,#FADF4B,Bragança às 23h00: Amarelo
+1,00h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 00h00: Sem informação
+2,01h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 01h00: Sem informação
+3,02h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 02h00: Sem informação
+4,03h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 03h00: Sem informação
+5,04h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 04h00: Sem informação
+6,05h00,5,Castelo Branco,NA,Sem informação,#C8C7BB,Castelo Branco às 05h00: Sem informação
+7,06h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 06h00: Amarelo
+8,07h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 07h00: Amarelo
+9,08h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 08h00: Amarelo
+10,09h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 09h00: Amarelo
+11,10h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 10h00: Amarelo
+12,11h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 11h00: Amarelo
+13,12h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 12h00: Amarelo
+14,13h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 13h00: Amarelo
+15,14h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 14h00: Amarelo
+16,15h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 15h00: Amarelo
+17,16h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 16h00: Amarelo
+18,17h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 17h00: Amarelo
+19,18h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 18h00: Amarelo
+20,19h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 19h00: Amarelo
+21,20h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 20h00: Amarelo
+22,21h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 21h00: Amarelo
+23,22h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 22h00: Amarelo
+24,23h00,5,Castelo Branco,2,Amarelo,#FADF4B,Castelo Branco às 23h00: Amarelo
+1,00h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 00h00: Sem informação
+2,01h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 01h00: Sem informação
+3,02h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 02h00: Sem informação
+4,03h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 03h00: Sem informação
+5,04h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 04h00: Sem informação
+6,05h00,6,Coimbra,NA,Sem informação,#C8C7BB,Coimbra às 05h00: Sem informação
+7,06h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 06h00: Amarelo
+8,07h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 07h00: Amarelo
+9,08h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 08h00: Amarelo
+10,09h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 09h00: Amarelo
+11,10h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 10h00: Amarelo
+12,11h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 11h00: Amarelo
+13,12h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 12h00: Amarelo
+14,13h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 13h00: Amarelo
+15,14h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 14h00: Amarelo
+16,15h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 15h00: Amarelo
+17,16h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 16h00: Amarelo
+18,17h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 17h00: Amarelo
+19,18h00,6,Coimbra,2,Amarelo,#FADF4B,Coimbra às 18h00: Amarelo
+20,19h00,6,Coimbra,1,Verde,#B9D153,Coimbra às 19h00: Verde
+21,20h00,6,Coimbra,1,Verde,#B9D153,Coimbra às 20h00: Verde
+22,21h00,6,Coimbra,1,Verde,#B9D153,Coimbra às 21h00: Verde
+23,22h00,6,Coimbra,1,Verde,#B9D153,Coimbra às 22h00: Verde
+24,23h00,6,Coimbra,1,Verde,#B9D153,Coimbra às 23h00: Verde
+1,00h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 00h00: Sem informação
+2,01h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 01h00: Sem informação
+3,02h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 02h00: Sem informação
+4,03h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 03h00: Sem informação
+5,04h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 04h00: Sem informação
+6,05h00,7,Évora,NA,Sem informação,#C8C7BB,Évora às 05h00: Sem informação
+7,06h00,7,Évora,2,Amarelo,#FADF4B,Évora às 06h00: Amarelo
+8,07h00,7,Évora,2,Amarelo,#FADF4B,Évora às 07h00: Amarelo
+9,08h00,7,Évora,2,Amarelo,#FADF4B,Évora às 08h00: Amarelo
+10,09h00,7,Évora,2,Amarelo,#FADF4B,Évora às 09h00: Amarelo
+11,10h00,7,Évora,2,Amarelo,#FADF4B,Évora às 10h00: Amarelo
+12,11h00,7,Évora,2,Amarelo,#FADF4B,Évora às 11h00: Amarelo
+13,12h00,7,Évora,2,Amarelo,#FADF4B,Évora às 12h00: Amarelo
+14,13h00,7,Évora,2,Amarelo,#FADF4B,Évora às 13h00: Amarelo
+15,14h00,7,Évora,2,Amarelo,#FADF4B,Évora às 14h00: Amarelo
+16,15h00,7,Évora,2,Amarelo,#FADF4B,Évora às 15h00: Amarelo
+17,16h00,7,Évora,2,Amarelo,#FADF4B,Évora às 16h00: Amarelo
+18,17h00,7,Évora,2,Amarelo,#FADF4B,Évora às 17h00: Amarelo
+19,18h00,7,Évora,2,Amarelo,#FADF4B,Évora às 18h00: Amarelo
+20,19h00,7,Évora,2,Amarelo,#FADF4B,Évora às 19h00: Amarelo
+21,20h00,7,Évora,2,Amarelo,#FADF4B,Évora às 20h00: Amarelo
+22,21h00,7,Évora,2,Amarelo,#FADF4B,Évora às 21h00: Amarelo
+23,22h00,7,Évora,2,Amarelo,#FADF4B,Évora às 22h00: Amarelo
+24,23h00,7,Évora,2,Amarelo,#FADF4B,Évora às 23h00: Amarelo
+1,00h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 00h00: Sem informação
+2,01h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 01h00: Sem informação
+3,02h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 02h00: Sem informação
+4,03h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 03h00: Sem informação
+5,04h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 04h00: Sem informação
+6,05h00,8,Faro,NA,Sem informação,#C8C7BB,Faro às 05h00: Sem informação
+7,06h00,8,Faro,2,Amarelo,#FADF4B,Faro às 06h00: Amarelo
+8,07h00,8,Faro,2,Amarelo,#FADF4B,Faro às 07h00: Amarelo
+9,08h00,8,Faro,2,Amarelo,#FADF4B,Faro às 08h00: Amarelo
+10,09h00,8,Faro,2,Amarelo,#FADF4B,Faro às 09h00: Amarelo
+11,10h00,8,Faro,2,Amarelo,#FADF4B,Faro às 10h00: Amarelo
+12,11h00,8,Faro,2,Amarelo,#FADF4B,Faro às 11h00: Amarelo
+13,12h00,8,Faro,2,Amarelo,#FADF4B,Faro às 12h00: Amarelo
+14,13h00,8,Faro,2,Amarelo,#FADF4B,Faro às 13h00: Amarelo
+15,14h00,8,Faro,2,Amarelo,#FADF4B,Faro às 14h00: Amarelo
+16,15h00,8,Faro,2,Amarelo,#FADF4B,Faro às 15h00: Amarelo
+17,16h00,8,Faro,2,Amarelo,#FADF4B,Faro às 16h00: Amarelo
+18,17h00,8,Faro,2,Amarelo,#FADF4B,Faro às 17h00: Amarelo
+19,18h00,8,Faro,2,Amarelo,#FADF4B,Faro às 18h00: Amarelo
+20,19h00,8,Faro,1,Verde,#B9D153,Faro às 19h00: Verde
+21,20h00,8,Faro,1,Verde,#B9D153,Faro às 20h00: Verde
+22,21h00,8,Faro,1,Verde,#B9D153,Faro às 21h00: Verde
+23,22h00,8,Faro,1,Verde,#B9D153,Faro às 22h00: Verde
+24,23h00,8,Faro,1,Verde,#B9D153,Faro às 23h00: Verde
+1,00h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 00h00: Sem informação
+2,01h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 01h00: Sem informação
+3,02h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 02h00: Sem informação
+4,03h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 03h00: Sem informação
+5,04h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 04h00: Sem informação
+6,05h00,9,Guarda,NA,Sem informação,#C8C7BB,Guarda às 05h00: Sem informação
+7,06h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 06h00: Amarelo
+8,07h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 07h00: Amarelo
+9,08h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 08h00: Amarelo
+10,09h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 09h00: Amarelo
+11,10h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 10h00: Amarelo
+12,11h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 11h00: Amarelo
+13,12h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 12h00: Amarelo
+14,13h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 13h00: Amarelo
+15,14h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 14h00: Amarelo
+16,15h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 15h00: Amarelo
+17,16h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 16h00: Amarelo
+18,17h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 17h00: Amarelo
+19,18h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 18h00: Amarelo
+20,19h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 19h00: Amarelo
+21,20h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 20h00: Amarelo
+22,21h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 21h00: Amarelo
+23,22h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 22h00: Amarelo
+24,23h00,9,Guarda,2,Amarelo,#FADF4B,Guarda às 23h00: Amarelo
+1,00h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 00h00: Sem informação
+2,01h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 01h00: Sem informação
+3,02h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 02h00: Sem informação
+4,03h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 03h00: Sem informação
+5,04h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 04h00: Sem informação
+6,05h00,10,Leiria,NA,Sem informação,#C8C7BB,Leiria às 05h00: Sem informação
+7,06h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 06h00: Amarelo
+8,07h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 07h00: Amarelo
+9,08h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 08h00: Amarelo
+10,09h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 09h00: Amarelo
+11,10h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 10h00: Amarelo
+12,11h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 11h00: Amarelo
+13,12h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 12h00: Amarelo
+14,13h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 13h00: Amarelo
+15,14h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 14h00: Amarelo
+16,15h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 15h00: Amarelo
+17,16h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 16h00: Amarelo
+18,17h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 17h00: Amarelo
+19,18h00,10,Leiria,2,Amarelo,#FADF4B,Leiria às 18h00: Amarelo
+20,19h00,10,Leiria,1,Verde,#B9D153,Leiria às 19h00: Verde
+21,20h00,10,Leiria,1,Verde,#B9D153,Leiria às 20h00: Verde
+22,21h00,10,Leiria,1,Verde,#B9D153,Leiria às 21h00: Verde
+23,22h00,10,Leiria,1,Verde,#B9D153,Leiria às 22h00: Verde
+24,23h00,10,Leiria,1,Verde,#B9D153,Leiria às 23h00: Verde
+1,00h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 00h00: Sem informação
+2,01h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 01h00: Sem informação
+3,02h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 02h00: Sem informação
+4,03h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 03h00: Sem informação
+5,04h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 04h00: Sem informação
+6,05h00,11,Lisboa,NA,Sem informação,#C8C7BB,Lisboa às 05h00: Sem informação
+7,06h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 06h00: Amarelo
+8,07h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 07h00: Amarelo
+9,08h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 08h00: Amarelo
+10,09h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 09h00: Amarelo
+11,10h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 10h00: Amarelo
+12,11h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 11h00: Amarelo
+13,12h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 12h00: Amarelo
+14,13h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 13h00: Amarelo
+15,14h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 14h00: Amarelo
+16,15h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 15h00: Amarelo
+17,16h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 16h00: Amarelo
+18,17h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 17h00: Amarelo
+19,18h00,11,Lisboa,2,Amarelo,#FADF4B,Lisboa às 18h00: Amarelo
+20,19h00,11,Lisboa,1,Verde,#B9D153,Lisboa às 19h00: Verde
+21,20h00,11,Lisboa,1,Verde,#B9D153,Lisboa às 20h00: Verde
+22,21h00,11,Lisboa,1,Verde,#B9D153,Lisboa às 21h00: Verde
+23,22h00,11,Lisboa,1,Verde,#B9D153,Lisboa às 22h00: Verde
+24,23h00,11,Lisboa,1,Verde,#B9D153,Lisboa às 23h00: Verde
+1,00h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 00h00: Sem informação
+2,01h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 01h00: Sem informação
+3,02h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 02h00: Sem informação
+4,03h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 03h00: Sem informação
+5,04h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 04h00: Sem informação
+6,05h00,12,Penhas Douradas,NA,Sem informação,#C8C7BB,Penhas Douradas às 05h00: Sem informação
+7,06h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 06h00: Amarelo
+8,07h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 07h00: Amarelo
+9,08h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 08h00: Amarelo
+10,09h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 09h00: Amarelo
+11,10h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 10h00: Amarelo
+12,11h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 11h00: Amarelo
+13,12h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 12h00: Amarelo
+14,13h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 13h00: Amarelo
+15,14h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 14h00: Amarelo
+16,15h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 15h00: Amarelo
+17,16h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 16h00: Amarelo
+18,17h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 17h00: Amarelo
+19,18h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 18h00: Amarelo
+20,19h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 19h00: Amarelo
+21,20h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 20h00: Amarelo
+22,21h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 21h00: Amarelo
+23,22h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 22h00: Amarelo
+24,23h00,12,Penhas Douradas,2,Amarelo,#FADF4B,Penhas Douradas às 23h00: Amarelo
+1,00h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 00h00: Sem informação
+2,01h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 01h00: Sem informação
+3,02h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 02h00: Sem informação
+4,03h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 03h00: Sem informação
+5,04h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 04h00: Sem informação
+6,05h00,13,Portalegre,NA,Sem informação,#C8C7BB,Portalegre às 05h00: Sem informação
+7,06h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 06h00: Amarelo
+8,07h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 07h00: Amarelo
+9,08h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 08h00: Amarelo
+10,09h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 09h00: Amarelo
+11,10h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 10h00: Amarelo
+12,11h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 11h00: Amarelo
+13,12h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 12h00: Amarelo
+14,13h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 13h00: Amarelo
+15,14h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 14h00: Amarelo
+16,15h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 15h00: Amarelo
+17,16h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 16h00: Amarelo
+18,17h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 17h00: Amarelo
+19,18h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 18h00: Amarelo
+20,19h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 19h00: Amarelo
+21,20h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 20h00: Amarelo
+22,21h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 21h00: Amarelo
+23,22h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 22h00: Amarelo
+24,23h00,13,Portalegre,2,Amarelo,#FADF4B,Portalegre às 23h00: Amarelo
+1,00h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 00h00: Sem informação
+2,01h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 01h00: Sem informação
+3,02h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 02h00: Sem informação
+4,03h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 03h00: Sem informação
+5,04h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 04h00: Sem informação
+6,05h00,14,Portimão,NA,Sem informação,#C8C7BB,Portimão às 05h00: Sem informação
+7,06h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 06h00: Amarelo
+8,07h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 07h00: Amarelo
+9,08h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 08h00: Amarelo
+10,09h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 09h00: Amarelo
+11,10h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 10h00: Amarelo
+12,11h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 11h00: Amarelo
+13,12h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 12h00: Amarelo
+14,13h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 13h00: Amarelo
+15,14h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 14h00: Amarelo
+16,15h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 15h00: Amarelo
+17,16h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 16h00: Amarelo
+18,17h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 17h00: Amarelo
+19,18h00,14,Portimão,2,Amarelo,#FADF4B,Portimão às 18h00: Amarelo
+20,19h00,14,Portimão,1,Verde,#B9D153,Portimão às 19h00: Verde
+21,20h00,14,Portimão,1,Verde,#B9D153,Portimão às 20h00: Verde
+22,21h00,14,Portimão,1,Verde,#B9D153,Portimão às 21h00: Verde
+23,22h00,14,Portimão,1,Verde,#B9D153,Portimão às 22h00: Verde
+24,23h00,14,Portimão,1,Verde,#B9D153,Portimão às 23h00: Verde
+1,00h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 00h00: Sem informação
+2,01h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 01h00: Sem informação
+3,02h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 02h00: Sem informação
+4,03h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 03h00: Sem informação
+5,04h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 04h00: Sem informação
+6,05h00,15,Porto,NA,Sem informação,#C8C7BB,Porto às 05h00: Sem informação
+7,06h00,15,Porto,2,Amarelo,#FADF4B,Porto às 06h00: Amarelo
+8,07h00,15,Porto,2,Amarelo,#FADF4B,Porto às 07h00: Amarelo
+9,08h00,15,Porto,2,Amarelo,#FADF4B,Porto às 08h00: Amarelo
+10,09h00,15,Porto,2,Amarelo,#FADF4B,Porto às 09h00: Amarelo
+11,10h00,15,Porto,2,Amarelo,#FADF4B,Porto às 10h00: Amarelo
+12,11h00,15,Porto,2,Amarelo,#FADF4B,Porto às 11h00: Amarelo
+13,12h00,15,Porto,2,Amarelo,#FADF4B,Porto às 12h00: Amarelo
+14,13h00,15,Porto,2,Amarelo,#FADF4B,Porto às 13h00: Amarelo
+15,14h00,15,Porto,2,Amarelo,#FADF4B,Porto às 14h00: Amarelo
+16,15h00,15,Porto,2,Amarelo,#FADF4B,Porto às 15h00: Amarelo
+17,16h00,15,Porto,2,Amarelo,#FADF4B,Porto às 16h00: Amarelo
+18,17h00,15,Porto,2,Amarelo,#FADF4B,Porto às 17h00: Amarelo
+19,18h00,15,Porto,2,Amarelo,#FADF4B,Porto às 18h00: Amarelo
+20,19h00,15,Porto,1,Verde,#B9D153,Porto às 19h00: Verde
+21,20h00,15,Porto,1,Verde,#B9D153,Porto às 20h00: Verde
+22,21h00,15,Porto,1,Verde,#B9D153,Porto às 21h00: Verde
+23,22h00,15,Porto,1,Verde,#B9D153,Porto às 22h00: Verde
+24,23h00,15,Porto,1,Verde,#B9D153,Porto às 23h00: Verde
+1,00h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 00h00: Sem informação
+2,01h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 01h00: Sem informação
+3,02h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 02h00: Sem informação
+4,03h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 03h00: Sem informação
+5,04h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 04h00: Sem informação
+6,05h00,16,Santarém,NA,Sem informação,#C8C7BB,Santarém às 05h00: Sem informação
+7,06h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 06h00: Amarelo
+8,07h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 07h00: Amarelo
+9,08h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 08h00: Amarelo
+10,09h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 09h00: Amarelo
+11,10h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 10h00: Amarelo
+12,11h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 11h00: Amarelo
+13,12h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 12h00: Amarelo
+14,13h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 13h00: Amarelo
+15,14h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 14h00: Amarelo
+16,15h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 15h00: Amarelo
+17,16h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 16h00: Amarelo
+18,17h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 17h00: Amarelo
+19,18h00,16,Santarém,2,Amarelo,#FADF4B,Santarém às 18h00: Amarelo
+20,19h00,16,Santarém,1,Verde,#B9D153,Santarém às 19h00: Verde
+21,20h00,16,Santarém,1,Verde,#B9D153,Santarém às 20h00: Verde
+22,21h00,16,Santarém,1,Verde,#B9D153,Santarém às 21h00: Verde
+23,22h00,16,Santarém,1,Verde,#B9D153,Santarém às 22h00: Verde
+24,23h00,16,Santarém,1,Verde,#B9D153,Santarém às 23h00: Verde
+1,00h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 00h00: Sem informação
+2,01h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 01h00: Sem informação
+3,02h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 02h00: Sem informação
+4,03h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 03h00: Sem informação
+5,04h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 04h00: Sem informação
+6,05h00,17,Setúbal,NA,Sem informação,#C8C7BB,Setúbal às 05h00: Sem informação
+7,06h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 06h00: Amarelo
+8,07h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 07h00: Amarelo
+9,08h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 08h00: Amarelo
+10,09h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 09h00: Amarelo
+11,10h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 10h00: Amarelo
+12,11h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 11h00: Amarelo
+13,12h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 12h00: Amarelo
+14,13h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 13h00: Amarelo
+15,14h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 14h00: Amarelo
+16,15h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 15h00: Amarelo
+17,16h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 16h00: Amarelo
+18,17h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 17h00: Amarelo
+19,18h00,17,Setúbal,2,Amarelo,#FADF4B,Setúbal às 18h00: Amarelo
+20,19h00,17,Setúbal,1,Verde,#B9D153,Setúbal às 19h00: Verde
+21,20h00,17,Setúbal,1,Verde,#B9D153,Setúbal às 20h00: Verde
+22,21h00,17,Setúbal,1,Verde,#B9D153,Setúbal às 21h00: Verde
+23,22h00,17,Setúbal,1,Verde,#B9D153,Setúbal às 22h00: Verde
+24,23h00,17,Setúbal,1,Verde,#B9D153,Setúbal às 23h00: Verde
+1,00h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 00h00: Sem informação
+2,01h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 01h00: Sem informação
+3,02h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 02h00: Sem informação
+4,03h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 03h00: Sem informação
+5,04h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 04h00: Sem informação
+6,05h00,18,Sines,NA,Sem informação,#C8C7BB,Sines às 05h00: Sem informação
+7,06h00,18,Sines,2,Amarelo,#FADF4B,Sines às 06h00: Amarelo
+8,07h00,18,Sines,2,Amarelo,#FADF4B,Sines às 07h00: Amarelo
+9,08h00,18,Sines,2,Amarelo,#FADF4B,Sines às 08h00: Amarelo
+10,09h00,18,Sines,2,Amarelo,#FADF4B,Sines às 09h00: Amarelo
+11,10h00,18,Sines,2,Amarelo,#FADF4B,Sines às 10h00: Amarelo
+12,11h00,18,Sines,2,Amarelo,#FADF4B,Sines às 11h00: Amarelo
+13,12h00,18,Sines,2,Amarelo,#FADF4B,Sines às 12h00: Amarelo
+14,13h00,18,Sines,2,Amarelo,#FADF4B,Sines às 13h00: Amarelo
+15,14h00,18,Sines,2,Amarelo,#FADF4B,Sines às 14h00: Amarelo
+16,15h00,18,Sines,2,Amarelo,#FADF4B,Sines às 15h00: Amarelo
+17,16h00,18,Sines,2,Amarelo,#FADF4B,Sines às 16h00: Amarelo
+18,17h00,18,Sines,2,Amarelo,#FADF4B,Sines às 17h00: Amarelo
+19,18h00,18,Sines,2,Amarelo,#FADF4B,Sines às 18h00: Amarelo
+20,19h00,18,Sines,1,Verde,#B9D153,Sines às 19h00: Verde
+21,20h00,18,Sines,1,Verde,#B9D153,Sines às 20h00: Verde
+22,21h00,18,Sines,1,Verde,#B9D153,Sines às 21h00: Verde
+23,22h00,18,Sines,1,Verde,#B9D153,Sines às 22h00: Verde
+24,23h00,18,Sines,1,Verde,#B9D153,Sines às 23h00: Verde
+1,00h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 00h00: Sem informação
+2,01h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 01h00: Sem informação
+3,02h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 02h00: Sem informação
+4,03h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 03h00: Sem informação
+5,04h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 04h00: Sem informação
+6,05h00,19,Viana do Castelo,NA,Sem informação,#C8C7BB,Viana do Castelo às 05h00: Sem informação
+7,06h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 06h00: Amarelo
+8,07h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 07h00: Amarelo
+9,08h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 08h00: Amarelo
+10,09h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 09h00: Amarelo
+11,10h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 10h00: Amarelo
+12,11h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 11h00: Amarelo
+13,12h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 12h00: Amarelo
+14,13h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 13h00: Amarelo
+15,14h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 14h00: Amarelo
+16,15h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 15h00: Amarelo
+17,16h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 16h00: Amarelo
+18,17h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 17h00: Amarelo
+19,18h00,19,Viana do Castelo,2,Amarelo,#FADF4B,Viana do Castelo às 18h00: Amarelo
+20,19h00,19,Viana do Castelo,1,Verde,#B9D153,Viana do Castelo às 19h00: Verde
+21,20h00,19,Viana do Castelo,1,Verde,#B9D153,Viana do Castelo às 20h00: Verde
+22,21h00,19,Viana do Castelo,1,Verde,#B9D153,Viana do Castelo às 21h00: Verde
+23,22h00,19,Viana do Castelo,1,Verde,#B9D153,Viana do Castelo às 22h00: Verde
+24,23h00,19,Viana do Castelo,1,Verde,#B9D153,Viana do Castelo às 23h00: Verde
+1,00h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 00h00: Sem informação
+2,01h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 01h00: Sem informação
+3,02h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 02h00: Sem informação
+4,03h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 03h00: Sem informação
+5,04h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 04h00: Sem informação
+6,05h00,20,Vila Real,NA,Sem informação,#C8C7BB,Vila Real às 05h00: Sem informação
+7,06h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 06h00: Laranja
+8,07h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 07h00: Laranja
+9,08h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 08h00: Laranja
+10,09h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 09h00: Laranja
+11,10h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 10h00: Laranja
+12,11h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 11h00: Laranja
+13,12h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 12h00: Laranja
+14,13h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 13h00: Laranja
+15,14h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 14h00: Laranja
+16,15h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 15h00: Laranja
+17,16h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 16h00: Laranja
+18,17h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 17h00: Laranja
+19,18h00,20,Vila Real,3,Laranja,#E5883B,Vila Real às 18h00: Laranja
+20,19h00,20,Vila Real,2,Amarelo,#FADF4B,Vila Real às 19h00: Amarelo
+21,20h00,20,Vila Real,2,Amarelo,#FADF4B,Vila Real às 20h00: Amarelo
+22,21h00,20,Vila Real,2,Amarelo,#FADF4B,Vila Real às 21h00: Amarelo
+23,22h00,20,Vila Real,2,Amarelo,#FADF4B,Vila Real às 22h00: Amarelo
+24,23h00,20,Vila Real,2,Amarelo,#FADF4B,Vila Real às 23h00: Amarelo
+1,00h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 00h00: Sem informação
+2,01h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 01h00: Sem informação
+3,02h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 02h00: Sem informação
+4,03h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 03h00: Sem informação
+5,04h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 04h00: Sem informação
+6,05h00,21,Viseu,NA,Sem informação,#C8C7BB,Viseu às 05h00: Sem informação
+7,06h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 06h00: Amarelo
+8,07h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 07h00: Amarelo
+9,08h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 08h00: Amarelo
+10,09h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 09h00: Amarelo
+11,10h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 10h00: Amarelo
+12,11h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 11h00: Amarelo
+13,12h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 12h00: Amarelo
+14,13h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 13h00: Amarelo
+15,14h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 14h00: Amarelo
+16,15h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 15h00: Amarelo
+17,16h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 16h00: Amarelo
+18,17h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 17h00: Amarelo
+19,18h00,21,Viseu,2,Amarelo,#FADF4B,Viseu às 18h00: Amarelo
+20,19h00,21,Viseu,1,Verde,#B9D153,Viseu às 19h00: Verde
+21,20h00,21,Viseu,1,Verde,#B9D153,Viseu às 20h00: Verde
+22,21h00,21,Viseu,1,Verde,#B9D153,Viseu às 21h00: Verde
+23,22h00,21,Viseu,1,Verde,#B9D153,Viseu às 22h00: Verde
+24,23h00,21,Viseu,1,Verde,#B9D153,Viseu às 23h00: Verde
