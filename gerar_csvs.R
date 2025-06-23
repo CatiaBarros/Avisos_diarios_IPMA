@@ -1,4 +1,3 @@
-
 # Instalar pacotes se necessário
 # install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr", "stringi"))
 
@@ -33,13 +32,12 @@ avisos_com_local <- left_join(dados_avisos, distritos_df, by = "idAreaAviso")
 avisos_com_local <- avisos_com_local %>%
   mutate(
     awarenessLevelID = recode(awarenessLevelID,
-                              "green" = "1",
-                              "yellow" = "2",
-                              "orange" = "3",
-                              "red" = "4",
-                              "grey" = "0")
+                              "green" = "Verde@@1",
+                              "yellow" = "Amarelo@@2",
+                              "orange" = "Laranja@@3",
+                              "red" = "Vermelho@@4",
+                              "grey" = "Sem informação@@0")
   )
-
 
 # Obter os tipos únicos de aviso
 tipos <- unique(avisos_com_local$awarenessTypeName)
@@ -48,12 +46,11 @@ tipos <- tipos[!is.na(tipos)]  # remover NA
 # Horas do dia como fator ordenado
 horas_do_dia <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%H:%M")
 
-# Lista de locais permitidos
+# Lista de distritos permitidos (exclui locais que não são distritos)
 locais_desejados <- c(
   "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Faro",
-  "Guarda", "Leiria", "Lisboa", "Penhas Douradas", "Portalegre", "Portimão",
-  "Porto", "Santarém", "Setúbal", "Sines", "Viana do Castelo", "Vila Real",
-  "Viseu", "Évora"
+  "Guarda", "Leiria", "Lisboa", "Portalegre", "Porto", "Santarém", "Setúbal",
+  "Viana do Castelo", "Vila Real", "Viseu", "Évora"
 )
 
 # Loop por cada tipo de aviso
@@ -96,8 +93,20 @@ for (tipo in tipos) {
   # Só guarda se houver dados para hoje
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
-    write_csv(expandido, nome_ficheiro)
-    cat("✅ Ficheiro criado:", nome_ficheiro, "\n")
+
+    # Cabeçalhos personalizados
+    primeira_linha <- c("Distrito", "00h~~~23h", rep("", length(horas_do_dia) - 1))
+    segunda_linha <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%Hh%M")
+
+    # Escrever manualmente as duas primeiras linhas
+    con <- file(nome_ficheiro, open = "w", encoding = "UTF-8")
+    writeLines(paste(primeira_linha, collapse = ","), con)
+    writeLines(paste(c(" ", segunda_linha), collapse = ","), con)
+    close(con)
+
+    # Escrever o restante do conteúdo, sem cabeçalho
+    write_csv(expandido, nome_ficheiro, append = TRUE, col_names = FALSE)
+    cat("✅ Ficheiro criado com cabeçalhos personalizados:", nome_ficheiro, "\n")
   } else {
     cat("⚠️ Sem dados para hoje em:", tipo, "\n")
   }
