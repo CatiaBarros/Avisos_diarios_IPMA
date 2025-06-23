@@ -47,7 +47,7 @@ tipos <- tipos[!is.na(tipos)]  # remover NA
 horas_do_dia <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%H:%M")
 colunas_horas <- format(seq(ISOdatetime(2000,1,1,0,0,0), by = "1 hour", length.out = 24), "%Hh%M")
 
-# Lista de distritos permitidos (exclui locais que não são distritos)
+# Lista de distritos permitidos
 locais_desejados <- c(
   "Aveiro", "Beja", "Braga", "Bragança", "Castelo Branco", "Coimbra", "Faro",
   "Guarda", "Leiria", "Lisboa", "Portalegre", "Porto", "Santarém", "Setúbal",
@@ -94,13 +94,18 @@ for (tipo in tipos) {
   # Substituir NAs por "Sem informação@@0"
   expandido[is.na(expandido)] <- "Sem informação@@0"
 
+  # Adicionar coluna "label" com vazio
+  expandido <- expandido %>%
+    mutate(label = "") %>%
+    relocate(label, .after = local)
+
   # Só guarda se houver dados para hoje
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
 
     # Cabeçalhos personalizados
-    primeira_linha <- c("Distrito", colunas_horas)
-    segunda_linha <- c("Distrito", "00h~~~23h", rep("", length(colunas_horas) - 1))
+    primeira_linha <- c("distrito", "label", colunas_horas)
+    segunda_linha <- c("Distrito", "00h~~~23h", rep("", length(colunas_horas)))
 
     # Escrever manualmente as duas primeiras linhas
     con <- file(nome_ficheiro, open = "w", encoding = "UTF-8")
@@ -108,7 +113,7 @@ for (tipo in tipos) {
     writeLines(paste(segunda_linha, collapse = ","), con)
     close(con)
 
-    # Escrever o restante do conteúdo, sem cabeçalho
+    # Escrever os dados (sem cabeçalho)
     write_csv(expandido, nome_ficheiro, append = TRUE, col_names = FALSE)
     cat("✅ Ficheiro criado com cabeçalhos personalizados:", nome_ficheiro, "\n")
   } else {
