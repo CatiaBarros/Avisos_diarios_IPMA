@@ -54,12 +54,8 @@ locais_desejados <- c(
   "Viana do Castelo", "Vila Real", "Viseu", "Évora"
 )
 
-# HTML para a label
-html_label <- '<span style="display:block; text-align:center; font-family:monospace; font-size:13px;">
-  <span style="float:left; font-weight:bold;">00h</span>
-  <span style="float:right; font-weight:bold; margin-right:-1.1em;">23h</span>
-  <span style="display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;"></span>
-</span>'
+# HTML numa única linha para a label
+html_label <- '<span style="display:block; text-align:center; font-family:monospace; font-size:13px;"><span style="float:left; font-weight:bold;">00h</span><span style="float:right; font-weight:bold; margin-right:-1.1em;">23h</span><span style="display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;"></span></span>'
 
 # Loop por cada tipo de aviso
 for (tipo in tipos) {
