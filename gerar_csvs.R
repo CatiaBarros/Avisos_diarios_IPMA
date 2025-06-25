@@ -54,6 +54,13 @@ locais_desejados <- c(
   "Viana do Castelo", "Vila Real", "Viseu", "Évora"
 )
 
+# HTML para a label
+html_label <- '<span style="display:block; text-align:center; font-family:monospace; font-size:13px;">
+  <span style="float:left; font-weight:bold;">00h</span>
+  <span style="float:right; font-weight:bold; margin-right:-1.1em;">23h</span>
+  <span style="display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;"></span>
+</span>'
+
 # Loop por cada tipo de aviso
 for (tipo in tipos) {
   cat("🔄 A processar:", tipo, "\n")
@@ -105,7 +112,7 @@ for (tipo in tipos) {
 
     # Cabeçalhos personalizados
     primeira_linha <- c("distrito", "label", colunas_horas)
-    segunda_linha <- c("Distrito", "00h~~~23h", rep("", length(colunas_horas)))
+    segunda_linha <- c("Distrito", html_label, rep("", length(colunas_horas)))
 
     # Escrever manualmente as duas primeiras linhas
     con <- file(nome_ficheiro, open = "w", encoding = "UTF-8")
