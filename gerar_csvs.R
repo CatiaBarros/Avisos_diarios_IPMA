@@ -54,8 +54,8 @@ locais_desejados <- c(
   "Viana do Castelo", "Vila Real", "Viseu", "Évora"
 )
 
-# HTML numa única linha para a label
-html_label <- '<span style="display:block; text-align:center; font-family:monospace; font-size:13px;"><span style="float:left; font-weight:bold;">00h</span><span style="float:right; font-weight:bold; margin-right:-1.1em;">23h</span><span style="display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;"></span></span>'
+# HTML escapado para CSV (tudo numa célula)
+html_label <- "\"<span style=\\\"display:block; text-align:center; font-family:monospace; font-size:13px;\\\"><span style=\\\"float:left; font-weight:bold;\\\">00h</span><span style=\\\"float:right; font-weight:bold; margin-right:-1.1em;\\\">23h</span><span style=\\\"display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;\\\"></span></span>\""
 
 # Loop por cada tipo de aviso
 for (tipo in tipos) {
@@ -67,7 +67,6 @@ for (tipo in tipos) {
       startTime = ymd_hms(startTime, tz = "UTC"),
       endTime = ymd_hms(endTime, tz = "UTC")
     ) %>%
-    # Só incluir avisos que toquem o dia de hoje
     filter(as.Date(startTime) <= hoje & as.Date(endTime) >= hoje) %>%
     mutate(
       startTime = floor_date(startTime, unit = "hour"),
@@ -75,7 +74,6 @@ for (tipo in tipos) {
     ) %>%
     select(local, startTime, endTime, awarenessLevelID)
 
-  # Expandir intervalo de horas e preparar dados
   expandido <- tabela %>%
     rowwise() %>%
     mutate(datetime = list(seq(from = startTime, to = endTime, by = "1 hour"))) %>%
@@ -94,29 +92,23 @@ for (tipo in tipos) {
     select(-local_ord) %>%
     pivot_wider(names_from = hora, values_from = nivel)
 
-  # Substituir NAs por "Sem informação@@0"
   expandido[is.na(expandido)] <- "Sem informação@@0"
 
-  # Adicionar coluna "label" com vazio
   expandido <- expandido %>%
     mutate(label = "") %>%
     relocate(label, .after = local)
 
-  # Só guarda se houver dados para hoje
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
 
-    # Cabeçalhos personalizados
     primeira_linha <- c("distrito", "label", colunas_horas)
     segunda_linha <- c("Distrito", html_label, rep("", length(colunas_horas)))
 
-    # Escrever manualmente as duas primeiras linhas
     con <- file(nome_ficheiro, open = "w", encoding = "UTF-8")
     writeLines(paste(primeira_linha, collapse = ","), con)
     writeLines(paste(segunda_linha, collapse = ","), con)
     close(con)
 
-    # Escrever os dados (sem cabeçalho)
     write_csv(expandido, nome_ficheiro, append = TRUE, col_names = FALSE)
     cat("✅ Ficheiro criado com cabeçalhos personalizados:", nome_ficheiro, "\n")
   } else {
