@@ -2,8 +2,9 @@ name: Gerar CSVs de Avisos IPMA
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # Todos os dias à 00h de Portugal (23h UTC)
-  workflow_dispatch:      # Também permite execução manual
+    - cron: '0 6 * * *'    # 06h UTC = 07h em Portugal (principal)
+    - cron: '0 13 * * *'   # 13h UTC = 14h em Portugal (secundária, sem commit)
+  workflow_dispatch:
 
 jobs:
   gerar-avisos:
@@ -26,11 +27,21 @@ jobs:
           Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr"), repos = "https://cloud.r-project.org")'
           Rscript gerar_csvs.R
 
-      - name: Comitar e enviar os CSVs (com debug)
+      - name: Verificar se são 06h UTC
+        id: check_time
+        run: |
+          hora=$(date -u +"%H")
+          if [ "$hora" = "06" ]; then
+            echo "executar=true" >> $GITHUB_OUTPUT
+          else
+            echo "executar=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Comitar e enviar os CSVs (apenas às 06h UTC)
+        if: steps.check_time.outputs.executar == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -x
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git status
