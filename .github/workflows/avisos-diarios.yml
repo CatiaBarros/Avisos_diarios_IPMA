@@ -1,52 +1,33 @@
-name: Gerar CSVs de Avisos IPMA
+- name: Verificar alterações significativas e comitar se necessário
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    git config --global user.name 'github-actions[bot]'
+    git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    git add *.csv
 
-on:
-  schedule:
-    - cron: '0 6 * * *'    # 06h UTC = 07h em Portugal (principal)
-    - cron: '0 13 * * *'   # 13h UTC = 14h em Portugal (secundária, sem commit)
-  workflow_dispatch:
+    if git diff --cached --quiet; then
+      echo "🟡 Sem alterações nos CSVs."
+      if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+        echo "ℹ️ Execução manual — sem alterações relevantes. Nenhum commit foi feito."
+      fi
+      exit 0
+    fi
 
-jobs:
-  gerar-avisos:
-    runs-on: ubuntu-latest
+    ALTERACOES_UTEIS=$(git diff --cached \
+      | grep -E '^\+|^\-' \
+      | grep -vE '^(---|\+\+\+)' \
+      | grep -vE '(Sem informação@@0|NA)' || true)
 
-    steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Instalar R
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Instalar dependências do sistema
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
-
-      - name: Instalar pacotes R e executar script
-        run: |
-          Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr"), repos = "https://cloud.r-project.org")'
-          Rscript gerar_csvs.R
-
-      - name: Verificar se são 06h UTC
-        id: check_time
-        run: |
-          hora=$(date -u +"%H")
-          if [ "$hora" = "06" ]; then
-            echo "executar=true" >> $GITHUB_OUTPUT
-          else
-            echo "executar=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Comitar e enviar os CSVs (apenas às 06h UTC)
-        if: steps.check_time.outputs.executar == 'true'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git status
-          git add *.csv
-          TZ=Europe/Lisbon git commit --allow-empty -m "📦 Atualização diária de avisos IPMA - $(date +"%Y-%m-%d")"
-          git log -1 --oneline
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          git push origin HEAD:main
+    if [ -n "$ALTERACOES_UTEIS" ]; then
+      echo "✅ Encontradas alterações relevantes:"
+      echo "$ALTERACOES_UTEIS"
+      TZ=Europe/Lisbon git commit -m "📦 Atualização IPMA com alterações relevantes - $(date +"%Y-%m-%d %Hh")"
+      git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+      git push origin HEAD:main
+    else
+      echo "🟡 Apenas alterações triviais (Sem informação ou NA). Commit ignorado."
+      if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+        echo "ℹ️ Execução manual — sem alterações úteis. Nenhum commit foi feito."
+      fi
+    fi
