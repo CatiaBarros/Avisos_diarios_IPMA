@@ -54,7 +54,7 @@ locais_desejados <- c(
   "Viana do Castelo", "Vila Real", "Viseu", "Évora"
 )
 
-# HTML escapado para CSV (tudo numa célula)
+# HTML escapado para CSV
 html_label <- "\"<span style=\\\"display:block; text-align:center; font-family:monospace; font-size:13px;\\\"><span style=\\\"float:left; font-weight:bold;\\\">00h</span><span style=\\\"float:right; font-weight:bold; margin-right:-1.1em;\\\">23h</span><span style=\\\"display:inline-block; width:calc(100% - 3.4em); border-top:1.5px solid grey; margin-top:-4em;\\\"></span></span>\""
 
 # Loop por cada tipo de aviso
@@ -73,7 +73,7 @@ for (tipo in tipos) {
       endTime = ceiling_date(endTime, unit = "hour")
     ) %>%
     select(local, startTime, endTime, awarenessLevelID)
-
+  
   expandido <- tabela %>%
     rowwise() %>%
     mutate(datetime = list(seq(from = startTime, to = endTime, by = "1 hour"))) %>%
@@ -83,32 +83,33 @@ for (tipo in tipos) {
     mutate(hora = factor(hora, levels = horas_do_dia)) %>%
     select(local, hora, awarenessLevelID) %>%
     filter(local %in% locais_desejados) %>%
+    mutate(nivel_num = as.numeric(str_extract(awarenessLevelID, "\\d+$"))) %>%
     group_by(local, hora) %>%
-    summarise(nivel = max(awarenessLevelID, na.rm = TRUE), .groups = "drop") %>%
+    summarise(nivel = awarenessLevelID[which.max(nivel_num)], .groups = "drop") %>%
     ungroup() %>%
     complete(local, hora, fill = list(nivel = NA)) %>%
     mutate(local_ord = stri_trans_general(local, "Latin-ASCII")) %>%
     arrange(local_ord, hora) %>%
     select(-local_ord) %>%
     pivot_wider(names_from = hora, values_from = nivel)
-
+  
   expandido[is.na(expandido)] <- "Sem informação@@0"
-
+  
   expandido <- expandido %>%
     mutate(label = "") %>%
     relocate(label, .after = local)
-
+  
   if (nrow(expandido) > 0) {
     nome_ficheiro <- paste0("avisos_", str_replace_all(tolower(tipo), "[^a-z0-9]+", "_"), ".csv")
-
+    
     primeira_linha <- c("distrito", "label", colunas_horas)
     segunda_linha <- c("Distrito", html_label, rep("", length(colunas_horas)))
-
+    
     con <- file(nome_ficheiro, open = "w", encoding = "UTF-8")
     writeLines(paste(primeira_linha, collapse = ","), con)
     writeLines(paste(segunda_linha, collapse = ","), con)
     close(con)
-
+    
     write_csv(expandido, nome_ficheiro, append = TRUE, col_names = FALSE)
     cat("✅ Ficheiro criado com cabeçalhos personalizados:", nome_ficheiro, "\n")
   } else {
