@@ -122,7 +122,13 @@ cat("🎉 Todos os CSVs do dia foram gerados com sucesso!\n")
 
 # === Criar JSON com metadados da última atualização ===
 library(jsonlite)
-ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+library(lubridate)
+
+ultima_atualizacao <- format(
+  with_tz(Sys.time(), tzone = "Europe/Lisbon"),
+  "%Hh%M de %d/%m/%Y"
+)
+
 
 metadata_avisos <- list(
   annotate = list(
