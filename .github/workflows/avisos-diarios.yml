@@ -2,7 +2,7 @@ name: Gerar CSVs de Avisos IPMA
 
 on:
   schedule:
-      - cron: '0 0 * * *'  # 00h00 UTC = 01h00 em Portugal no verão
+    - cron: '0 0 * * *'  # 00h00 UTC = 01h00 em Portugal no verão
   workflow_dispatch:      # Também permite execução manual
 
 jobs:
@@ -23,20 +23,15 @@ jobs:
 
       - name: Instalar pacotes R e executar script
         run: |
-          Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr"), repos = "https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr", "stringi"), repos = "https://cloud.r-project.org")'
           Rscript gerar_csvs.R
 
-      - name: Comitar e enviar os CSVs (com debug)
+      - name: Comitar e enviar os ficheiros gerados
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -x
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git status
-          git add *.csv
+          git add *.csv metadata_avisos.json
           TZ=Europe/Lisbon git commit --allow-empty -m "📦 Atualização diária de avisos IPMA - $(date +"%Y-%m-%d")"
-          git log -1 --oneline
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:main
-
