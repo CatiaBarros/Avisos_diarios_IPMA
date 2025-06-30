@@ -1,11 +1,10 @@
 # Instalar pacotes se necessário
-# install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr", "stringi"))
+# install.packages(c("httr", "jsonlite", "dplyr", "readr", "tidyr", "stringr", "stringi"))
 
 library(httr)
 library(jsonlite)
 library(dplyr)
 library(readr)
-library(lubridate)
 library(tidyr)
 library(stringr)
 library(stringi)
@@ -64,13 +63,13 @@ for (tipo in tipos) {
   tabela <- avisos_com_local %>%
     filter(awarenessTypeName == tipo) %>%
     mutate(
-      startTime = ymd_hms(startTime, tz = "UTC"),
-      endTime = ymd_hms(endTime, tz = "UTC")
+      startTime = as.POSIXct(startTime, tz = "UTC"),
+      endTime = as.POSIXct(endTime, tz = "UTC")
     ) %>%
     filter(as.Date(startTime) <= hoje & as.Date(endTime) >= hoje) %>%
     mutate(
-      startTime = floor_date(startTime, unit = "hour"),
-      endTime = ceiling_date(endTime, unit = "hour")
+      startTime = as.POSIXct(format(startTime, "%Y-%m-%d %H:00:00"), tz = "UTC"),
+      endTime = as.POSIXct(format(endTime, "%Y-%m-%d %H:00:00"), tz = "UTC")
     ) %>%
     select(local, startTime, endTime, awarenessLevelID)
   
@@ -119,16 +118,13 @@ for (tipo in tipos) {
 
 cat("🎉 Todos os CSVs do dia foram gerados com sucesso!\n")
 
-
-# === Criar JSON com metadados da última atualização ===
-library(jsonlite)
-library(lubridate)
-
+# === Criar JSON com metadados da última atualização (sem lubridate) ===
 ultima_atualizacao <- format(
-  with_tz(Sys.time(), tzone = "Europe/Lisbon"),
-  "%Hh%M de %d/%m/%Y"
+  as.POSIXct(Sys.time(), tz = "UTC"),
+  tz = "Europe/Lisbon",
+  usetz = FALSE,
+  format = "%Hh%M de %d/%m/%Y"
 )
-
 
 metadata_avisos <- list(
   annotate = list(
@@ -138,4 +134,3 @@ metadata_avisos <- list(
 
 write_json(metadata_avisos, "metadata_avisos.json", pretty = TRUE, auto_unbox = TRUE)
 cat("✅ metadata_avisos.json criado com sucesso!\n")
-
