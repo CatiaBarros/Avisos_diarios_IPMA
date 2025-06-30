@@ -118,3 +118,18 @@ for (tipo in tipos) {
 }
 
 cat("🎉 Todos os CSVs do dia foram gerados com sucesso!\n")
+
+
+# === Criar JSON com metadados da última atualização ===
+library(jsonlite)
+ultima_atualizacao <- format(Sys.time(), "%Hh%M de %d/%m/%Y")
+
+metadata_avisos <- list(
+  annotate = list(
+    notes = paste0("Última atualização às ", ultima_atualizacao)
+  )
+)
+
+write_json(metadata_avisos, "metadata_avisos.json", pretty = TRUE, auto_unbox = TRUE)
+cat("✅ metadata_avisos.json criado com sucesso!\n")
+
