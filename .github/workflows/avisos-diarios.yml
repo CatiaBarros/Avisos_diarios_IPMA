@@ -31,8 +31,18 @@ jobs:
           use-public-rspm: true   # pacotes já compilados: instalação muito mais rápida
 
       - name: Instalar pacotes R
-        run: |
-          Rscript -e 'install.packages(c("httr", "jsonlite", "dplyr", "readr", "lubridate", "tidyr", "stringr", "stringi"))'
+        # Instala com pak e guarda em cache: os runs seguintes reaproveitam os pacotes
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr
+            any::jsonlite
+            any::dplyr
+            any::readr
+            any::lubridate
+            any::tidyr
+            any::stringr
+            any::stringi
 
       - name: Gerar CSVs
         run: Rscript gerar_csvs.R
